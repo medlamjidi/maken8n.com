@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Automation Marketplace</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0a0a0a;
+            min-height: 100vh;
+            color: #e5e7eb;
+            line-height: 1.6;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: rgba(10, 10, 10, 0.95);
+            backdrop-filter: blur(20px);
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(255, 140, 0, 0.1);
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 28px;
+            font-weight: 700;
+            color: #ff8c00;
+            text-decoration: none;
+        }
+
+        .nav-links {
+            display: flex;
+            list-style: none;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: #9ca3af;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover {
+            color: #ff8c00;
+        }
+
+        /* Theme Toggle Button */
+        .theme-toggle-btn {
+            background: #2a2a2a;
+            border: 1px solid #3a3a3a;
+            color: #e5e7eb;
+            padding: 8px 12px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            margin-left: 20px;
+        }
+
+        .theme-toggle-btn:hover {
+            background: #ff8c00;
+            color: white;
+            border-color: #ff8c00;
+        }
+
+
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 80px 0;
+            color: white;
+            background: linear-gradient(135deg, rgba(255, 140, 0, 0.05) 0%, rgba(255, 165, 0, 0.02) 100%);
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #ff8c00, #ffa500);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            opacity: 0.8;
+            color: #d1d5db;
+        }
+
+        /* Products Section */
+        .products-section {
+            padding: 80px 0;
+            background: #0a0a0a;
+        }
+
+        .products-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 50px;
+            gap: 30px;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #ff8c00;
+            white-space: nowrap;
+        }
+
+        .search-container {
+            position: relative;
+            flex: 1;
+            max-width: 400px;
+            margin-left: auto;
+        }
+
+        .search-bar {
+            width: 100%;
+            padding: 15px 20px;
+            padding-right: 50px;
+            background: #1a1a1a;
+            border: 2px solid #2a2a2a;
+            border-radius: 12px;
+            color: #e5e7eb;
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .search-bar:focus {
+            border-color: #ff8c00;
+            box-shadow: 0 0 0 3px rgba(255, 140, 0, 0.1);
+        }
+
+        .search-bar::placeholder {
+            color: #6b7280;
+        }
+
+        .search-icon {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #6b7280;
+            font-size: 1.2rem;
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 50px;
+            min-height: 500px; /* To prevent layout shift */
+        }
+
+        .product-card {
+            background: #151515;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 1px solid #2a2a2a;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            border-color: #ff8c00;
+        }
+
+        .product-image {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #ff8c00, #c149ff);
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            color: white;
+        }
+        
+        .product-title {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            right: 20px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
+        
+        .product-content {
+            padding: 25px;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+
+        .product-description {
+            color: #d1d5db;
+            margin-bottom: 20px;
+            line-height: 1.6;
+            font-size: 0.95rem;
+            flex-grow: 1;
+        }
+
+        .product-pricing {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .product-price {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #ff8c00;
+        }
+
+        .product-price-compare {
+            font-size: 1.2rem;
+            color: #6b7280;
+            text-decoration: line-through;
+        }
+
+        .product-discount {
+            background: #dc2626;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .product-features {
+            list-style: none;
+            margin-bottom: 20px;
+        }
+
+        .product-features li {
+            padding: 5px 0;
+            color: #d1d5db;
+            position: relative;
+            padding-left: 20px;
+            font-size: 0.9rem;
+        }
+
+        .product-features li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #ff8c00;
+            font-weight: bold;
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 1000;
+            backdrop-filter: blur(10px);
+        }
+
+        .modal-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #151515;
+            border-radius: 20px;
+            max-width: 600px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+            border: 1px solid #2a2a2a;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #9ca3af;
+            transition: color 0.3s ease;
+            z-index: 20;
+        }
+
+        .modal-close:hover {
+            color: #ff8c00;
+        }
+
+        .modal-image {
+            width: 100%;
+            height: 250px;
+            background: linear-gradient(135deg, #ff8c00, #ffa500);
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            color: white;
+            border-radius: 20px 20px 0 0;
+        }
+        
+        .modal-title {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            right: 60px;
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
+        
+        .modal-body {
+            padding: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #ff8c00, #ff6262);
+            color: white;
+            text-decoration: none;
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(255, 140, 0, 0.3);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7280;
+            font-size: 1.1rem;
+            display: none;
+        }
+        
+        /* Pagination */
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 50px;
+            gap: 10px;
+        }
+        
+        .pagination-button {
+            background: #1a1a1a;
+            border: 1px solid #2a2a2a;
+            color: #9ca3af;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .pagination-button:hover {
+            background: #ff8c00;
+            color: white;
+            border-color: #ff8c00;
+        }
+        
+        .pagination-button.active {
+            background: #ff8c00;
+            color: white;
+            border-color: #ff8c00;
+            font-weight: bold;
+        }
+
+        .pagination-button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+
+        /* Footer */
+        footer {
+            background: #0a0a0a;
+            color: #6b7280;
+            text-align: center;
+            padding: 40px 0;
+            border-top: 1px solid #2a2a2a;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+            
+            .nav-links {
+                display: none; /* In this view, we hide the nav links but you might want a hamburger menu instead */
+            }
+            
+            .products-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .products-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 20px;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .search-container {
+                max-width: 100%;
+            }
+        }
+		/* Info Sections (About & Contact) */
+        .info-section {
+            padding: 80px 0;
+            background: #0a0a0a;
+            text-align: center;
+        }
+
+        .info-section .section-title {
+            margin-bottom: 20px;
+            color: #ff8c00;
+        }
+
+        .section-description {
+            font-size: 1.1rem;
+            color: #d1d5db;
+            max-width: 800px;
+            margin: 0 auto 40px auto;
+            line-height: 1.7;
+        }
+
+        /* Contact Form */
+        .contact-form {
+            max-width: 700px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .contact-form .form-group {
+            display: flex;
+            gap: 20px;
+        }
+
+        .contact-form input,
+        .contact-form textarea {
+            width: 100%;
+            padding: 15px;
+            background: #1a1a1a;
+            border: 2px solid #2a2a2a;
+            border-radius: 12px;
+            color: #e5e7eb;
+            font-size: 1rem;
+            font-family: inherit;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        .contact-form input:focus,
+        .contact-form textarea:focus {
+            border-color: #ff8c00;
+            box-shadow: 0 0 0 3px rgba(255, 140, 0, 0.1);
+        }
+
+        .contact-form textarea {
+            resize: vertical;
+        }
+
+        .contact-form .btn {
+            align-self: center;
+            width: 200px;
+        }
+
+        /* Responsive adjustments for the form */
+        @media (max-width: 768px) {
+            .contact-form .form-group {
+                flex-direction: column;
+            }
+        }
+        
+        /*
+        =================================
+        LIGHT MODE STYLES
+        =================================
+        */
+
+        body.light-mode {
+            background: #f4f4f5;
+            color: #18181b;
+        }
+
+        body.light-mode header {
+            background: rgba(255, 255, 255, 0.9);
+            border-bottom-color: #e4e4e7;
+        }
+
+        body.light-mode .nav-links a {
+            color: #3f3f46;
+        }
+        
+        body.light-mode .nav-links a:hover,
+        body.light-mode .logo,
+        body.light-mode .section-title,
+        body.light-mode .product-price,
+        body.light-mode .product-features li::before {
+            color: #ea580c;
+        }
+
+        body.light-mode .theme-toggle-btn {
+            background: #e4e4e7;
+            border-color: #d4d4d8;
+            color: #18181b;
+        }
+        
+        body.light-mode .theme-toggle-btn:hover {
+            background: #ea580c;
+            border-color: #ea580c;
+            color: white;
+        }
+
+        body.light-mode .hero {
+            background: linear-gradient(135deg, rgba(251, 146, 60, 0.05) 0%, rgba(251, 146, 60, 0.02) 100%);
+        }
+
+        body.light-mode .hero p,
+        body.light-mode .section-description,
+        body.light-mode .product-description,
+        body.light-mode .product-features li {
+            color: #3f3f46;
+        }
+
+        body.light-mode .products-section,
+        body.light-mode .info-section,
+        body.light-mode footer {
+            background: #f4f4f5;
+        }
+
+        body.light-mode .search-bar {
+            background: #ffffff;
+            border-color: #d4d4d8;
+            color: #18181b;
+        }
+
+        body.light-mode .search-bar:focus {
+            border-color: #ea580c;
+            box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.1);
+        }
+
+        body.light-mode .search-bar::placeholder,
+        body.light-mode .search-icon,
+        body.light-mode .product-price-compare {
+            color: #a1a1aa;
+        }
+
+        body.light-mode .product-card {
+            background: #ffffff;
+            border-color: #e4e4e7;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+        
+        body.light-mode .product-card:hover {
+            border-color: #ea580c;
+        }
+
+        body.light-mode .modal-content {
+            background: #ffffff;
+            border-color: #e4e4e7;
+        }
+
+        body.light-mode .modal-close {
+            color: #a1a1aa;
+        }
+        
+        body.light-mode .modal-close:hover {
+            color: #ea580c;
+        }
+        
+        body.light-mode .pagination-button {
+            background: #ffffff;
+            border-color: #e4e4e7;
+            color: #3f3f46;
+        }
+        
+        body.light-mode .pagination-button:hover,
+        body.light-mode .pagination-button.active {
+            background: #ea580c;
+            color: white;
+            border-color: #ea580c;
+        }
+        
+        body.light-mode .no-results,
+        body.light-mode footer {
+            color: #71717a;
+        }
+        
+        body.light-mode footer {
+            border-top-color: #e4e4e7;
+        }
+        
+        body.light-mode .contact-form input,
+        body.light-mode .contact-form textarea {
+            background: #ffffff;
+            border-color: #d4d4d8;
+            color: #18181b;
+        }
+
+        body.light-mode .contact-form input:focus,
+        body.light-mode .contact-form textarea:focus {
+            border-color: #ea580c;
+            box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.1);
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <a href="#" class="logo">AI Workflow Hub</a>
+            <ul class="nav-links">
+                <li><a href="#products">Workflows</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button id="theme-toggle" class="theme-toggle-btn">🌙</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>AI Automation Marketplace</h1>
+            <p>Discover premium AI Agent workflows to supercharge your automation</p>
+        </div>
+    </section>
+
+    <section class="products-section" id="products">
+        <div class="container">
+            <div class="products-header">
+                <h2 class="section-title">Featured Products</h2>
+                <div class="search-container">
+                    <input type="text" class="search-bar" placeholder="Search AI workflows..." id="searchInput">
+                    <div class="search-icon">🔍</div>
+                </div>
+            </div>
+            <div class="products-grid" id="productsGrid">
+                </div>
+            <div id="pagination-container" class="pagination-container">
+                </div>
+            <div class="no-results" id="noResults">
+                No workflows found matching your search.
+            </div>
+        </div>
+    </section>
+	<section class="info-section" id="about">
+    <div class="container">
+        <h2 class="section-title">About Us</h2>
+        <p class="section-description">
+            AI Workflow Hub is the premier marketplace for cutting-edge AI automation solutions. Our mission is to empower businesses and individuals by providing powerful, ready-to-use workflows that streamline operations, boost productivity, and drive innovation. We believe in the transformative power of AI and are dedicated to making it accessible to everyone.
+        </p>
+    </div>
+</section>
+
+<section class="info-section" id="contact">
+    <div class="container">
+        <h2 class="section-title">Contact Us</h2>
+        <p class="section-description">
+            Have questions or need a custom workflow? Reach out to us!
+        </p>
+        <form class="contact-form" action="mailto:contact@maken8n.com" method="post" enctype="text/plain">
+            <div class="form-group">
+                <input type="text" name="name" placeholder="Your Name" required>
+                <input type="email" name="email" placeholder="Your Email" required>
+            </div>
+            <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </div>
+</section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 AI Workflow Hub. Empowering automation with AI.</p>
+        </div>
+    </footer>
+
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div class="modal-image" id="modalImage">
+                <h2 class="modal-title" id="modalTitle"></h2>
+            </div>
+            <div class="modal-body">
+                <div class="product-pricing">
+                    <span class="product-price" id="modalPrice"></span>
+                    <span class="product-price-compare" id="modalComparePrice"></span>
+                    <span class="product-discount" id="modalDiscount"></span>
+                </div>
+                <p id="modalDescription"></p>
+                <ul class="product-features" id="modalFeatures"></ul>
+                <a href="#" class="btn" id="modalBuyButton">Get Workflow</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="products.js"></script>
+    <script src="scripts.js"></script>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const themeToggleBtn = document.getElementById('theme-toggle');
+            const body = document.body;
+            const currentTheme = localStorage.getItem('theme');
+
+            // Apply the saved theme on initial load
+            if (currentTheme === 'light') {
+                body.classList.add('light-mode');
+                themeToggleBtn.textContent = '☀️';
+            } else {
+                themeToggleBtn.textContent = '🌙';
+            }
+
+            themeToggleBtn.addEventListener('click', () => {
+                body.classList.toggle('light-mode');
+                
+                let theme = 'dark';
+                if (body.classList.contains('light-mode')) {
+                    theme = 'light';
+                    themeToggleBtn.textContent = '☀️';
+                } else {
+                    themeToggleBtn.textContent = '🌙';
+                }
+                localStorage.setItem('theme', theme);
+            });
+        });
+    </script>
+</body>
+</html>
