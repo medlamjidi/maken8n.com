@@ -10,7 +10,7 @@ const products = [
         description: "An automated workflow to schedule and send messages on Telegram based on predefined triggers or cron jobs.",
         features: ["Scheduled Messaging", "Cron-based Triggers", "Dynamic Content", "Telegram API Integration"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/telegram-schedule-automation"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-schedule-automation"
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ const products = [
         description: "Trigger a workflow to generate and use a Time-based One-Time Password (TOTP) for secure, multi-factor authentication.",
         features: ["Manual Trigger", "TOTP Generation", "Secure Credential Storage", "MFA Support"],
         icon: "🔐",
-        buyLink: "https://example.com/workflows/manual-totp-automation"
+        buyLink: "http://maken8n.gumroad.com/l/manual-totp-automation"
     },
     {
         id: 3,
@@ -32,7 +32,7 @@ const products = [
         description: "Integrate Bitwarden to automate fetching and using credentials in your workflows securely and efficiently.",
         features: ["Fetch Credentials", "Secure Vault Access", "Automated Login", "Bitwarden API Integration"],
         icon: "🛡️",
-        buyLink: "https://example.com/workflows/bitwarden-automation"
+        buyLink: "http://maken8n.gumroad.com/l/bitwarden-automation"
     },
     {
         id: 4,
@@ -43,7 +43,7 @@ const products = [
         description: "Automatically send new Typeform entries to a Google Sheet for easy data tracking, analysis, and reporting.",
         features: ["New Entry Trigger", "Real-time Data Sync", "Custom Field Mapping", "Error Handling"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/googlesheets-typeform-automation"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-typeform-automation"
     },
     {
         id: 5,
@@ -54,7 +54,7 @@ const products = [
         description: "Manually trigger a workflow to post a new tweet, including dynamic content and media, to your Twitter account.",
         features: ["One-click Tweeting", "Dynamic Content Support", "Image & Video Uploads", "URL Shortening"],
         icon: "🐦",
-        buyLink: "https://example.com/workflows/manual-twitter-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-twitter-create"
     },
     {
         id: 6,
@@ -65,7 +65,7 @@ const products = [
         description: "Schedule a recurring task to fetch weather data from OpenWeatherMap and use it in your workflows.",
         features: ["Scheduled Weather Fetch", "Location-based Data", "Custom Alerts", "Data Formatting"],
         icon: "🌦️",
-        buyLink: "https://example.com/workflows/openweathermap-cron-automate"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-cron-automate"
     },
     {
         id: 7,
@@ -76,7 +76,7 @@ const products = [
         description: "Manually trigger a workflow to create a new task in any Todoist project with predefined attributes.",
         features: ["One-click Task Creation", "Project Selection", "Due Dates & Priority", "Dynamic Task Naming"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/manual-todoist-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-todoist-create"
     },
     {
         id: 8,
@@ -87,7 +87,7 @@ const products = [
         description: "Get instant Slack notifications for new Stripe events like payments, customers, or subscriptions.",
         features: ["Stripe Event Triggers", "Custom Slack Messages", "Real-time Notifications", "Sales & Revenue Alerts"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/slack-stripe-create"
+        buyLink: "http://maken8n.gumroad.com/l/slack-stripe-create"
     },
     {
         id: 9,
@@ -98,7 +98,7 @@ const products = [
         description: "A workflow utility to process and write binary file data from various sources to a specified destination.",
         features: ["Binary Data Processing", "File Write Operation", "Multiple Source Support", "Error Logging"],
         icon: "💾",
-        buyLink: "https://example.com/workflows/process-write-binary-file"
+        buyLink: "http://maken8n.gumroad.com/l/process-write-binary-file"
     },
     {
         id: 10,
@@ -109,7 +109,7 @@ const products = [
         description: "Manually trigger automations in Copper CRM, such as creating leads, updating opportunities, or logging activities.",
         features: ["Manual Data Entry", "Lead & Opportunity Creation", "Activity Logging", "Copper API Integration"],
         icon: "👨‍💼",
-        buyLink: "https://example.com/workflows/manual-copper-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-copper-automate"
     },
     {
         id: 11,
@@ -120,7 +120,7 @@ const products = [
         description: "A secondary workflow to manually trigger a different set of automations within your Copper CRM environment.",
         features: ["Custom Action Trigger", "Update Existing Records", "Task Assignment", "Workflow Chaining"],
         icon: "👨‍💼",
-        buyLink: "https://example.com/workflows/manual-copper-automate-alt"
+        buyLink: "http://maken8n.gumroad.com/l/manual-copper-automate-alt"
     },
     {
         id: 12,
@@ -131,7 +131,7 @@ const products = [
         description: "A testing and development tool to trigger import workflows without performing any actual operations.",
         features: ["Workflow Testing", "Manual Trigger", "No-Op Execution", "Logging & Debugging"],
         icon: "🧪",
-        buyLink: "https://example.com/workflows/manual-noop-import"
+        buyLink: "http://maken8n.gumroad.com/l/manual-noop-import"
     },
     {
         id: 13,
@@ -142,7 +142,7 @@ const products = [
         description: "Manually trigger a workflow to create and populate a new document or row in your Coda workspace.",
         features: ["One-click Doc Creation", "Row Population", "Template-based Content", "Coda API Integration"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/manual-coda-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-coda-create"
     },
     {
         id: 14,
@@ -153,7 +153,7 @@ const products = [
         description: "A scheduled job that makes an HTTP request to a webhook endpoint to trigger update processes.",
         features: ["Scheduled HTTP Requests", "Cron Job Configuration", "Webhook Integration", "Payload Customization"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/http-cron-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-cron-update-webhook"
     },
     {
         id: 15,
@@ -164,7 +164,7 @@ const products = [
         description: "Manually trigger a workflow to create a new Google Slides presentation from a template or dynamic data.",
         features: ["One-click Presentation", "Template Integration", "Dynamic Data Placeholders", "Google Drive Saving"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-googleslides-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googleslides-automate"
     },
     {
         id: 16,
@@ -175,7 +175,7 @@ const products = [
         description: "Integrate your Mattermost channels with the Emelia email client for streamlined communication workflows.",
         features: ["Mattermost Notifications", "Email to Mattermost", "Channel Integration", "Automated Responses"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-emelia-automate"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-emelia-automate"
     },
     {
         id: 17,
@@ -186,7 +186,7 @@ const products = [
         description: "Manually trigger actions in Chargebee, such as creating a new subscription or updating customer details.",
         features: ["Manual Subscription Creation", "Customer Data Update", "Invoice Generation", "Chargebee API Control"],
         icon: "💳",
-        buyLink: "https://example.com/workflows/manual-chargebee-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-chargebee-create"
     },
     {
         id: 18,
@@ -197,7 +197,7 @@ const products = [
         description: "Manually trigger a data processing job with Uproc to clean, enrich, and validate your data.",
         features: ["One-click Data Processing", "Uproc Integration", "Data Cleaning Rules", "Result Webhooks"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/manual-uproc-send"
+        buyLink: "http://maken8n.gumroad.com/l/manual-uproc-send"
     },
     {
         id: 19,
@@ -208,7 +208,7 @@ const products = [
         description: "A secondary workflow for connecting Mattermost and the Emelia email client with different triggers and actions.",
         features: ["Custom Triggers", "Bi-directional Sync", "File Sharing", "User Mapping"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-emelia-automate-alt"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-emelia-automate-alt"
     },
     {
         id: 20,
@@ -219,7 +219,7 @@ const products = [
         description: "A scheduled workflow that polls an HTTP endpoint and sends the data to an Amazon SQS queue.",
         features: ["Scheduled HTTP Polling", "AWS SQS Integration", "Message Formatting", "IAM Role Support"],
         icon: "📦",
-        buyLink: "https://example.com/workflows/http-awssqs-automation"
+        buyLink: "http://maken8n.gumroad.com/l/http-awssqs-automation"
     },
     {
         id: 21,
@@ -230,7 +230,7 @@ const products = [
         description: "Manually trigger updates to your Webflow CMS, such as creating new collection items or updating existing ones.",
         features: ["Manual CMS Item Creation", "Live Site Updates", "Form Data Integration", "Webflow API Control"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-webflow-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-webflow-automate"
     },
     {
         id: 22,
@@ -241,7 +241,7 @@ const products = [
         description: "A scheduled workflow to fetch data from an HTTP source and load it into Google BigQuery tables.",
         features: ["Scheduled Data Fetch", "BigQuery Integration", "Schema Mapping", "Data Append/Overwrite"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/http-googlebigquery-automation"
+        buyLink: "http://maken8n.gumroad.com/l/http-googlebigquery-automation"
     },
     {
         id: 23,
@@ -252,7 +252,7 @@ const products = [
         description: "Manually trigger a Clearbit enrichment process for an email or domain to get detailed company and contact info.",
         features: ["One-click Enrichment", "Email & Domain Lookup", "Data Appending", "CRM Integration"],
         icon: "🎯",
-        buyLink: "https://example.com/workflows/manual-clearbit-send"
+        buyLink: "http://maken8n.gumroad.com/l/manual-clearbit-send"
     },
     {
         id: 24,
@@ -263,7 +263,7 @@ const products = [
         description: "A flexible workflow to manually trigger various Uproc data processing jobs based on your needs.",
         features: ["Manual Job Trigger", "Custom Process Selection", "File Upload Support", "Real-time Status"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/manual-uproc-automation"
+        buyLink: "http://maken8n.gumroad.com/l/manual-uproc-automation"
     },
     {
         id: 25,
@@ -274,7 +274,7 @@ const products = [
         description: "Monitor an Airtable view for new records and use Mailcheck to validate the email addresses provided.",
         features: ["Airtable Record Monitor", "Mailcheck Validation", "Real-time Verification", "Status Update in Airtable"],
         icon: "✔️",
-        buyLink: "https://example.com/workflows/mailcheck-airtable-monitor"
+        buyLink: "http://maken8n.gumroad.com/l/mailcheck-airtable-monitor"
     },
     {
         id: 26,
@@ -285,7 +285,7 @@ const products = [
         description: "Connect Mattermost with your n8n instance to trigger workflows directly from your chat channels.",
         features: ["Mattermost Slash Commands", "n8n Webhook Trigger", "Dynamic Inputs", "Post Results to Channel"],
         icon: "🚀",
-        buyLink: "https://example.com/workflows/mattermost-n8n-automate"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-n8n-automate"
     },
     {
         id: 27,
@@ -296,7 +296,7 @@ const products = [
         description: "A generic webhook listener to trigger Mattermost automations from any external service or application.",
         features: ["Inbound Webhook", "Customizable Actions", "Channel Posting", "User Notifications"],
         icon: "훅",
-        buyLink: "https://example.com/workflows/mattermost-workflow-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-workflow-webhook"
     },
     {
         id: 28,
@@ -307,7 +307,7 @@ const products = [
         description: "Manually add new members to your Orbit community, including their social profiles and activities.",
         features: ["One-click Member Add", "Activity Logging", "Tagging and Segmentation", "Orbit API Integration"],
         icon: "🌟",
-        buyLink: "https://example.com/workflows/manual-orbit-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-orbit-create"
     },
     {
         id: 29,
@@ -318,7 +318,7 @@ const products = [
         description: "Manually trigger a workflow to create a new task in ClickUp with pre-filled details and assignees.",
         features: ["One-click Task Creation", "Dynamic Task Details", "Assignee & Due Date", "List & Space Selection"],
         icon: "☑️",
-        buyLink: "https://example.com/workflows/manual-clickup-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-clickup-create"
     },
     {
         id: 30,
@@ -329,7 +329,7 @@ const products = [
         description: "Trigger a workflow whenever a new file is added or modified in a specific Dropbox folder.",
         features: ["File Event Trigger", "Dropbox Folder Monitoring", "File Content Processing", "Custom Logic Execution"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/functionitem-dropbox-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/functionitem-dropbox-webhook"
     },
     {
         id: 31,
@@ -340,7 +340,7 @@ const products = [
         description: "Manually trigger scripts and data operations within your FileMaker custom applications.",
         features: ["Manual Script Trigger", "Record Creation & Update", "FileMaker Data API", "Secure Connection"],
         icon: "🗃️",
-        buyLink: "https://example.com/workflows/manual-filemaker-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-filemaker-automate"
     },
     {
         id: 32,
@@ -351,7 +351,7 @@ const products = [
         description: "Receive data via an HTTP webhook and publish it to an MQTT topic for IoT and real-time messaging.",
         features: ["HTTP Webhook Listener", "MQTT Broker Integration", "Topic & Payload Mapping", "Secure Communication"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/http-mqtt-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-mqtt-automation-webhook"
     },
     {
         id: 33,
@@ -362,7 +362,7 @@ const products = [
         description: "A scheduled workflow that runs a custom code snippet to filter and process data from another node.",
         features: ["Scheduled Execution", "Custom JavaScript/Python Code", "Data Filtering Logic", "Flexible Integration"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-filter-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/code-filter-create-scheduled"
     },
     {
         id: 34,
@@ -373,7 +373,7 @@ const products = [
         description: "Update a Google Sheet in real-time by sending data to a unique webhook URL.",
         features: ["Webhook Data Receiver", "Append/Update Rows", "Real-time Sync", "Easy Setup"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/googlesheets-webhook-automate"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-webhook-automate"
     },
     {
         id: 35,
@@ -384,7 +384,7 @@ const products = [
         description: "Automatically save attachments from specific Gmail messages to a designated Google Drive folder.",
         features: ["New Email Trigger", "Attachment Filtering", "Dynamic Folder Paths", "Google Drive Integration"],
         icon: "📎",
-        buyLink: "https://example.com/workflows/gmail-googledrive-import"
+        buyLink: "http://maken8n.gumroad.com/l/gmail-googledrive-import"
     },
     {
         id: 36,
@@ -395,7 +395,7 @@ const products = [
         description: "Manually trigger a search on Google Books and process the resulting data in your workflow.",
         features: ["Manual Search Trigger", "Keyword & ISBN Search", "Result Parsing", "Data Export"],
         icon: "📚",
-        buyLink: "https://example.com/workflows/manual-googlebooks-create"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googlebooks-create"
     },
     {
         id: 37,
@@ -406,7 +406,7 @@ const products = [
         description: "Manually trigger a workflow to create and send an iCal event invitation via email.",
         features: ["One-click Event Creation", "Dynamic Event Details", "Attendee Invitations", "Email Integration"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/manual-ical-send"
+        buyLink: "http://maken8n.gumroad.com/l/manual-ical-send"
     },
     {
         id: 38,
@@ -417,7 +417,7 @@ const products = [
         description: "Automatically create a new page or database item in Notion when a new event is scheduled in Calendly.",
         features: ["New Calendly Event Trigger", "Notion Database Integration", "Data Mapping", "Attendee Information Sync"],
         icon: "📓",
-        buyLink: "https://example.com/workflows/calendly-notion-automate"
+        buyLink: "http://maken8n.gumroad.com/l/calendly-notion-automate"
     },
     {
         id: 39,
@@ -428,7 +428,7 @@ const products = [
         description: "A simple workflow that triggers manually but performs no actions, ideal for testing and debugging.",
         features: ["Manual Trigger", "No-Op Execution", "Workflow Diagnostics", "Execution Logging"],
         icon: "🧪",
-        buyLink: "https://example.com/workflows/manual-noop-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-noop-automate"
     },
     {
         id: 40,
@@ -439,7 +439,7 @@ const products = [
         description: "Trigger a workflow when a subscription is updated, cancelled, or renewed in Chargebee.",
         features: ["Subscription Event Trigger", "Real-time Updates", "Custom Action Logic", "CRM & Slack Integration"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/chargebee-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/chargebee-update-triggered"
     },
     {
         id: 41,
@@ -450,7 +450,7 @@ const products = [
         description: "Receive cryptocurrency price updates via a webhook and log the data in an Airtable base.",
         features: ["Crypto Price Webhook", "Airtable Integration", "Historical Data Logging", "Real-time Price Tracking"],
         icon: "₿",
-        buyLink: "https://example.com/workflows/crypto-airtable-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/crypto-airtable-update-webhook"
     },
     {
         id: 42,
@@ -461,7 +461,7 @@ const products = [
         description: "Enrich your Calendly invitees with personality insights from Humantic AI before your meeting.",
         features: ["New Calendly Event Trigger", "Humantic AI Enrichment", "Personality Insights", "CRM Integration"],
         icon: "🧠",
-        buyLink: "https://example.com/workflows/humanticai-calendly-automate"
+        buyLink: "http://maken8n.gumroad.com/l/humanticai-calendly-automate"
     },
     {
         id: 43,
@@ -472,7 +472,7 @@ const products = [
         description: "Analyze the text in new Trello card descriptions using Google Cloud Natural Language for sentiment and entities.",
         features: ["New Trello Card Trigger", "Google NLP Integration", "Sentiment Analysis", "Automatic Tagging"],
         icon: "🔤",
-        buyLink: "https://example.com/workflows/trello-googlenlp-automate"
+        buyLink: "http://maken8n.gumroad.com/l/trello-googlenlp-automate"
     },
     {
         id: 44,
@@ -483,7 +483,7 @@ const products = [
         description: "Manually trigger a workflow to import and process messages or files from a Telegram channel.",
         features: ["Manual Import Trigger", "Channel & Message Selection", "Data Parsing", "Multi-platform Export"],
         icon: "📥",
-        buyLink: "https://example.com/workflows/manual-telegram-import"
+        buyLink: "http://maken8n.gumroad.com/l/manual-telegram-import"
     },
     {
         id: 45,
@@ -494,7 +494,7 @@ const products = [
         description: "Manually trigger an import of content into your Storyblok CMS from an external data source.",
         features: ["Manual Content Import", "Data Source Integration", "Content Mapping", "Storyblok CMS API"],
         icon: "📖",
-        buyLink: "https://example.com/workflows/manual-storyblok-import"
+        buyLink: "http://maken8n.gumroad.com/l/manual-storyblok-import"
     },
     {
         id: 46,
@@ -505,7 +505,7 @@ const products = [
         description: "Trigger a workflow whenever a task in ClickUp is updated, moved, or commented on.",
         features: ["Task Update Trigger", "Real-time Notifications", "Cross-functional Sync", "Custom Logic"],
         icon: "🔔",
-        buyLink: "https://example.com/workflows/clickup-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/clickup-update-triggered"
     },
     {
         id: 47,
@@ -516,7 +516,7 @@ const products = [
         description: "Receive a URL via a webhook, fetch the HTML content, and extract specific data using selectors.",
         features: ["Webhook URL Input", "HTML Fetching", "CSS Selector Extraction", "Data Formatting"],
         icon: "🕸️",
-        buyLink: "https://example.com/workflows/http-htmlextract-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-htmlextract-create-webhook"
     },
     {
         id: 48,
@@ -527,7 +527,7 @@ const products = [
         description: "Manually trigger a workflow to perform actions on your AWS S3 buckets, like uploading or deleting files.",
         features: ["Manual S3 Operations", "File Upload/Download", "Bucket Management", "IAM Role Integration"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/manual-awss3-automate"
+        buyLink: "http://maken8n.gumroad.com/l/manual-awss3-automate"
     },
     {
         id: 49,
@@ -538,7 +538,7 @@ const products = [
         description: "Trigger workflows based on monitor status changes in UptimeRobot, such as 'down' or 'up' events.",
         features: ["Monitor Status Trigger", "Real-time Alerts", "Multi-channel Notifications", "Automated Diagnostics"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/uptimerobot-automate"
+        buyLink: "http://maken8n.gumroad.com/l/uptimerobot-automate"
     },
 	{
     id: 50,
@@ -549,7 +549,7 @@ const products = [
     description: "Manually trigger actions in Microsoft To-Do, such as creating or updating tasks with full control.",
     features: ["Manual Task Creation", "To-Do List Integration", "Priority Settings", "Due Date Management"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/manual-microsofttodo-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-microsofttodo-automate"
 },
 {
     id: 51,
@@ -560,7 +560,7 @@ const products = [
     description: "Trigger Git operations like commits or pulls manually for version control automation.",
     features: ["Manual Git Trigger", "Repository Sync", "Branch Checkout", "Status Review"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/manual-git-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-git-automate"
 },
 {
     id: 52,
@@ -571,7 +571,7 @@ const products = [
     description: "Automatically create Google Calendar events from Trello card schedules with ease.",
     features: ["Trello Card Sync", "Google Calendar Events", "Due Date Mapping", "Scheduled Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/trello-googlecalendar-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/trello-googlecalendar-scheduled"
 },
 {
     id: 53,
@@ -582,7 +582,7 @@ const products = [
     description: "Manually trigger workflows to write data into binary files with control and precision.",
     features: ["Manual Trigger", "Binary File Output", "Data Encoding", "Flexible File Paths"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/manual-writebinaryfile"
+    buyLink: "http://maken8n.gumroad.com/l/manual-writebinaryfile"
 },
 {
     id: 54,
@@ -593,7 +593,7 @@ const products = [
     description: "Schedule Signl4 alerts at regular intervals to keep your team in sync.",
     features: ["Timed Alerts", "Interval Setup", "Signl4 Integration", "Message Customization"],
     icon: "📢",
-    buyLink: "https://example.com/workflows/signl4-interval-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/signl4-interval-scheduled"
 },
 {
     id: 55,
@@ -604,7 +604,7 @@ const products = [
     description: "Manually import Uproc jobs into your automation system to keep workflows up to date.",
     features: ["Manual Import", "Uproc Job Loader", "Environment Control", "Log Output"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/manual-uproc-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-uproc-import"
 },
 {
     id: 56,
@@ -615,7 +615,7 @@ const products = [
     description: "Trigger workflows from ActiveCampaign events like tag updates and email opens.",
     features: ["ActiveCampaign Integration", "Real-Time Triggers", "CRM Automation", "Custom Actions"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/activecampaign-create"
+    buyLink: "http://maken8n.gumroad.com/l/activecampaign-create"
 },
 {
     id: 57,
@@ -626,7 +626,7 @@ const products = [
     description: "Manually read and extract data from binary files for use in downstream workflows.",
     features: ["Manual Trigger", "Binary Parsing", "Data Extraction", "Structured Output"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/manual-readbinaryfile"
+    buyLink: "http://maken8n.gumroad.com/l/manual-readbinaryfile"
 },
 {
     id: 58,
@@ -637,7 +637,7 @@ const products = [
     description: "Trigger actions like posting tweets or retweeting manually from your dashboard.",
     features: ["Manual Post", "Tweet Scheduler", "Media Upload", "User Mention Support"],
     icon: "🐦",
-    buyLink: "https://example.com/workflows/manual-twitter-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-twitter-automate"
 },
 {
     id: 59,
@@ -648,7 +648,7 @@ const products = [
     description: "Automatically trigger Travis CI builds from GitHub activity for smooth CI/CD workflows.",
     features: ["GitHub Trigger", "Travis CI Execution", "Build Monitor", "Repo Integration"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/travisci-github-automate"
+    buyLink: "http://maken8n.gumroad.com/l/travisci-github-automate"
 },
 {
     id: 60,
@@ -659,7 +659,7 @@ const products = [
     description: "A no-operation GitHub trigger used for testing or placeholder workflows.",
     features: ["No-Op Workflow", "GitHub Trigger", "Testing Friendly", "Minimal Logic"],
     icon: "🛑",
-    buyLink: "https://example.com/workflows/noop-github-automate"
+    buyLink: "http://maken8n.gumroad.com/l/noop-github-automate"
 },
 {
     id: 61,
@@ -670,7 +670,7 @@ const products = [
     description: "Manually create new leads or deals in Pipedrive using a simple workflow.",
     features: ["Manual Entry", "Pipedrive Integration", "CRM Update", "Lead Management"],
     icon: "💼",
-    buyLink: "https://example.com/workflows/manual-pipedrive-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-pipedrive-create"
 },
 {
     id: 62,
@@ -681,7 +681,7 @@ const products = [
     description: "Re-import Uproc job definitions manually to ensure environment sync and repeatability.",
     features: ["Manual Trigger", "Uproc Duplication", "Environment Setup", "Job Sync"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/manual-uproc-import-2"
+    buyLink: "http://maken8n.gumroad.com/l/manual-uproc-import-2"
 },
 {
     id: 63,
@@ -692,7 +692,7 @@ const products = [
     description: "Schedule weather updates from OpenWeatherMap and push them to LINE messaging app.",
     features: ["Weather API Integration", "LINE Messaging", "Scheduled Updates", "Location-Based Data"],
     icon: "🌤️",
-    buyLink: "https://example.com/workflows/openweathermap-line-update"
+    buyLink: "http://maken8n.gumroad.com/l/openweathermap-line-update"
 },
 {
     id: 64,
@@ -703,7 +703,7 @@ const products = [
     description: "Trigger webhook actions at fixed time intervals using a powerful CRON scheduler.",
     features: ["CRON Scheduling", "Webhook Trigger", "Custom Time Rules", "Flexible Endpoints"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/webhook-cron-automate"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-cron-automate"
 },
 {
     id: 65,
@@ -714,7 +714,7 @@ const products = [
     description: "Manually start Uproc job automations to control and monitor job execution.",
     features: ["Manual Trigger", "Job Monitoring", "Uproc Integration", "Execution Logs"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/manual-uproc-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-uproc-automation"
 },
 {
     id: 66,
@@ -725,7 +725,7 @@ const products = [
     description: "Schedule the import of FunctionItems manually or on a recurring basis.",
     features: ["Manual or Scheduled", "FunctionItem Parser", "Import Logging", "Flexible Triggers"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/functionitem-manual-import"
+    buyLink: "http://maken8n.gumroad.com/l/functionitem-manual-import"
 },
 {
     id: 67,
@@ -736,7 +736,7 @@ const products = [
     description: "Manually send or manage Gmail emails using controlled workflow triggers.",
     features: ["Gmail Actions", "Manual Trigger", "Email Templates", "Label Management"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/manual-gmail-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-gmail-automation"
 },
 {
     id: 68,
@@ -747,7 +747,7 @@ const products = [
     description: "Export Notion data in batches on a scheduled basis for large-scale automation.",
     features: ["Notion Integration", "Batch Export", "Scheduled Processing", "Data Pagination"],
     icon: "📦",
-    buyLink: "https://example.com/workflows/splitinbatches-notion-export"
+    buyLink: "http://maken8n.gumroad.com/l/splitinbatches-notion-export"
 },
 {
     id: 69,
@@ -758,7 +758,7 @@ const products = [
     description: "Trigger workflows based on updates in Pipedrive to streamline your sales pipeline.",
     features: ["Pipedrive Integration", "Update Watcher", "Deal Sync", "CRM Automation"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/pipedrive-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/pipedrive-update-triggered"
 },
 {
     id: 70,
@@ -769,7 +769,7 @@ const products = [
     description: "Schedule OpenWeatherMap data retrieval using CRON to automate weather monitoring.",
     features: ["CRON Schedule", "Weather Data", "Location Support", "API Polling"],
     icon: "🌦️",
-    buyLink: "https://example.com/workflows/openweathermap-cron-update"
+    buyLink: "http://maken8n.gumroad.com/l/openweathermap-cron-update"
 },
 {
     id: 71,
@@ -780,7 +780,7 @@ const products = [
     description: "Manually trigger reading of RSS feeds to extract and process content on demand.",
     features: ["RSS Parsing", "Manual Control", "Feed Updates", "Content Sync"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/manual-rssfeedread-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-rssfeedread-automate"
 },
 {
     id: 72,
@@ -791,7 +791,7 @@ const products = [
     description: "Manually check and trigger monitoring for HTTP endpoints via webhook.",
     features: ["Manual Trigger", "HTTP Endpoint Watch", "Webhook Integration", "Alerting"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/manual-http-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/manual-http-monitor"
 },
 {
     id: 73,
@@ -802,7 +802,7 @@ const products = [
     description: "A placeholder workflow with a no-operation update trigger for testing use.",
     features: ["Noop Logic", "Testing Framework", "Update Trigger", "Safe Testing"],
     icon: "🚫",
-    buyLink: "https://example.com/workflows/manual-noop-update"
+    buyLink: "http://maken8n.gumroad.com/l/manual-noop-update"
 },
 {
     id: 74,
@@ -813,7 +813,7 @@ const products = [
     description: "Trigger workflows whenever a card is updated in Trello for real-time task automation.",
     features: ["Trello Integration", "Card Update Detection", "Custom Actions", "Real-Time Sync"],
     icon: "🗂️",
-    buyLink: "https://example.com/workflows/trello-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/trello-update-triggered"
 },
 {
     id: 75,
@@ -824,7 +824,7 @@ const products = [
     description: "Use a no-operation HTTP webhook for testing synchronous interactions safely.",
     features: ["HTTP Sync", "Noop Logic", "Webhook Testing", "Latency Simulations"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/http-noop-sync"
+    buyLink: "http://maken8n.gumroad.com/l/http-noop-sync"
 },
 {
     id: 76,
@@ -835,7 +835,7 @@ const products = [
     description: "Manually monitor and post to Slack channels using a webhook trigger.",
     features: ["Slack Integration", "Manual Trigger", "Channel Updates", "Webhook Posting"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/manual-slack-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/manual-slack-monitor"
 },
 {
     id: 77,
@@ -846,7 +846,7 @@ const products = [
     description: "Manually create content entries in Strapi using structured API workflows.",
     features: ["Strapi CMS", "Manual Trigger", "Content Structuring", "API-Based Creation"],
     icon: "📘",
-    buyLink: "https://example.com/workflows/manual-strapi-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-strapi-create"
 },
 {
     id: 78,
@@ -857,7 +857,7 @@ const products = [
     description: "Manually import comment threads from Disqus for archiving or analysis.",
     features: ["Disqus Integration", "Manual Import", "Comment Sync", "Thread Management"],
     icon: "💭",
-    buyLink: "https://example.com/workflows/manual-disqus-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-disqus-import"
 },
 {
     id: 79,
@@ -868,7 +868,7 @@ const products = [
     description: "Respond to incoming webhooks with custom XML payloads in real time.",
     features: ["Webhook Listener", "XML Response Builder", "Custom Payloads", "Real-Time API"],
     icon: "📨",
-    buyLink: "https://example.com/workflows/xml-respondtowebhook"
+    buyLink: "http://maken8n.gumroad.com/l/xml-respondtowebhook"
 },
 {
     id: 80,
@@ -879,7 +879,7 @@ const products = [
     description: "Process data in Google Sheets at fixed intervals using automated scripts.",
     features: ["Google Sheets", "Interval Execution", "Data Parsing", "Scheduled Tasks"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-interval-process"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-interval-process"
 },
 {
     id: 81,
@@ -890,7 +890,7 @@ const products = [
     description: "Run no-operation GitHub workflows for testing automation triggers without execution.",
     features: ["GitHub Trigger", "Noop Execution", "Safe Testing", "Placeholder Logic"],
     icon: "🧪",
-    buyLink: "https://example.com/workflows/noop-github-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/noop-github-automate-triggered"
 },
 {
     id: 82,
@@ -901,7 +901,7 @@ const products = [
     description: "Trigger custom commands using incoming Mailgun emails via webhook.",
     features: ["Mailgun Integration", "Webhook Trigger", "Command Execution", "Email Parsing"],
     icon: "📬",
-    buyLink: "https://example.com/workflows/executecommand-mailgun-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/executecommand-mailgun-webhook"
 },
 {
     id: 83,
@@ -912,7 +912,7 @@ const products = [
     description: "Manually monitor Segment events and analyze customer behavior triggers.",
     features: ["Segment Tracking", "Manual Triggers", "Event Monitoring", "Customer Insights"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/manual-segment-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/manual-segment-monitor"
 },
 {
     id: 84,
@@ -923,7 +923,7 @@ const products = [
     description: "Use incoming webhooks to update or query Airtable records automatically.",
     features: ["Webhook Input", "Airtable Update", "Custom Fields", "Record Matching"],
     icon: "📇",
-    buyLink: "https://example.com/workflows/webhook-airtable-automate"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-airtable-automate"
 },
 {
     id: 85,
@@ -934,7 +934,7 @@ const products = [
     description: "Manually create Zendesk tickets from a custom interface or dashboard.",
     features: ["Zendesk Integration", "Manual Ticketing", "Custom Fields", "Support Automation"],
     icon: "🎫",
-    buyLink: "https://example.com/workflows/manual-zendesk-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-zendesk-create"
 },
 {
     id: 86,
@@ -945,7 +945,7 @@ const products = [
     description: "Create workflows that pause execution and resume via manual webhook call.",
     features: ["Wait Step", "Webhook Resume", "Custom Delay", "Manual Confirmation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-manual-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-manual-webhook"
 },
 {
     id: 87,
@@ -956,7 +956,7 @@ const products = [
     description: "Manually build and send HTTP requests using webhooks and custom headers.",
     features: ["Manual Trigger", "HTTP Methods", "Header Configuration", "Payload Control"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/manual-http-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-http-create"
 },
 {
     id: 88,
@@ -967,7 +967,7 @@ const products = [
     description: "Update Airtable records whenever a Netlify deploy event occurs.",
     features: ["Netlify Deploy Hook", "Airtable Sync", "Site Metadata", "Triggered Updates"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/netlify-airtable-automate"
+    buyLink: "http://maken8n.gumroad.com/l/netlify-airtable-automate"
 },
 {
     id: 89,
@@ -978,7 +978,7 @@ const products = [
     description: "Trigger workflows from Netlify deploy webhooks to automate builds and logs.",
     features: ["Webhook Listener", "Netlify Integration", "Deploy Sync", "Log Management"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/netlify-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/netlify-webhook-automate"
 },
 {
     id: 90,
@@ -989,7 +989,7 @@ const products = [
     description: "Send Slack notifications after each Netlify deploy to inform your team.",
     features: ["Slack Messaging", "Deploy Status", "Netlify Hook", "Custom Alerts"],
     icon: "📣",
-    buyLink: "https://example.com/workflows/netlify-slack-automate"
+    buyLink: "http://maken8n.gumroad.com/l/netlify-slack-automate"
 },
 {
     id: 91,
@@ -1000,7 +1000,7 @@ const products = [
     description: "Manually create a new conversation in Drift to initiate customer engagement.",
     features: ["Drift Integration", "Manual Start", "Conversation Templates", "User Targeting"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/manual-drift-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-drift-create"
 },
 {
     id: 92,
@@ -1011,7 +1011,7 @@ const products = [
     description: "Send Zulip messages manually via trigger-based workflows.",
     features: ["Zulip Integration", "Manual Trigger", "Stream Messaging", "Custom Subjects"],
     icon: "✉️",
-    buyLink: "https://example.com/workflows/manual-zulip-send"
+    buyLink: "http://maken8n.gumroad.com/l/manual-zulip-send"
 },
 {
     id: 93,
@@ -1022,7 +1022,7 @@ const products = [
     description: "Trigger a GitHub-based create event workflow with noop logic for testing.",
     features: ["Create Trigger", "GitHub Integration", "Noop Flow", "Testing Framework"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/noop-github-create"
+    buyLink: "http://maken8n.gumroad.com/l/noop-github-create"
 },
 {
     id: 94,
@@ -1033,7 +1033,7 @@ const products = [
     description: "Send Slack messages on a recurring CRON schedule to automate communication.",
     features: ["CRON Schedule", "Slack Messaging", "Team Alerts", "Custom Messages"],
     icon: "📆",
-    buyLink: "https://example.com/workflows/slack-cron-automate"
+    buyLink: "http://maken8n.gumroad.com/l/slack-cron-automate"
 },
 {
     id: 95,
@@ -1044,7 +1044,7 @@ const products = [
     description: "Create and send personality-based requests to Humantic AI manually via webhook.",
     features: ["Humantic AI", "Webhook Trigger", "Profile Analysis", "Custom Fields"],
     icon: "🧠",
-    buyLink: "https://example.com/workflows/manual-humanticai-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-humanticai-create"
 },
 {
     id: 96,
@@ -1055,7 +1055,7 @@ const products = [
     description: "Manually create Vero marketing campaigns with full event and audience control.",
     features: ["Vero Integration", "Manual Launch", "Campaign Setup", "Email Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/manual-vero-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-vero-create"
 },
 {
     id: 97,
@@ -1066,7 +1066,7 @@ const products = [
     description: "Manually trigger AWS Textract to extract text and data from uploaded documents.",
     features: ["Textract API", "Manual Trigger", "OCR Data", "Document Upload"],
     icon: "📑",
-    buyLink: "https://example.com/workflows/manual-awstextract-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-awstextract-automate"
 },
 {
     id: 98,
@@ -1077,7 +1077,7 @@ const products = [
     description: "Automatically send attachments from emails to Google Drive using this workflow.",
     features: ["Email Parsing", "Attachment Handling", "Google Drive Upload", "File Automation"],
     icon: "📁",
-    buyLink: "https://example.com/workflows/emailsend-googledrive-send"
+    buyLink: "http://maken8n.gumroad.com/l/emailsend-googledrive-send"
 },
 {
     id: 99,
@@ -1088,7 +1088,7 @@ const products = [
     description: "Manually create new contacts in Salesmate CRM with custom fields.",
     features: ["Salesmate Integration", "Manual Input", "Lead Management", "CRM Sync"],
     icon: "📇",
-    buyLink: "https://example.com/workflows/manual-salesmate-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-salesmate-create"
 },
 {
     id: 100,
@@ -1099,7 +1099,7 @@ const products = [
     description: "Enrich HubSpot records using Clearbit data whenever new info is triggered.",
     features: ["HubSpot Integration", "Clearbit Enrichment", "CRM Updates", "Trigger Sync"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/hubspot-clearbit-update"
+    buyLink: "http://maken8n.gumroad.com/l/hubspot-clearbit-update"
 },
 {
     id: 101,
@@ -1110,7 +1110,7 @@ const products = [
     description: "Automatically post data from GraphQL queries to Discord channels on a schedule.",
     features: ["GraphQL Integration", "Discord Sync", "Scheduled Automation", "Message Posting"],
     icon: "🧵",
-    buyLink: "https://example.com/workflows/graphql-discord-automate"
+    buyLink: "http://maken8n.gumroad.com/l/graphql-discord-automate"
 },
 {
     id: 102,
@@ -1121,7 +1121,7 @@ const products = [
     description: "Manually trigger Uplead data import workflows with precise control.",
     features: ["Uplead Import", "Manual Trigger", "Lead Management", "Custom Control"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/manual-uplead-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-uplead-import"
 },
 {
     id: 103,
@@ -1132,7 +1132,7 @@ const products = [
     description: "Convert binary files into structured data and send tasks to Onfleet.",
     features: ["File Processing", "Onfleet Integration", "Task Automation", "Binary Reader"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/readbinaryfile-onfleet-create"
+    buyLink: "http://maken8n.gumroad.com/l/readbinaryfile-onfleet-create"
 },
 {
     id: 104,
@@ -1143,7 +1143,7 @@ const products = [
     description: "Create scheduled webhooks with manual and cron-based triggers.",
     features: ["Manual Control", "Cron Schedule", "Webhook Generator", "Flexible Timing"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/manual-cron-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-cron-create-webhook"
 },
 {
     id: 105,
@@ -1154,7 +1154,7 @@ const products = [
     description: "Manually trigger workflows that automate actions in Google Sheets.",
     features: ["Google Sheets", "Manual Triggers", "Spreadsheet Automation", "Data Sync"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/manual-googlesheets-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-googlesheets-automate"
 },
 {
     id: 106,
@@ -1165,7 +1165,7 @@ const products = [
     description: "Chain webhook responses to trigger further webhook automations.",
     features: ["Webhook Chains", "Automation", "Trigger-on-Response", "API Orchestration"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/respondwebhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/respondwebhook-automate"
 },
 {
     id: 107,
@@ -1176,7 +1176,7 @@ const products = [
     description: "Manually trigger data flow imports to streamline automation processes.",
     features: ["Manual Start", "Flow Imports", "Data Sync", "Custom Trigger"],
     icon: "💾",
-    buyLink: "https://example.com/workflows/manual-flow-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-flow-import"
 },
 {
     id: 108,
@@ -1187,7 +1187,7 @@ const products = [
     description: "Send triggered Facebook updates directly to Mattermost for team awareness.",
     features: ["Facebook Triggers", "Mattermost Sync", "Team Alerts", "Social Monitoring"],
     icon: "📣",
-    buyLink: "https://example.com/workflows/facebook-mattermost-update"
+    buyLink: "http://maken8n.gumroad.com/l/facebook-mattermost-update"
 },
 {
     id: 109,
@@ -1198,7 +1198,7 @@ const products = [
     description: "Generate Typeform forms or entries triggered by Slack interactions.",
     features: ["Slack Integration", "Typeform Creation", "Form Automation", "Trigger Sync"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/slack-typeform-create"
+    buyLink: "http://maken8n.gumroad.com/l/slack-typeform-create"
 },
 {
     id: 110,
@@ -1209,7 +1209,7 @@ const products = [
     description: "Automatically add Calendly events to Notion databases as they occur.",
     features: ["Calendly Sync", "Notion Integration", "Event Automation", "Database Update"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/calendly-notion-automate"
+    buyLink: "http://maken8n.gumroad.com/l/calendly-notion-automate"
 },
 {
     id: 111,
@@ -1220,7 +1220,7 @@ const products = [
     description: "Send real-time error alerts to Slack with triggered automations.",
     features: ["Error Monitoring", "Slack Alerts", "Automation", "Incident Response"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/error-slack-automate"
+    buyLink: "http://maken8n.gumroad.com/l/error-slack-automate"
 },
 {
     id: 112,
@@ -1231,7 +1231,7 @@ const products = [
     description: "Set up a manual monitor that triggers 'no operation' (noop) for testing.",
     features: ["Manual Trigger", "Monitoring", "Noop Handler", "Safe Testing"],
     icon: "🧪",
-    buyLink: "https://example.com/workflows/manual-noop-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/manual-noop-monitor"
 },
 {
     id: 113,
@@ -1242,7 +1242,7 @@ const products = [
     description: "Manually send N8N training datastore records to automation webhooks.",
     features: ["N8N Integration", "Datastore Access", "Webhook Automation", "Manual Trigger"],
     icon: "📚",
-    buyLink: "https://example.com/workflows/n8n-training-customer-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/n8n-training-customer-webhook"
 },
 {
     id: 114,
@@ -1253,7 +1253,7 @@ const products = [
     description: "Update HubSpot CRM records on a defined cron schedule.",
     features: ["HubSpot Sync", "Scheduled Cron", "CRM Automation", "Timed Updates"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/hubspot-cron-update"
+    buyLink: "http://maken8n.gumroad.com/l/hubspot-cron-update"
 },
 {
     id: 115,
@@ -1264,7 +1264,7 @@ const products = [
     description: "Schedule automated workflows within HubSpot using cron timing.",
     features: ["HubSpot Automation", "Cron Jobs", "Scheduled Workflows", "Timed Triggers"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/hubspot-cron-automate"
+    buyLink: "http://maken8n.gumroad.com/l/hubspot-cron-automate"
 },
 {
     id: 116,
@@ -1275,7 +1275,7 @@ const products = [
     description: "Manually initiate webhooks to start automation flows at will.",
     features: ["Manual Start", "Webhook Trigger", "Automation Kickoff", "Controlled Execution"],
     icon: "🎯",
-    buyLink: "https://example.com/workflows/manual-start-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-start-webhook"
 },
 {
     id: 117,
@@ -1286,7 +1286,7 @@ const products = [
     description: "Send Mattermost messages to Google Cloud NLP for sentiment or entity analysis.",
     features: ["Mattermost Sync", "Google NLP", "Text Analysis", "Triggered Processing"],
     icon: "🧠",
-    buyLink: "https://example.com/workflows/mattermost-gcloud-nlp"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-gcloud-nlp"
 },
 {
     id: 118,
@@ -1297,7 +1297,7 @@ const products = [
     description: "Automatically trigger and update a flow when data changes occur.",
     features: ["Flow Automation", "Triggered Update", "Data Sync", "Real-Time Triggers"],
     icon: "🔃",
-    buyLink: "https://example.com/workflows/flow-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/flow-update-triggered"
 },
 {
     id: 119,
@@ -1308,7 +1308,7 @@ const products = [
     description: "Read emails via IMAP and automatically send content to Nextcloud.",
     features: ["IMAP Email Parsing", "Nextcloud Integration", "Email Automation", "Content Forwarding"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/emailimap-nextcloud-send"
+    buyLink: "http://maken8n.gumroad.com/l/emailimap-nextcloud-send"
 },
 {
     id: 120,
@@ -1319,7 +1319,7 @@ const products = [
     description: "Create scheduled GitHub workflows using cron expressions.",
     features: ["GitHub Integration", "Cron Jobs", "Scheduled Automation", "Workflow Triggers"],
     icon: "🐙",
-    buyLink: "https://example.com/workflows/github-cron-create"
+    buyLink: "http://maken8n.gumroad.com/l/github-cron-create"
 },
 {
     id: 121,
@@ -1330,7 +1330,7 @@ const products = [
     description: "Trigger Firebase Realtime Database updates via HTTP webhook.",
     features: ["HTTP Trigger", "Firebase Realtime DB", "Live Updates", "Webhook Automation"],
     icon: "🔥",
-    buyLink: "https://example.com/workflows/http-firebase-db-update"
+    buyLink: "http://maken8n.gumroad.com/l/http-firebase-db-update"
 },
 {
     id: 122,
@@ -1341,7 +1341,7 @@ const products = [
     description: "Manually edit images and create webhooks to trigger automation.",
     features: ["Image Editing", "Manual Control", "Webhook Creation", "Media Automation"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/manual-editimage-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-editimage-webhook"
 },
 {
     id: 123,
@@ -1352,7 +1352,7 @@ const products = [
     description: "Send AMQP messages when a trigger is activated.",
     features: ["AMQP Integration", "Message Queue", "Triggered Messaging", "Asynchronous Automation"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/amqp-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/amqp-send-triggered"
 },
 {
     id: 124,
@@ -1363,7 +1363,7 @@ const products = [
     description: "Use HTTP webhooks to automate MySQL database operations.",
     features: ["HTTP Trigger", "MySQL Actions", "Database Automation", "Data Sync"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/http-mysql-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-mysql-automation"
 },
 {
     id: 125,
@@ -1374,7 +1374,7 @@ const products = [
     description: "Send Telegram messages to trigger webhook-driven automation flows.",
     features: ["Telegram Bot", "Webhook Trigger", "Chat Automation", "Workflow Sync"],
     icon: "📨",
-    buyLink: "https://example.com/workflows/telegram-webhook-automation"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-webhook-automation"
 },
 {
     id: 126,
@@ -1385,7 +1385,7 @@ const products = [
     description: "Trigger Notion data to create new webhooks dynamically.",
     features: ["Notion Integration", "Webhook Creation", "Data-Driven Triggers", "Dynamic Workflows"],
     icon: "🧾",
-    buyLink: "https://example.com/workflows/notion-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/notion-webhook-create"
 },
 {
     id: 127,
@@ -1396,7 +1396,7 @@ const products = [
     description: "Duplicate entry: Same as previous. Can be customized for variant webhook actions.",
     features: ["Notion", "Webhook", "Duplicate Handling", "Custom Actions"],
     icon: "♻️",
-    buyLink: "https://example.com/workflows/notion-webhook-create-2"
+    buyLink: "http://maken8n.gumroad.com/l/notion-webhook-create-2"
 },
 {
     id: 128,
@@ -1407,7 +1407,7 @@ const products = [
     description: "Trigger GitLab automations using external HTTP webhooks.",
     features: ["GitLab CI/CD", "HTTP Trigger", "Webhook Integration", "DevOps Automation"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/http-gitlab-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-gitlab-automation"
 },
 {
     id: 129,
@@ -1418,7 +1418,7 @@ const products = [
     description: "Send scheduled tweets via HTTP-triggered automation.",
     features: ["Twitter API", "Scheduled Posts", "HTTP Trigger", "Social Media Automation"],
     icon: "🐦",
-    buyLink: "https://example.com/workflows/http-twitter-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/http-twitter-scheduled"
 },
 {
     id: 130,
@@ -1429,7 +1429,7 @@ const products = [
     description: "Manually send data and trigger downstream automation flows.",
     features: ["Manual Trigger", "Custom Control", "Flexible Automation", "Data Push"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/manual-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-send-triggered"
 },
 {
     id: 131,
@@ -1440,7 +1440,7 @@ const products = [
     description: "Use function items to dynamically create Telegram webhook messages.",
     features: ["Function Blocks", "Telegram Bot", "Webhook Generator", "Dynamic Messaging"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/functionitem-telegram-create"
+    buyLink: "http://maken8n.gumroad.com/l/functionitem-telegram-create"
 },
 {
     id: 132,
@@ -1451,7 +1451,7 @@ const products = [
     description: "Automatically create Toggl time entries based on triggered events.",
     features: ["Toggl Integration", "Time Tracking", "Trigger Sync", "Automation"],
     icon: "⏱️",
-    buyLink: "https://example.com/workflows/toggl-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/toggl-create-triggered"
 },
 {
     id: 133,
@@ -1462,7 +1462,7 @@ const products = [
     description: "Use AWS Textract to extract text and send results via Telegram automation.",
     features: ["AWS Textract", "Telegram Bot", "Document Analysis", "Triggered Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/textract-telegram-automate"
+    buyLink: "http://maken8n.gumroad.com/l/textract-telegram-automate"
 },
 {
     id: 134,
@@ -1473,7 +1473,7 @@ const products = [
     description: "Wait for AWS S3 uploads before triggering downstream automation.",
     features: ["AWS S3", "Upload Wait", "Trigger Workflow", "Cloud Storage Sync"],
     icon: "☁️",
-    buyLink: "https://example.com/workflows/s3-wait-automate"
+    buyLink: "http://maken8n.gumroad.com/l/s3-wait-automate"
 },
 {
     id: 135,
@@ -1484,7 +1484,7 @@ const products = [
     description: "Use AWS Rekognition results to populate Google Sheets via webhook.",
     features: ["Image Recognition", "Google Sheets Sync", "Webhook Data", "AI Automation"],
     icon: "👁️",
-    buyLink: "https://example.com/workflows/rekognition-sheets-automation"
+    buyLink: "http://maken8n.gumroad.com/l/rekognition-sheets-automation"
 },
 {
     id: 136,
@@ -1495,7 +1495,7 @@ const products = [
     description: "Import files from AWS S3 to Google Drive upon new uploads.",
     features: ["AWS S3", "Google Drive Sync", "File Import", "Cloud Automation"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/s3-gdrive-import"
+    buyLink: "http://maken8n.gumroad.com/l/s3-gdrive-import"
 },
 {
     id: 137,
@@ -1506,7 +1506,7 @@ const products = [
     description: "Trigger Onfleet delivery task creation from Shopify orders.",
     features: ["Shopify Integration", "Onfleet Tasks", "E-Commerce Automation", "Delivery Workflow"],
     icon: "📦",
-    buyLink: "https://example.com/workflows/shopify-onfleet-create"
+    buyLink: "http://maken8n.gumroad.com/l/shopify-onfleet-create"
 },
 {
     id: 138,
@@ -1517,7 +1517,7 @@ const products = [
     description: "Update Dropbox files via triggered HTTP webhooks.",
     features: ["Dropbox Integration", "File Updates", "HTTP Trigger", "Automation"],
     icon: "🗃️",
-    buyLink: "https://example.com/workflows/http-dropbox-update"
+    buyLink: "http://maken8n.gumroad.com/l/http-dropbox-update"
 },
 {
     id: 139,
@@ -1528,7 +1528,7 @@ const products = [
     description: "Trigger Mattermost messages and actions via HTTP webhook automation.",
     features: ["HTTP Trigger", "Mattermost Sync", "Message Automation", "Team Communication"],
     icon: "📢",
-    buyLink: "https://example.com/workflows/http-mattermost-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-mattermost-automation"
 },
 {
     id: 140,
@@ -1539,7 +1539,7 @@ const products = [
     description: "Update Twilio contacts or messages based on Mautic triggers.",
     features: ["Mautic Integration", "Twilio Sync", "Triggered Updates", "Marketing Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/mautic-twilio-update"
+    buyLink: "http://maken8n.gumroad.com/l/mautic-twilio-update"
 },
 {
     id: 141,
@@ -1550,7 +1550,7 @@ const products = [
     description: "Trigger AWS Rekognition for image analysis via HTTP webhook.",
     features: ["AWS Rekognition", "HTTP Trigger", "Image Analysis", "Automation Webhook"],
     icon: "🧠",
-    buyLink: "https://example.com/workflows/http-awsrekognition"
+    buyLink: "http://maken8n.gumroad.com/l/http-awsrekognition"
 },
 {
     id: 142,
@@ -1561,7 +1561,7 @@ const products = [
     description: "Manually trigger the import of external datasets or files.",
     features: ["Manual Trigger", "Data Import", "Custom Sync", "Controlled Workflow"],
     icon: "📁",
-    buyLink: "https://example.com/workflows/manual-import-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-import-triggered"
 },
 {
     id: 143,
@@ -1572,7 +1572,7 @@ const products = [
     description: "Create function items from Telegram data on a schedule.",
     features: ["Telegram Integration", "Function Item Creation", "Scheduled Automation", "Bot Data"],
     icon: "🤖",
-    buyLink: "https://example.com/workflows/telegram-functionitem-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-functionitem-scheduled"
 },
 {
     id: 144,
@@ -1583,7 +1583,7 @@ const products = [
     description: "Create function items based on datetime events using webhooks.",
     features: ["Datetime Trigger", "Function Items", "Webhook Actions", "Timed Automation"],
     icon: "📆",
-    buyLink: "https://example.com/workflows/datetime-functionitem-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/datetime-functionitem-webhook"
 },
 {
     id: 145,
@@ -1594,7 +1594,7 @@ const products = [
     description: "Manually start a predefined automation workflow on demand.",
     features: ["Manual Start", "Workflow Trigger", "Custom Automation", "User-Initiated Flow"],
     icon: "🧭",
-    buyLink: "https://example.com/workflows/manual-automation-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-automation-triggered"
 },
 {
     id: 146,
@@ -1605,7 +1605,7 @@ const products = [
     description: "Send scheduled weather updates from OpenWeatherMap to Spontit notifications.",
     features: ["Weather Alerts", "Spontit Integration", "Scheduled Push", "Weather Automation"],
     icon: "🌤️",
-    buyLink: "https://example.com/workflows/openweathermap-spontit-update"
+    buyLink: "http://maken8n.gumroad.com/l/openweathermap-spontit-update"
 },
 {
     id: 147,
@@ -1616,7 +1616,7 @@ const products = [
     description: "Trigger a Telegram message send via HTTP webhook.",
     features: ["Telegram Bot", "Webhook Trigger", "Message Automation", "Chat Notifications"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/http-telegram-send"
+    buyLink: "http://maken8n.gumroad.com/l/http-telegram-send"
 },
 {
     id: 148,
@@ -1627,7 +1627,7 @@ const products = [
     description: "Process spreadsheet files upon webhook response and trigger automation.",
     features: ["Webhook Response", "Spreadsheet Parsing", "File Automation", "Data Handling"],
     icon: "📑",
-    buyLink: "https://example.com/workflows/webhook-spreadsheet-automate"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-spreadsheet-automate"
 },
 {
     id: 149,
@@ -1638,7 +1638,7 @@ const products = [
     description: "Trigger crypto-related workflows via automation webhooks.",
     features: ["Crypto Data", "Webhook Triggers", "Financial Automation", "Blockchain Sync"],
     icon: "🪙",
-    buyLink: "https://example.com/workflows/crypto-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/crypto-webhook-automate"
 },
 {
     id: 150,
@@ -1649,7 +1649,7 @@ const products = [
     description: "Create a new webhook in response to another webhook event.",
     features: ["Chained Webhooks", "Webhook Creation", "Trigger-on-Trigger", "API Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-respond-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-respond-create"
 },
 {
     id: 151,
@@ -1660,7 +1660,7 @@ const products = [
     description: "Manually trigger Lingvanex translation via automation webhook.",
     features: ["Lingvanex API", "Manual Start", "Text Translation", "Automation Webhook"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/manual-lingvanex"
+    buyLink: "http://maken8n.gumroad.com/l/manual-lingvanex"
 },
 {
     id: 152,
@@ -1671,7 +1671,7 @@ const products = [
     description: "Create and send Slack messages from HTTP webhook events.",
     features: ["Slack Messaging", "Webhook Trigger", "Channel Updates", "Real-Time Alerts"],
     icon: "💼",
-    buyLink: "https://example.com/workflows/http-slack-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-slack-create"
 },
 {
     id: 153,
@@ -1682,7 +1682,7 @@ const products = [
     description: "Schedule Google Calendar events based on specific date/time rules.",
     features: ["Datetime Triggers", "Google Calendar", "Event Automation", "Scheduling"],
     icon: "🗓️",
-    buyLink: "https://example.com/workflows/datetime-gcal-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/datetime-gcal-scheduled"
 },
 {
     id: 154,
@@ -1693,7 +1693,7 @@ const products = [
     description: "Send scheduled financial or subscription data from Mattermost to ProfitWell.",
     features: ["Mattermost Sync", "ProfitWell Integration", "Finance Automation", "Scheduled Reports"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/mattermost-profitwell-send"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-profitwell-send"
 },
 {
     id: 155,
@@ -1704,7 +1704,7 @@ const products = [
     description: "Schedule delayed Telegram messages using automation waits.",
     features: ["Telegram Bot", "Scheduled Delay", "Message Automation", "Timed Delivery"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/telegram-wait-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-wait-scheduled"
 },
 {
     id: 156,
@@ -1715,7 +1715,7 @@ const products = [
     description: "Read binary files and pass data to code blocks via automation webhook.",
     features: ["Binary Processing", "Custom Code", "Webhook Automation", "Advanced Parsing"],
     icon: "🧾",
-    buyLink: "https://example.com/workflows/readbinary-code-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/readbinary-code-webhook"
 },
 {
     id: 157,
@@ -1726,7 +1726,7 @@ const products = [
     description: "Send noop (test) triggers to create rows in Google Sheets.",
     features: ["Noop Events", "Google Sheets", "Data Entry", "Webhook Testing"],
     icon: "📃",
-    buyLink: "https://example.com/workflows/noop-sheets-create"
+    buyLink: "http://maken8n.gumroad.com/l/noop-sheets-create"
 },
 {
     id: 158,
@@ -1737,7 +1737,7 @@ const products = [
     description: "Manually initiate automated workflows across systems.",
     features: ["Manual Launch", "Workflow Sync", "Cross-System Automation", "Trigger Anywhere"],
     icon: "🕹️",
-    buyLink: "https://example.com/workflows/manual-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-automate-triggered"
 },
 {
     id: 159,
@@ -1748,7 +1748,7 @@ const products = [
     description: "Test scheduled email sends using noop triggers.",
     features: ["Noop Triggers", "Email Automation", "Scheduled Delivery", "Workflow Testing"],
     icon: "📨",
-    buyLink: "https://example.com/workflows/noop-email-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/noop-email-scheduled"
 },
 {
     id: 160,
@@ -1759,7 +1759,7 @@ const products = [
     description: "Manually trigger creation of a Sendy campaign or subscriber.",
     features: ["Sendy Integration", "Manual Trigger", "Email Campaigns", "Marketing Automation"],
     icon: "📬",
-    buyLink: "https://example.com/workflows/manual-sendy-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-sendy-create"
 },
 {
     id: 161,
@@ -1770,7 +1770,7 @@ const products = [
     description: "Send delivery tasks to Onfleet from Slack message triggers.",
     features: ["Slack Commands", "Onfleet Integration", "Triggered Delivery", "Team Logistics"],
     icon: "🚚",
-    buyLink: "https://example.com/workflows/slack-onfleet-send"
+    buyLink: "http://maken8n.gumroad.com/l/slack-onfleet-send"
 },
 {
     id: 162,
@@ -1781,7 +1781,7 @@ const products = [
     description: "Schedule price updates from Coingecko using cron automation.",
     features: ["Crypto Data", "Scheduled Fetch", "Cron Jobs", "Market Sync"],
     icon: "📉",
-    buyLink: "https://example.com/workflows/coingecko-cron-update"
+    buyLink: "http://maken8n.gumroad.com/l/coingecko-cron-update"
 },
 {
     id: 163,
@@ -1792,7 +1792,7 @@ const products = [
     description: "Use function items to trigger command execution through webhooks.",
     features: ["Command Execution", "Webhook Trigger", "Function Logic", "System Automation"],
     icon: "🧩",
-    buyLink: "https://example.com/workflows/functionitem-executecommand"
+    buyLink: "http://maken8n.gumroad.com/l/functionitem-executecommand"
 },
 {
     id: 164,
@@ -1803,7 +1803,7 @@ const products = [
     description: "Manually trigger automation sequences across multiple tools.",
     features: ["Manual Control", "Custom Automation", "Trigger-Based Flow", "Workflow Sync"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/manual-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-automate-triggered"
 },
 {
     id: 165,
@@ -1814,7 +1814,7 @@ const products = [
     description: "Create Airtable records from triggered Mattermost messages.",
     features: ["Mattermost Integration", "Airtable Records", "Trigger-Based Actions", "Team Data"],
     icon: "📚",
-    buyLink: "https://example.com/workflows/mattermost-airtable-create"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-airtable-create"
 },
 {
     id: 166,
@@ -1825,7 +1825,7 @@ const products = [
     description: "Manually fire HTTP webhooks to initiate automation workflows.",
     features: ["Manual Trigger", "HTTP Webhooks", "API Automation", "Custom Workflows"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/manual-http-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-http-automation"
 },
 {
     id: 167,
@@ -1836,7 +1836,7 @@ const products = [
     description: "Schedule creation of GitHub issues, repos, or code pushes.",
     features: ["Code Automation", "GitHub API", "Scheduled Triggers", "DevOps"],
     icon: "🧑‍💻",
-    buyLink: "https://example.com/workflows/code-github-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-github-create"
 },
 {
     id: 168,
@@ -1847,7 +1847,7 @@ const products = [
     description: "Automate Strapi content updates using webhooks.",
     features: ["Strapi CMS", "Webhook Sync", "Content Automation", "API Trigger"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/strapi-webhook-automation"
+    buyLink: "http://maken8n.gumroad.com/l/strapi-webhook-automation"
 },
 {
     id: 169,
@@ -1858,7 +1858,7 @@ const products = [
     description: "Generate and automate actions for dynamic item lists.",
     features: ["Function Items", "List Handling", "Data Processing", "Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/functionitem-itemlists-automate"
+    buyLink: "http://maken8n.gumroad.com/l/functionitem-itemlists-automate"
 },
 {
     id: 170,
@@ -1869,7 +1869,7 @@ const products = [
     description: "Trigger Onfleet automations from new Shopify orders.",
     features: ["Shopify Integration", "Onfleet Tasks", "E-Commerce Automation", "Delivery Sync"],
     icon: "🛍️",
-    buyLink: "https://example.com/workflows/shopify-onfleet-automate"
+    buyLink: "http://maken8n.gumroad.com/l/shopify-onfleet-automate"
 },
 {
     id: 171,
@@ -1880,7 +1880,7 @@ const products = [
     description: "Create Onfleet delivery tasks from QuickBooks order triggers.",
     features: ["QuickBooks Orders", "Onfleet Sync", "Delivery Automation", "Business Workflow"],
     icon: "💼",
-    buyLink: "https://example.com/workflows/quickbooks-onfleet-create"
+    buyLink: "http://maken8n.gumroad.com/l/quickbooks-onfleet-create"
 },
 {
     id: 172,
@@ -1891,7 +1891,7 @@ const products = [
     description: "Store Onfleet task data in Google Drive upon task creation.",
     features: ["Onfleet Integration", "Google Drive Sync", "Task Automation", "File Storage"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/onfleet-gdrive-create"
+    buyLink: "http://maken8n.gumroad.com/l/onfleet-gdrive-create"
 },
 {
     id: 173,
@@ -1902,7 +1902,7 @@ const products = [
     description: "Parse RSS feeds and send updates to Telegram on a schedule.",
     features: ["RSS Feed", "Telegram Bot", "Content Sharing", "Scheduled Posts"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/rssfeed-telegram-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/rssfeed-telegram-scheduled"
 },
 {
     id: 174,
@@ -1913,7 +1913,7 @@ const products = [
     description: "Manually add records to Quickbase from custom trigger flows.",
     features: ["Quickbase API", "Manual Entry", "Trigger Sync", "Database Automation"],
     icon: "🧾",
-    buyLink: "https://example.com/workflows/manual-quickbase-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-quickbase-create"
 },
 {
     id: 175,
@@ -1924,7 +1924,7 @@ const products = [
     description: "Run commands that trigger function item workflows automatically.",
     features: ["Command Execution", "Function Logic", "Workflow Triggers", "Custom Scripts"],
     icon: "🖥️",
-    buyLink: "https://example.com/workflows/executecommand-functionitem"
+    buyLink: "http://maken8n.gumroad.com/l/executecommand-functionitem"
 },
 {
     id: 176,
@@ -1935,7 +1935,7 @@ const products = [
     description: "Manually trigger Slack messages via automation webhooks.",
     features: ["Slack Messaging", "Manual Trigger", "Team Alerts", "Webhook Control"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/manual-slack-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-slack-automation"
 },
 {
     id: 177,
@@ -1946,7 +1946,7 @@ const products = [
     description: "Manually import synonym data from OpenThesaurus for analysis.",
     features: ["OpenThesaurus API", "Manual Sync", "Data Import", "Linguistic Automation"],
     icon: "🔤",
-    buyLink: "https://example.com/workflows/manual-openthesaurus-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-openthesaurus-import"
 },
 {
     id: 178,
@@ -1957,7 +1957,7 @@ const products = [
     description: "Send messages to Telegram when NocoDB entries are updated.",
     features: ["NocoDB Tables", "Telegram Alerts", "Webhook Automation", "Data Sync"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/nocodb-telegram-create"
+    buyLink: "http://maken8n.gumroad.com/l/nocodb-telegram-create"
 },
 {
     id: 179,
@@ -1968,7 +1968,7 @@ const products = [
     description: "Use chained webhooks to import and act on incoming data.",
     features: ["Webhook Chains", "Data Import", "Trigger Response", "API Sync"],
     icon: "🔂",
-    buyLink: "https://example.com/workflows/respondwebhook-import"
+    buyLink: "http://maken8n.gumroad.com/l/respondwebhook-import"
 },
 {
     id: 180,
@@ -1979,7 +1979,7 @@ const products = [
     description: "Manually create PagerDuty incidents for incident management.",
     features: ["Manual Alert", "PagerDuty API", "Incident Automation", "Ops Response"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/manual-pagerduty-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-pagerduty-create"
 },
 {
     id: 181,
@@ -1990,7 +1990,7 @@ const products = [
     description: "Send real-time weather data via webhook to trigger workflows.",
     features: ["Weather API", "Webhook Automation", "Live Sync", "Environmental Monitoring"],
     icon: "🌦️",
-    buyLink: "https://example.com/workflows/openweathermap-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/openweathermap-webhook"
 },
 {
     id: 182,
@@ -2001,7 +2001,7 @@ const products = [
     description: "Send YouTube updates to Telegram on a regular schedule.",
     features: ["YouTube Sync", "Telegram Bot", "Video Notifications", "Scheduled Alerts"],
     icon: "📺",
-    buyLink: "https://example.com/workflows/youtube-telegram-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/youtube-telegram-scheduled"
 },
 {
     id: 183,
@@ -2012,7 +2012,7 @@ const products = [
     description: "Manually create a case or alert in TheHive incident response platform.",
     features: ["TheHive Integration", "Manual Creation", "Security Ops", "Incident Reporting"],
     icon: "🕵️",
-    buyLink: "https://example.com/workflows/manual-thehive-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-thehive-create"
 },
 {
     id: 184,
@@ -2023,7 +2023,7 @@ const products = [
     description: "Duplicate entry – same as Manual HTTP Automation Webhook. Can be customized for variant.",
     features: ["Manual Control", "HTTP Trigger", "Custom Webhook", "Flexible Logic"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/manual-http-automation-2"
+    buyLink: "http://maken8n.gumroad.com/l/manual-http-automation-2"
 },
 {
     id: 185,
@@ -2034,7 +2034,7 @@ const products = [
     description: "Schedule manual execution of export commands for automation.",
     features: ["Manual Execution", "Scheduled Exports", "Command Line", "System Sync"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/manual-executecommand-export"
+    buyLink: "http://maken8n.gumroad.com/l/manual-executecommand-export"
 },
 {
     id: 186,
@@ -2045,7 +2045,7 @@ const products = [
     description: "Trigger command execution from Telegram messages using webhooks.",
     features: ["Telegram Bot", "Command Trigger", "Webhook Processing", "Bot Automation"],
     icon: "🧾",
-    buyLink: "https://example.com/workflows/telegram-executecommand"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-executecommand"
 },
 {
     id: 187,
@@ -2056,7 +2056,7 @@ const products = [
     description: "Manually import Cortex data for analysis and response tasks.",
     features: ["Cortex API", "Manual Trigger", "Security Automation", "Threat Intelligence"],
     icon: "🧬",
-    buyLink: "https://example.com/workflows/manual-cortex-import"
+    buyLink: "http://maken8n.gumroad.com/l/manual-cortex-import"
 },
 {
     id: 188,
@@ -2067,7 +2067,7 @@ const products = [
     description: "Manually trigger writing binary files using automation webhook.",
     features: ["Binary File Handling", "Manual Start", "Webhook Automation", "File Creation"],
     icon: "💾",
-    buyLink: "https://example.com/workflows/manual-writebinaryfile"
+    buyLink: "http://maken8n.gumroad.com/l/manual-writebinaryfile"
 },
 {
     id: 189,
@@ -2078,7 +2078,7 @@ const products = [
     description: "Manually add data to QuestDB for real-time analytics.",
     features: ["QuestDB Integration", "Manual Entry", "Time Series Data", "Triggered Writes"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/manual-questdb-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-questdb-create"
 },
 {
     id: 190,
@@ -2089,7 +2089,7 @@ const products = [
     description: "Automatically update TheHive cases based on triggers.",
     features: ["TheHive API", "Case Updates", "Security Workflow", "Trigger Sync"],
     icon: "🛡️",
-    buyLink: "https://example.com/workflows/thehive-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/thehive-update-triggered"
 },
 {
     id: 191,
@@ -2100,7 +2100,7 @@ const products = [
     description: "Send sticky notes through automation webhooks from manual triggers.",
     features: ["Sticky Notes", "Manual Trigger", "Webhook Sync", "Notes Automation"],
     icon: "🗒️",
-    buyLink: "https://example.com/workflows/manual-stickynote"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote"
 },
 {
     id: 192,
@@ -2111,7 +2111,7 @@ const products = [
     description: "Manually trigger Slack webhook creation for messaging flows.",
     features: ["Slack API", "Webhook Messages", "Manual Sync", "Workflow Control"],
     icon: "🛎️",
-    buyLink: "https://example.com/workflows/manual-slack-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-slack-create"
 },
 {
     id: 193,
@@ -2122,7 +2122,7 @@ const products = [
     description: "Manually add contacts or campaigns in Iterable using a trigger.",
     features: ["Iterable Integration", "Manual Trigger", "Marketing Automation", "Campaign Sync"],
     icon: "📣",
-    buyLink: "https://example.com/workflows/manual-iterable-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-iterable-create"
 },
 {
     id: 194,
@@ -2133,7 +2133,7 @@ const products = [
     description: "Use noop triggers to test sending data to Kafka topics.",
     features: ["Kafka Messaging", "Noop Testing", "Stream Automation", "Trigger Debug"],
     icon: "🧪",
-    buyLink: "https://example.com/workflows/noop-kafka-send"
+    buyLink: "http://maken8n.gumroad.com/l/noop-kafka-send"
 },
 {
     id: 195,
@@ -2144,7 +2144,7 @@ const products = [
     description: "Manually create shortened URLs using the Yourls platform.",
     features: ["Yourls API", "URL Shortener", "Manual Control", "Link Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/manual-yourls-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-yourls-create"
 },
 {
     id: 196,
@@ -2155,7 +2155,7 @@ const products = [
     description: "Send AMQP messages on a scheduled interval for system sync.",
     features: ["AMQP Messaging", "Scheduled Intervals", "System Integration", "Automation"],
     icon: "⏲️",
-    buyLink: "https://example.com/workflows/interval-amqp-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/interval-amqp-scheduled"
 },
 {
     id: 197,
@@ -2166,7 +2166,7 @@ const products = [
     description: "Use noop triggers to automate data pushes to CrateDB.",
     features: ["CrateDB", "Noop Testing", "Triggered Automation", "Data Ingestion"],
     icon: "🗃️",
-    buyLink: "https://example.com/workflows/noop-cratedb-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/noop-cratedb-triggered"
 },
 {
     id: 198,
@@ -2177,7 +2177,7 @@ const products = [
     description: "Manually create and send Markdown content via webhook.",
     features: ["Markdown Content", "Manual Trigger", "Webhook Integration", "Content Creation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/manual-markdown-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-markdown-create"
 },
 {
     id: 199,
@@ -2188,7 +2188,7 @@ const products = [
     description: "Duplicate entry of manual Markdown webhook creation for custom use.",
     features: ["Markdown", "Manual Sync", "Content Automation", "Webhook Control"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/manual-markdown-create-2"
+    buyLink: "http://maken8n.gumroad.com/l/manual-markdown-create-2"
 },
 {
     id: 200,
@@ -2199,7 +2199,7 @@ const products = [
     description: "Trigger ClickUp task creation from Typeform submissions.",
     features: ["Typeform Forms", "ClickUp Tasks", "Form-to-Task", "Automation Trigger"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/typeform-clickup-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/typeform-clickup-triggered"
 },
 {
     id: 201,
@@ -2210,7 +2210,7 @@ const products = [
     description: "Manually trigger automation for training customer datastore workflows.",
     features: ["Training Data", "Manual Automation", "Customer Records", "N8N Integration"],
     icon: "📚",
-    buyLink: "https://example.com/workflows/manual-n8ntraining-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-n8ntraining-automation"
 },
 {
     id: 202,
@@ -2221,7 +2221,7 @@ const products = [
     description: "Manually trigger Ghost CMS post or content creation.",
     features: ["Ghost CMS", "Manual Creation", "Content Automation", "Blog Sync"],
     icon: "👻",
-    buyLink: "https://example.com/workflows/manual-ghost-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-ghost-create"
 },
 {
     id: 203,
@@ -2232,7 +2232,7 @@ const products = [
     description: "Manually update Airtable records using a triggered workflow.",
     features: ["Airtable Integration", "Manual Update", "Data Sync", "CRM Automation"],
     icon: "🗂️",
-    buyLink: "https://example.com/workflows/manual-airtable-update"
+    buyLink: "http://maken8n.gumroad.com/l/manual-airtable-update"
 },
 {
     id: 204,
@@ -2243,7 +2243,7 @@ const products = [
     description: "Insert new records into Snowflake from manual triggers.",
     features: ["Snowflake Integration", "Manual Entry", "Data Warehouse", "Triggered Action"],
     icon: "❄️",
-    buyLink: "https://example.com/workflows/manual-snowflake-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-snowflake-create"
 },
 {
     id: 205,
@@ -2254,7 +2254,7 @@ const products = [
     description: "Manually automate binary file reads for processing.",
     features: ["File Parsing", "Binary Data", "Manual Trigger", "Automation"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/readbinaryfile-manual-automate"
+    buyLink: "http://maken8n.gumroad.com/l/readbinaryfile-manual-automate"
 },
 {
     id: 206,
@@ -2265,7 +2265,7 @@ const products = [
     description: "Extract and send binary attachments from Gmail.",
     features: ["Gmail Integration", "Attachment Handling", "Binary Transfer", "Email Automation"],
     icon: "📎",
-    buyLink: "https://example.com/workflows/gmail-movebinarydata"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-movebinarydata"
 },
 {
     id: 207,
@@ -2276,7 +2276,7 @@ const products = [
     description: "Use data from Google Sheets to trigger binary file reads.",
     features: ["Google Sheets", "Binary Files", "Trigger Automation", "Data Pipeline"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/sheets-readbinaryfile"
+    buyLink: "http://maken8n.gumroad.com/l/sheets-readbinaryfile"
 },
 {
     id: 208,
@@ -2287,7 +2287,7 @@ const products = [
     description: "Send data to Google Sheets from external HTTP sources via webhook.",
     features: ["Google Sheets API", "Webhook Sync", "HTTP Trigger", "Spreadsheet Automation"],
     icon: "🔁",
-    buyLink: "https://example.com/workflows/http-sheets-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-sheets-automation"
 },
 {
     id: 209,
@@ -2298,7 +2298,7 @@ const products = [
     description: "Send Google Sheets content via webhook from HTTP call.",
     features: ["Spreadsheet Sharing", "Webhook Integration", "Google Sheets", "External Sync"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/http-sheets-send"
+    buyLink: "http://maken8n.gumroad.com/l/http-sheets-send"
 },
 {
     id: 210,
@@ -2309,7 +2309,7 @@ const products = [
     description: "Manually create Twist messages to trigger notifications.",
     features: ["Twist App", "Manual Trigger", "Team Messaging", "Workflow Sync"],
     icon: "🔔",
-    buyLink: "https://example.com/workflows/manual-twist-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-twist-create"
 },
 {
     id: 211,
@@ -2320,7 +2320,7 @@ const products = [
     description: "Manually update StickyNote data via triggered workflow.",
     features: ["StickyNote Updates", "Manual Control", "Note Automation", "Data Sync"],
     icon: "🗒️",
-    buyLink: "https://example.com/workflows/manual-stickynote-update"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-update"
 },
 {
     id: 212,
@@ -2331,7 +2331,7 @@ const products = [
     description: "Automate customer data tasks for training datastore via manual trigger.",
     features: ["Training Integration", "Customer Data", "Manual Trigger", "N8N Workflow"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/manual-trainingdatastore-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-trainingdatastore-automate"
 },
 {
     id: 213,
@@ -2342,7 +2342,7 @@ const products = [
     description: "Automate StickyNote creation from manual workflows.",
     features: ["Notes Automation", "Manual Trigger", "StickyNote Integration", "Custom Tasks"],
     icon: "📌",
-    buyLink: "https://example.com/workflows/manual-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-automate"
 },
 {
     id: 214,
@@ -2353,7 +2353,7 @@ const products = [
     description: "Create custom HTTP webhook endpoints from manual workflows.",
     features: ["Webhook Builder", "HTTP Triggers", "Manual Sync", "API Tools"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/manual-http-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-http-create"
 },
 {
     id: 215,
@@ -2364,7 +2364,7 @@ const products = [
     description: "Trigger wait-based actions for customer messaging in training flows.",
     features: ["Training Messenger", "Wait Automation", "Customer Flow", "N8N Control"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/n8ntraining-messenger-wait"
+    buyLink: "http://maken8n.gumroad.com/l/n8ntraining-messenger-wait"
 },
 {
     id: 216,
@@ -2375,7 +2375,7 @@ const products = [
     description: "Send NASA updates to Telegram on a scheduled basis.",
     features: ["NASA Feed", "Telegram Bot", "Scheduled Sync", "Space Alerts"],
     icon: "🛰️",
-    buyLink: "https://example.com/workflows/telegram-nasa-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-nasa-send"
 },
 {
     id: 217,
@@ -2386,7 +2386,7 @@ const products = [
     description: "Automatically create a StickyNote when receiving a webhook.",
     features: ["Webhook Trigger", "StickyNote Generation", "Automated Notes", "Data Capture"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/respondwebhook-stickynote-create"
+    buyLink: "http://maken8n.gumroad.com/l/respondwebhook-stickynote-create"
 },
 {
     id: 218,
@@ -2397,7 +2397,7 @@ const products = [
     description: "Manually create datastore entries in N8N training environments.",
     features: ["Manual Entry", "Customer Data", "N8N Datastore", "Training Workflow"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/manual-n8ntrainingdatastore-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-n8ntrainingdatastore-create"
 },
 {
     id: 219,
@@ -2408,7 +2408,7 @@ const products = [
     description: "Schedule Google Sheets actions using cron-based timing.",
     features: ["Cron Scheduling", "Google Sheets", "Timed Events", "Data Sync"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/sheets-cron-create"
+    buyLink: "http://maken8n.gumroad.com/l/sheets-cron-create"
 },
 {
     id: 220,
@@ -2419,7 +2419,7 @@ const products = [
     description: "Use cron jobs to automate updates in Google Sheets.",
     features: ["Scheduled Automation", "Google Sheets", "Cron Logic", "Data Refresh"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/sheets-cron-automation"
+    buyLink: "http://maken8n.gumroad.com/l/sheets-cron-automation"
 },
 {
     id: 221,
@@ -2430,7 +2430,7 @@ const products = [
     description: "Manually schedule Google Sheets creation or updates.",
     features: ["Manual Trigger", "Scheduled Task", "Google Sheets", "Spreadsheet Automation"],
     icon: "📃",
-    buyLink: "https://example.com/workflows/manual-sheets-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-sheets-create"
 },
 {
   id: 222,
@@ -2441,7 +2441,7 @@ const products = [
   description: "Automatically create spreadsheet files in Google Sheets.",
   features: ["Google Sheets", "File Creation", "Spreadsheet Output"],
   icon: "📄",
-  buyLink: "https://example.com/workflows/google-sheets-create-file"
+  buyLink: "http://maken8n.gumroad.com/l/google-sheets-create-file"
 },
 {
   id: 223,
@@ -2452,7 +2452,7 @@ const products = [
   description: "Trigger Google Sheets workflows in response to webhook calls.",
   features: ["Webhook Listener", "Google Sheets", "Real-time Automation"],
   icon: "🔁",
-  buyLink: "https://example.com/workflows/google-sheets-webhook-response"
+  buyLink: "http://maken8n.gumroad.com/l/google-sheets-webhook-response"
 },
 {
   id: 224,
@@ -2463,7 +2463,7 @@ const products = [
   description: "Run code automatically when a Typeform is submitted.",
   features: ["Typeform", "Code Execution", "Webhook Trigger"],
   icon: "💻",
-  buyLink: "https://example.com/workflows/code-typeform-triggered"
+  buyLink: "http://maken8n.gumroad.com/l/code-typeform-triggered"
 },
 {
   id: 225,
@@ -2474,7 +2474,7 @@ const products = [
   description: "Trigger actions manually and automate Gmail tasks.",
   features: ["Gmail", "Manual Trigger", "Email Automation"],
   icon: "📧",
-  buyLink: "https://example.com/workflows/manual-gmail-trigger"
+  buyLink: "http://maken8n.gumroad.com/l/manual-gmail-trigger"
 },
 {
   id: 226,
@@ -2485,7 +2485,7 @@ const products = [
   description: "Sync Asana tasks to Notion automatically.",
   features: ["Asana", "Notion", "Task Sync", "Triggered Workflow"],
   icon: "📋",
-  buyLink: "https://example.com/workflows/asana-notion-trigger"
+  buyLink: "http://maken8n.gumroad.com/l/asana-notion-trigger"
 },
 {
   id: 227,
@@ -2496,7 +2496,7 @@ const products = [
   description: "Import brand data using Brandfetch on manual trigger.",
   features: ["Brandfetch", "Manual Trigger", "Brand Data Import"],
   icon: "🎨",
-  buyLink: "https://example.com/workflows/manual-brandfetch-import"
+  buyLink: "http://maken8n.gumroad.com/l/manual-brandfetch-import"
 },
 {
   id: 228,
@@ -2507,7 +2507,7 @@ const products = [
   description: "Schedule contact sync from HubSpot to Mailchimp.",
   features: ["HubSpot", "Mailchimp", "Scheduled Sync"],
   icon: "📬",
-  buyLink: "https://example.com/workflows/hubspot-mailchimp-sync-1"
+  buyLink: "http://maken8n.gumroad.com/l/hubspot-mailchimp-sync-1"
 },
 {
   id: 229,
@@ -2518,7 +2518,7 @@ const products = [
   description: "Sync your HubSpot contacts with Mailchimp campaigns.",
   features: ["HubSpot", "Mailchimp", "Contact Automation"],
   icon: "🔄",
-  buyLink: "https://example.com/workflows/hubspot-mailchimp-sync-2"
+  buyLink: "http://maken8n.gumroad.com/l/hubspot-mailchimp-sync-2"
 },
 {
   id: 230,
@@ -2529,7 +2529,7 @@ const products = [
   description: "Trigger automation on Stripe events using HTTP webhooks.",
   features: ["Stripe", "Webhook", "Payment Events"],
   icon: "💳",
-  buyLink: "https://example.com/workflows/http-stripe-webhook"
+  buyLink: "http://maken8n.gumroad.com/l/http-stripe-webhook"
 },
 {
   id: 231,
@@ -2540,7 +2540,7 @@ const products = [
   description: "Use functions to automate Pipedrive workflows on a schedule.",
   features: ["Pipedrive", "Scheduled Automation", "Custom Function"],
   icon: "📆",
-  buyLink: "https://example.com/workflows/function-pipedrive-scheduled"
+  buyLink: "http://maken8n.gumroad.com/l/function-pipedrive-scheduled"
 },
 {
   id: 232,
@@ -2551,7 +2551,7 @@ const products = [
   description: "Trigger a function with an incoming HTTP webhook.",
   features: ["Webhook", "Function Execution", "Event Trigger"],
   icon: "🌐",
-  buyLink: "https://example.com/workflows/function-http-webhook"
+  buyLink: "http://maken8n.gumroad.com/l/function-http-webhook"
 },
 {
   id: 233,
@@ -2562,7 +2562,7 @@ const products = [
   description: "Respond to Telegram messages using OpenAI's capabilities.",
   features: ["OpenAI", "Telegram", "Bot Automation"],
   icon: "🤖",
-  buyLink: "https://example.com/workflows/openai-telegram-bot"
+  buyLink: "http://maken8n.gumroad.com/l/openai-telegram-bot"
 },
 {
   id: 234,
@@ -2573,7 +2573,7 @@ const products = [
   description: "Create sticky notes in response to Pipedrive events.",
   features: ["Pipedrive", "Sticky Notes", "Webhook Trigger"],
   icon: "🗒️",
-  buyLink: "https://example.com/workflows/pipedrive-stickynote"
+  buyLink: "http://maken8n.gumroad.com/l/pipedrive-stickynote"
 },
 {
   id: 235,
@@ -2584,7 +2584,7 @@ const products = [
   description: "Update Baserow databases with a manual webhook trigger.",
   features: ["Baserow", "Manual Trigger", "Database Update"],
   icon: "📊",
-  buyLink: "https://example.com/workflows/manual-baserow-update"
+  buyLink: "http://maken8n.gumroad.com/l/manual-baserow-update"
 },
 {
   id: 236,
@@ -2595,7 +2595,7 @@ const products = [
   description: "Generate spreadsheet files from Pipedrive triggers.",
   features: ["Pipedrive", "Spreadsheet File", "Triggered Automation"],
   icon: "🧾",
-  buyLink: "https://example.com/workflows/pipedrive-spreadsheet"
+  buyLink: "http://maken8n.gumroad.com/l/pipedrive-spreadsheet"
 },
 {
   id: 237,
@@ -2606,7 +2606,7 @@ const products = [
   description: "Send webhooks to GitHub to trigger repo actions.",
   features: ["GitHub", "HTTP Request", "Webhook Integration"],
   icon: "🐙",
-  buyLink: "https://example.com/workflows/http-github-create"
+  buyLink: "http://maken8n.gumroad.com/l/http-github-create"
 },
 {
   id: 238,
@@ -2617,7 +2617,7 @@ const products = [
   description: "Send data from GitHub via HTTP webhook for automation.",
   features: ["GitHub", "HTTP", "Webhook Sender"],
   icon: "🚀",
-  buyLink: "https://example.com/workflows/http-github-send"
+  buyLink: "http://maken8n.gumroad.com/l/http-github-send"
 },
 {
   id: 239,
@@ -2628,7 +2628,7 @@ const products = [
   description: "Trigger Mattermost notifications from manual input.",
   features: ["Mattermost", "Manual Trigger", "Message Automation"],
   icon: "💬",
-  buyLink: "https://example.com/workflows/manual-mattermost"
+  buyLink: "http://maken8n.gumroad.com/l/manual-mattermost"
 },
 {
   id: 240,
@@ -2639,7 +2639,7 @@ const products = [
   description: "Run a custom function from a manual trigger.",
   features: ["Custom Logic", "Function Trigger", "Manual Workflow"],
   icon: "🔧",
-  buyLink: "https://example.com/workflows/function-manual-trigger"
+  buyLink: "http://maken8n.gumroad.com/l/function-manual-trigger"
 },
 {
   id: 241,
@@ -2650,7 +2650,7 @@ const products = [
   description: "Use Google Sheets to parse and automate binary file reads.",
   features: ["Binary File", "Google Sheets", "Data Automation"],
   icon: "📁",
-  buyLink: "https://example.com/workflows/sheets-read-binary"
+  buyLink: "http://maken8n.gumroad.com/l/sheets-read-binary"
 },
 {
   id: 242,
@@ -2661,7 +2661,7 @@ const products = [
   description: "Trigger data input into Google Sheets manually.",
   features: ["Google Sheets", "Manual Trigger", "Spreadsheet Entry"],
   icon: "📝",
-  buyLink: "https://example.com/workflows/manual-sheets-input"
+  buyLink: "http://maken8n.gumroad.com/l/manual-sheets-input"
 },
 {
   id: 243,
@@ -2672,7 +2672,7 @@ const products = [
   description: "Trigger actions manually in Microsoft Excel.",
   features: ["Excel", "Manual Trigger", "Sheet Automation"],
   icon: "📊",
-  buyLink: "https://example.com/workflows/excel-manual-trigger"
+  buyLink: "http://maken8n.gumroad.com/l/excel-manual-trigger"
 },
 {
   id: 244,
@@ -2683,7 +2683,7 @@ const products = [
   description: "Manually trigger an HTTP webhook call.",
   features: ["HTTP", "Manual Trigger", "Webhook Sending"],
   icon: "🛰️",
-  buyLink: "https://example.com/workflows/manual-http-webhook"
+  buyLink: "http://maken8n.gumroad.com/l/manual-http-webhook"
 },
 {
   id: 245,
@@ -2694,7 +2694,7 @@ const products = [
   description: "Respond to incoming webhook calls with automated actions.",
   features: ["Webhook Response", "Automation", "API Integration"],
   icon: "📡",
-  buyLink: "https://example.com/workflows/webhook-response"
+  buyLink: "http://maken8n.gumroad.com/l/webhook-response"
 },
 {
   id: 246,
@@ -2705,7 +2705,7 @@ const products = [
   description: "Manually trigger data creation in Google Firestore.",
   features: ["Firestore", "Manual Trigger", "Database Write"],
   icon: "🔥",
-  buyLink: "https://example.com/workflows/manual-firestore-create"
+  buyLink: "http://maken8n.gumroad.com/l/manual-firestore-create"
 },
 {
   id: 247,
@@ -2716,7 +2716,7 @@ const products = [
   description: "Convert Typeform submissions to spreadsheet files.",
   features: ["Typeform", "Spreadsheet File", "Form Automation"],
   icon: "📄",
-  buyLink: "https://example.com/workflows/typeform-to-spreadsheet"
+  buyLink: "http://maken8n.gumroad.com/l/typeform-to-spreadsheet"
 },
 {
   id: 248,
@@ -2727,7 +2727,7 @@ const products = [
   description: "Trigger code execution from PostgreSQL events via webhook.",
   features: ["PostgreSQL", "Webhook", "Code Trigger"],
   icon: "🐘",
-  buyLink: "https://example.com/workflows/postgres-code-webhook"
+  buyLink: "http://maken8n.gumroad.com/l/postgres-code-webhook"
 },
 {
   id: 249,
@@ -2738,7 +2738,7 @@ const products = [
   description: "Turn GitHub activity into actionable sticky notes.",
   features: ["GitHub", "Sticky Notes", "Trigger Automation"],
   icon: "📌",
-  buyLink: "https://example.com/workflows/github-stickynote"
+  buyLink: "http://maken8n.gumroad.com/l/github-stickynote"
 },
 {
   id: 250,
@@ -2749,7 +2749,7 @@ const products = [
   description: "Automatically send Shopify customers to HubSpot.",
   features: ["Shopify", "HubSpot", "Customer Sync"],
   icon: "🛍️",
-  buyLink: "https://example.com/workflows/shopify-to-hubspot"
+  buyLink: "http://maken8n.gumroad.com/l/shopify-to-hubspot"
 },
 {
   id: 251,
@@ -2760,7 +2760,7 @@ const products = [
   description: "Use functions to send webhooks to Zendesk.",
   features: ["Zendesk", "Webhook", "Function Logic"],
   icon: "🎫",
-  buyLink: "https://example.com/workflows/function-zendesk-webhook"
+  buyLink: "http://maken8n.gumroad.com/l/function-zendesk-webhook"
 },
 {
   id: 252,
@@ -2771,7 +2771,7 @@ const products = [
   description: "Schedule Zendesk ticket creation using function logic.",
   features: ["Zendesk", "Scheduler", "Custom Function"],
   icon: "📅",
-  buyLink: "https://example.com/workflows/zendesk-scheduler"
+  buyLink: "http://maken8n.gumroad.com/l/zendesk-scheduler"
 },
 {
   id: 253,
@@ -2782,7 +2782,7 @@ const products = [
   description: "Send Shopify events to Zendesk for support ticket creation.",
   features: ["Shopify", "Zendesk", "Support Automation"],
   icon: "🎟️",
-  buyLink: "https://example.com/workflows/shopify-zendesk-1"
+  buyLink: "http://maken8n.gumroad.com/l/shopify-zendesk-1"
 },
 {
   id: 254,
@@ -2793,7 +2793,7 @@ const products = [
   description: "Send messages to Discord via automated webhooks.",
   features: ["Discord", "Webhook", "Notification Bot"],
   icon: "🎮",
-  buyLink: "https://example.com/workflows/webhook-discord"
+  buyLink: "http://maken8n.gumroad.com/l/webhook-discord"
 },
 {
     id: 255,
@@ -2804,7 +2804,7 @@ const products = [
     description: "Automatically sync Notion content to Google Drive with triggers.",
     features: ["Notion", "Google Drive", "File Sync"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/notion-googledrive"
+    buyLink: "http://maken8n.gumroad.com/l/notion-googledrive"
   },
   {
     id: 256,
@@ -2815,7 +2815,7 @@ const products = [
     description: "Generate custom webhooks from code snippets automatically.",
     features: ["Code", "Webhook", "API Integration"],
     icon: "⚡",
-    buyLink: "https://example.com/workflows/code-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook"
   },
   {
     id: 257,
@@ -2826,7 +2826,7 @@ const products = [
     description: "Create tasks in Asana from Zendesk tickets via webhooks.",
     features: ["Zendesk", "Asana", "Task Management"],
     icon: "🎫",
-    buyLink: "https://example.com/workflows/zendesk-asana"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-asana"
   },
   {
     id: 258,
@@ -2837,7 +2837,7 @@ const products = [
     description: "Trigger Monday.com workflows from Mautic marketing events.",
     features: ["Mautic", "Monday.com", "Marketing Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/mautic-monday"
+    buyLink: "http://maken8n.gumroad.com/l/mautic-monday"
   },
   {
     id: 259,
@@ -2848,7 +2848,7 @@ const products = [
     description: "Process binary files from OneDrive with automated webhooks.",
     features: ["OneDrive", "File Processing", "Binary Files"],
     icon: "💾",
-    buyLink: "https://example.com/workflows/onedrive-binary"
+    buyLink: "http://maken8n.gumroad.com/l/onedrive-binary"
   },
   {
     id: 260,
@@ -2859,7 +2859,7 @@ const products = [
     description: "Trigger Mautic campaigns from Calendly booking events.",
     features: ["Calendly", "Mautic", "Lead Generation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/calendly-mautic"
+    buyLink: "http://maken8n.gumroad.com/l/calendly-mautic"
   },
   {
     id: 261,
@@ -2870,7 +2870,7 @@ const products = [
     description: "Trigger marketing campaigns from Shopify order events.",
     features: ["Shopify", "Mautic", "E-commerce"],
     icon: "🛒",
-    buyLink: "https://example.com/workflows/shopify-mautic"
+    buyLink: "http://maken8n.gumroad.com/l/shopify-mautic"
   },
   {
     id: 262,
@@ -2881,7 +2881,7 @@ const products = [
     description: "Create GitHub issues from Zendesk tickets automatically.",
     features: ["Zendesk", "GitHub", "Issue Tracking"],
     icon: "🐙",
-    buyLink: "https://example.com/workflows/zendesk-github"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-github"
   },
   {
     id: 263,
@@ -2892,7 +2892,7 @@ const products = [
     description: "Sync Zendesk tickets to Jira issues via webhooks.",
     features: ["Zendesk", "Jira", "Project Management"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/zendesk-jira"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-jira"
   },
   {
     id: 264,
@@ -2903,7 +2903,7 @@ const products = [
     description: "Convert sticky notes to Notion pages with webhook automation.",
     features: ["Sticky Notes", "Notion", "Note Taking"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-notion"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-notion"
   },
   {
     id: 265,
@@ -2914,7 +2914,7 @@ const products = [
     description: "Update Notion pages when ClickUp tasks change.",
     features: ["ClickUp", "Notion", "Task Sync"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/clickup-notion"
+    buyLink: "http://maken8n.gumroad.com/l/clickup-notion"
   },
   {
     id: 266,
@@ -2925,7 +2925,7 @@ const products = [
     description: "Send Slack notifications from Lemlist campaign events.",
     features: ["Lemlist", "Slack", "Email Marketing"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/lemlist-slack"
+    buyLink: "http://maken8n.gumroad.com/l/lemlist-slack"
   },
   {
     id: 267,
@@ -2936,7 +2936,7 @@ const products = [
     description: "Manually trigger binary file processing workflows.",
     features: ["Manual Trigger", "Binary Files", "File Processing"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/manual-binary"
+    buyLink: "http://maken8n.gumroad.com/l/manual-binary"
   },
   {
     id: 268,
@@ -2947,7 +2947,7 @@ const products = [
     description: "Schedule HubSpot updates from Zendesk ticket data.",
     features: ["Zendesk", "HubSpot", "Scheduled Tasks"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/zendesk-hubspot"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-hubspot"
   },
   {
     id: 269,
@@ -2958,7 +2958,7 @@ const products = [
     description: "Schedule RabbitMQ message updates from HTTP requests.",
     features: ["HTTP", "RabbitMQ", "Message Queue"],
     icon: "🐰",
-    buyLink: "https://example.com/workflows/http-rabbitmq"
+    buyLink: "http://maken8n.gumroad.com/l/http-rabbitmq"
   },
   {
     id: 270,
@@ -2969,7 +2969,7 @@ const products = [
     description: "Create scheduled webhooks from custom code.",
     features: ["Code", "Scheduling", "Webhook"],
     icon: "⌚",
-    buyLink: "https://example.com/workflows/code-schedule"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule"
   },
   {
     id: 271,
@@ -2980,7 +2980,7 @@ const products = [
     description: "Update sticky notes from GitHub repository events.",
     features: ["GitHub", "Sticky Notes", "Code Updates"],
     icon: "📌",
-    buyLink: "https://example.com/workflows/github-stickynote"
+    buyLink: "http://maken8n.gumroad.com/l/github-stickynote"
   },
   {
     id: 272,
@@ -2991,7 +2991,7 @@ const products = [
     description: "Add delays before executing code webhooks.",
     features: ["Wait", "Code", "Delayed Execution"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code"
   },
   {
     id: 273,
@@ -3002,7 +3002,7 @@ const products = [
     description: "Send RabbitMQ messages with no-operation triggers.",
     features: ["Noop", "RabbitMQ", "Message Sending"],
     icon: "🔕",
-    buyLink: "https://example.com/workflows/noop-rabbitmq"
+    buyLink: "http://maken8n.gumroad.com/l/noop-rabbitmq"
   },
   {
     id: 274,
@@ -3013,7 +3013,7 @@ const products = [
     description: "Manually export sticky notes to various formats.",
     features: ["Manual Export", "Sticky Notes", "Data Export"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/manual-stickynote"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote"
   },
   {
     id: 275,
@@ -3024,7 +3024,7 @@ const products = [
     description: "Manually trigger WooCommerce workflow automations.",
     features: ["Manual Trigger", "WooCommerce", "E-commerce"],
     icon: "🛍️",
-    buyLink: "https://example.com/workflows/manual-woocommerce"
+    buyLink: "http://maken8n.gumroad.com/l/manual-woocommerce"
   },
   {
     id: 276,
@@ -3035,7 +3035,7 @@ const products = [
     description: "Trigger WooCommerce actions from Mattermost messages.",
     features: ["Mattermost", "WooCommerce", "Team Chat"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/mattermost-woocommerce"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-woocommerce"
   },
   {
     id: 277,
@@ -3046,7 +3046,7 @@ const products = [
     description: "Create Dropcontact webhooks for email verification.",
     features: ["Webhook", "Dropcontact", "Email Verification"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/webhook-dropcontact"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-dropcontact"
   },
   {
     id: 278,
@@ -3057,7 +3057,7 @@ const products = [
     description: "Export data to OpenAI with manual triggers.",
     features: ["Manual Export", "OpenAI", "AI Integration"],
     icon: "🤖",
-    buyLink: "https://example.com/workflows/manual-openai"
+    buyLink: "http://maken8n.gumroad.com/l/manual-openai"
   },
   {
     id: 279,
@@ -3068,7 +3068,7 @@ const products = [
     description: "Process PDF files and trigger code execution.",
     features: ["Code", "PDF Reader", "Document Processing"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/code-readpdf"
+    buyLink: "http://maken8n.gumroad.com/l/code-readpdf"
   },
   {
     id: 280,
@@ -3079,7 +3079,7 @@ const products = [
     description: "Manually trigger E-goi email marketing campaigns.",
     features: ["Manual Trigger", "E-goi", "Email Marketing"],
     icon: "📮",
-    buyLink: "https://example.com/workflows/manual-egoi"
+    buyLink: "http://maken8n.gumroad.com/l/manual-egoi"
   },
   {
     id: 281,
@@ -3090,7 +3090,7 @@ const products = [
     description: "Create no-operation webhooks from Mattermost events.",
     features: ["Mattermost", "Noop", "Team Chat"],
     icon: "🔇",
-    buyLink: "https://example.com/workflows/mattermost-noop"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-noop"
   },
   {
     id: 282,
@@ -3101,7 +3101,7 @@ const products = [
     description: "Manually trigger Telegram bot messages and notifications.",
     features: ["Manual Trigger", "Telegram", "Bot Messaging"],
     icon: "✈️",
-    buyLink: "https://example.com/workflows/manual-telegram"
+    buyLink: "http://maken8n.gumroad.com/l/manual-telegram"
   },
   {
     id: 283,
@@ -3112,7 +3112,7 @@ const products = [
     description: "Import data by responding to HTTP webhook requests.",
     features: ["HTTP", "Webhook Response", "Data Import"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/http-respondtowebhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-respondtowebhook"
   },
   {
     id: 284,
@@ -3123,7 +3123,7 @@ const products = [
     description: "Automate PostgreSQL operations with code triggers.",
     features: ["Code", "PostgreSQL", "Database Automation"],
     icon: "🐘",
-    buyLink: "https://example.com/workflows/code-postgres"
+    buyLink: "http://maken8n.gumroad.com/l/code-postgres"
   },
   {
     id: 285,
@@ -3134,7 +3134,7 @@ const products = [
     description: "Automate scheduled code execution workflows.",
     features: ["Code", "Scheduling", "Automation"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/code-schedule-automate"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-automate"
   },
   {
     id: 286,
@@ -3145,7 +3145,7 @@ const products = [
     description: "Automate data filtering with custom code triggers.",
     features: ["Code", "Filter", "Data Processing"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/code-filter"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter"
   },
   {
     id: 287,
@@ -3156,7 +3156,7 @@ const products = [
     description: "Create manual webhooks from HTTP requests.",
     features: ["HTTP", "Manual Webhook", "API Integration"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/http-manual"
+    buyLink: "http://maken8n.gumroad.com/l/http-manual"
   },
   {
     id: 288,
@@ -3167,7 +3167,7 @@ const products = [
     description: "Create scheduled webhooks based on date and time.",
     features: ["DateTime", "Scheduling", "Webhook"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/datetime-schedule"
+    buyLink: "http://maken8n.gumroad.com/l/datetime-schedule"
   },
   {
     id: 289,
@@ -3178,7 +3178,7 @@ const products = [
     description: "Create scheduled tasks from HTTP requests.",
     features: ["HTTP", "Scheduling", "Task Creation"],
     icon: "⏲️",
-    buyLink: "https://example.com/workflows/http-schedule"
+    buyLink: "http://maken8n.gumroad.com/l/http-schedule"
   },
   {
     id: 290,
@@ -3189,7 +3189,7 @@ const products = [
     description: "Trigger Discord messages from Google Sheets updates.",
     features: ["Google Sheets", "Discord", "Spreadsheet Integration"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-discord"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-discord"
   },
   {
     id: 291,
@@ -3200,7 +3200,7 @@ const products = [
     description: "Manually trigger automated dataset comparisons.",
     features: ["Manual Trigger", "Dataset Comparison", "Data Analysis"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/manual-comparedatasets"
+    buyLink: "http://maken8n.gumroad.com/l/manual-comparedatasets"
   },
   {
     id: 292,
@@ -3211,7 +3211,7 @@ const products = [
     description: "Process and move binary data with manual triggers.",
     features: ["Manual Trigger", "Binary Data", "Data Processing"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/manual-movebinarydata"
+    buyLink: "http://maken8n.gumroad.com/l/manual-movebinarydata"
   },
   {
     id: 293,
@@ -3222,7 +3222,7 @@ const products = [
     description: "Split data streams with rate limiting webhooks.",
     features: ["Split", "Rate Limiting", "Data Streaming"],
     icon: "⚡",
-    buyLink: "https://example.com/workflows/splitout-limit"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-limit"
   },
   {
     id: 294,
@@ -3233,7 +3233,7 @@ const products = [
     description: "Create calendar events from Gmail messages automatically.",
     features: ["Gmail", "Google Calendar", "Email to Calendar"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmail-googlecalendar"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-googlecalendar"
   },
   {
     id: 295,
@@ -3244,7 +3244,7 @@ const products = [
     description: "Simple send trigger for basic automation workflows.",
     features: ["Send Trigger", "Basic Automation", "Simple Workflow"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/send-triggered"
   },
   {
     id: 296,
@@ -3255,7 +3255,7 @@ const products = [
     description: "Split data streams and send to code execution.",
     features: ["Split", "Code", "Data Streaming"],
     icon: "🔀",
-    buyLink: "https://example.com/workflows/splitout-code"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code"
   },
   {
     id: 297,
@@ -3266,7 +3266,7 @@ const products = [
     description: "Process sticky notes with manual trigger workflows.",
     features: ["Manual Trigger", "Sticky Notes", "Note Processing"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/manual-stickynote-process"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-process"
   },
   {
     id: 298,
@@ -3277,7 +3277,7 @@ const products = [
     description: "Send sticky note content via automated triggers.",
     features: ["Sticky Notes", "Send Trigger", "Note Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-send"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-send"
   },
   {
     id: 299,
@@ -3288,7 +3288,7 @@ const products = [
     description: "Send messages to Slack using a webhook with no operation (noop) handling for seamless integration.",
     features: ["Slack Integration", "Webhook Trigger", "Noop Handling"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-noop-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/slack-noop-webhook"
   },
   {
     id: 300,
@@ -3299,7 +3299,7 @@ const products = [
     description: "Automate Google Drive actions with manual triggers for efficient file management.",
     features: ["Google Drive", "Manual Trigger", "File Automation"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/googledrive-automate"
+    buyLink: "http://maken8n.gumroad.com/l/googledrive-automate"
   },
   {
     id: 301,
@@ -3310,7 +3310,7 @@ const products = [
     description: "Pause workflows and send data via webhook when conditions are met.",
     features: ["Webhook Send", "Wait Mechanism", "Conditional Trigger"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-webhook"
   },
   {
     id: 302,
@@ -3321,7 +3321,7 @@ const products = [
     description: "Extract data from files and send it via webhook, with error handling to stop on failure.",
     features: ["File Extraction", "Webhook Send", "Error Handling"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/extractfile-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/extractfile-webhook"
   },
   {
     id: 303,
@@ -3332,7 +3332,7 @@ const products = [
     description: "Create webhooks with built-in error handling to ensure reliable automation workflows.",
     features: ["Webhook Creation", "Error Handling", "Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/create-webhook"
   },
   {
     id: 304,
@@ -3343,7 +3343,7 @@ const products = [
     description: "Trigger workflows from form submissions using OpenAI for intelligent processing.",
     features: ["OpenAI Integration", "Form Trigger", "Smart Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/openai-form"
+    buyLink: "http://maken8n.gumroad.com/l/openai-form"
   },
   {
     id: 305,
@@ -3354,7 +3354,7 @@ const products = [
     description: "Send filtered messages via Telegram using triggered automation.",
     features: ["Telegram Integration", "Filter Trigger", "Message Automation"],
     icon: "📩",
-    buyLink: "https://example.com/workflows/telegram-filter"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-filter"
   },
   {
     id: 306,
@@ -3365,7 +3365,7 @@ const products = [
     description: "Manually trigger Snowflake data workflows via webhook for advanced analytics.",
     features: ["Snowflake Integration", "Webhook Trigger", "Data Automation"],
     icon: "❄️",
-    buyLink: "https://example.com/workflows/snowflake-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/snowflake-webhook"
   },
   {
     id: 307,
@@ -3376,7 +3376,7 @@ const products = [
     description: "Export sticky note data to external systems via webhook automation.",
     features: ["Sticky Notes", "Webhook Export", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-export"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-export"
   },
   {
     id: 308,
@@ -3387,7 +3387,7 @@ const products = [
     description: "Split and update code workflows via webhook for streamlined development.",
     features: ["Code Splitting", "Webhook Update", "Development Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-update-webhook"
   },
   {
     id: 309,
@@ -3398,7 +3398,7 @@ const products = [
     description: "Automate Telegram workflows using webhook triggers for real-time messaging.",
     features: ["Telegram Integration", "Webhook Trigger", "Real-Time Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-webhook"
   },
   {
     id: 310,
@@ -3409,7 +3409,7 @@ const products = [
     description: "Import and filter code data via webhook for automated processing.",
     features: ["Code Import", "Filter Trigger", "Webhook Automation"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/code-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-import-webhook"
   },
   {
     id: 311,
@@ -3420,7 +3420,7 @@ const products = [
     description: "Manually trigger Google Calendar event creation for seamless scheduling.",
     features: ["Google Calendar", "Manual Trigger", "Event Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/googlecalendar-create"
+    buyLink: "http://maken8n.gumroad.com/l/googlecalendar-create"
   },
   {
     id: 312,
@@ -3431,7 +3431,7 @@ const products = [
     description: "Read IMAP emails and create webhooks for automated workflows.",
     features: ["IMAP Email", "Webhook Creation", "Email Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/emailreadimap-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/emailreadimap-webhook"
   },
   {
     id: 313,
@@ -3442,7 +3442,7 @@ const products = [
     description: "Schedule Mailchimp campaigns using cron-based automation.",
     features: ["Mailchimp Integration", "Cron Scheduling", "Campaign Automation"],
     icon: "📬",
-    buyLink: "https://example.com/workflows/mailchimp-cron"
+    buyLink: "http://maken8n.gumroad.com/l/mailchimp-cron"
   },
   {
     id: 314,
@@ -3453,7 +3453,7 @@ const products = [
     description: "Schedule Telegram automation tasks using cron for timely messaging.",
     features: ["Telegram Integration", "Cron Scheduling", "Message Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-cron"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-cron"
   },
   {
     id: 315,
@@ -3464,7 +3464,7 @@ const products = [
     description: "Sync Google Sheets data with external systems via HTTP webhook.",
     features: ["Google Sheets", "Webhook Sync", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-sync"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-sync"
   },
   {
     id: 316,
@@ -3475,7 +3475,7 @@ const products = [
     description: "Automate Google Calendar events with scheduled datetime triggers.",
     features: ["Google Calendar", "Scheduled Trigger", "Event Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/googlecalendar-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/googlecalendar-scheduled"
   },
   {
     id: 317,
@@ -3486,7 +3486,7 @@ const products = [
     description: "Schedule Google Sheets data updates with manual automation triggers.",
     features: ["Google Sheets", "Scheduled Trigger", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-scheduled"
   },
   {
     id: 318,
@@ -3497,7 +3497,7 @@ const products = [
     description: "Read IMAP emails and send data via webhook for real-time automation.",
     features: ["IMAP Email", "Webhook Send", "Email Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/emailreadimap-send"
+    buyLink: "http://maken8n.gumroad.com/l/emailreadimap-send"
   },
   {
     id: 319,
@@ -3508,7 +3508,7 @@ const products = [
     description: "Convert binary files to spreadsheet format and create records automatically.",
     features: ["Binary File Processing", "Spreadsheet Creation", "Data Automation"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/binaryfile-spreadsheet"
+    buyLink: "http://maken8n.gumroad.com/l/binaryfile-spreadsheet"
   },
   {
     id: 320,
@@ -3519,7 +3519,7 @@ const products = [
     description: "Manually trigger Twilio SMS or call actions for automated communication.",
     features: ["Twilio Integration", "Manual Trigger", "Communication Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/twilio-send"
+    buyLink: "http://maken8n.gumroad.com/l/twilio-send"
   },
   {
     id: 321,
@@ -3530,7 +3530,7 @@ const products = [
     description: "Trigger Twilio SMS or calls from Typeform submissions for automated communication.",
     features: ["Twilio Integration", "Typeform Trigger", "Communication Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/twilio-typeform-send"
+    buyLink: "http://maken8n.gumroad.com/l/twilio-typeform-send"
   },
   {
     id: 322,
@@ -3541,7 +3541,7 @@ const products = [
     description: "Manually trigger Twake messages for streamlined team communication.",
     features: ["Twake Integration", "Manual Trigger", "Message Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/twake-send"
+    buyLink: "http://maken8n.gumroad.com/l/twake-send"
   },
   {
     id: 323,
@@ -3552,7 +3552,7 @@ const products = [
     description: "Schedule automated Twitter posts for consistent social media presence.",
     features: ["Twitter Integration", "Scheduled Trigger", "Social Media Automation"],
     icon: "🐦",
-    buyLink: "https://example.com/workflows/twitter-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/twitter-scheduled"
   },
   {
     id: 324,
@@ -3563,7 +3563,7 @@ const products = [
     description: "Automate Twitter posts from Mattermost with scheduled triggers.",
     features: ["Mattermost Integration", "Twitter Automation", "Scheduled Trigger"],
     icon: "📢",
-    buyLink: "https://example.com/workflows/mattermost-twitter-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-twitter-scheduled"
   },
   {
     id: 325,
@@ -3574,7 +3574,7 @@ const products = [
     description: "Monitor Discord channels and trigger actions via HTTP on a schedule.",
     features: ["Discord Integration", "HTTP Monitoring", "Scheduled Trigger"],
     icon: "🎮",
-    buyLink: "https://example.com/workflows/discord-monitor-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/discord-monitor-scheduled"
   },
   {
     id: 326,
@@ -3585,7 +3585,7 @@ const products = [
     description: "Manually trigger Wordpress content updates for automated publishing.",
     features: ["Wordpress Integration", "Manual Trigger", "Content Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/wordpress-automate"
+    buyLink: "http://maken8n.gumroad.com/l/wordpress-automate"
   },
   {
     id: 327,
@@ -3596,7 +3596,7 @@ const products = [
     description: "Schedule Discord message automation using cron for timely updates.",
     features: ["Discord Integration", "Cron Scheduling", "Message Automation"],
     icon: "🎮",
-    buyLink: "https://example.com/workflows/discord-cron"
+    buyLink: "http://maken8n.gumroad.com/l/discord-cron"
   },
   {
     id: 328,
@@ -3607,7 +3607,7 @@ const products = [
     description: "Send Hunter email verification triggers with no operation handling.",
     features: ["Hunter Integration", "Noop Trigger", "Email Verification"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/hunter-noop-send"
+    buyLink: "http://maken8n.gumroad.com/l/hunter-noop-send"
   },
   {
     id: 329,
@@ -3618,7 +3618,7 @@ const products = [
     description: "Send code execution results via HTTP webhook for automated workflows.",
     features: ["Code Execution", "HTTP Webhook", "Data Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-http-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-http-send"
   },
   {
     id: 330,
@@ -3629,7 +3629,7 @@ const products = [
     description: "Automate workflow execution via HTTP webhook triggers.",
     features: ["Workflow Execution", "HTTP Webhook", "Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/executeworkflow-automate"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-automate"
   },
   {
     id: 331,
@@ -3640,7 +3640,7 @@ const products = [
     description: "Automate Twilio SMS or calls using webhook triggers for real-time communication.",
     features: ["Twilio Integration", "Webhook Trigger", "Communication Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/twilio-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/twilio-webhook"
   },
   {
     id: 332,
@@ -3651,7 +3651,7 @@ const products = [
     description: "Manually send code execution results via webhook for custom automation.",
     features: ["Code Execution", "Manual Trigger", "Webhook Send"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-manual-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-send"
   },
   {
     id: 333,
@@ -3662,7 +3662,7 @@ const products = [
     description: "Manually trigger code automation workflows via webhook.",
     features: ["Code Automation", "Manual Trigger", "Webhook Integration"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-manual-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-webhook"
   },
   {
     id: 334,
@@ -3673,7 +3673,7 @@ const products = [
     description: "Automate sticky note workflows using webhook triggers for seamless data flow.",
     features: ["Sticky Notes", "Webhook Trigger", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-webhook-automate"
   },
   {
     id: 335,
@@ -3684,7 +3684,7 @@ const products = [
     description: "Manually trigger Airtable data updates for efficient database automation.",
     features: ["Airtable Integration", "Manual Trigger", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/airtable-automate"
+    buyLink: "http://maken8n.gumroad.com/l/airtable-automate"
   },
   {
     id: 336,
@@ -3695,7 +3695,7 @@ const products = [
     description: "Summarize workflow data and send it via triggered automation.",
     features: ["Workflow Summarization", "Send Trigger", "Data Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/executeworkflow-summarize"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-summarize"
   },
   {
     id: 337,
@@ -3706,7 +3706,7 @@ const products = [
     description: "Trigger workflows to create Hackernews content automatically.",
     features: ["Hackernews Integration", "Workflow Trigger", "Content Creation"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/hackernews-create"
+    buyLink: "http://maken8n.gumroad.com/l/hackernews-create"
   },
   {
     id: 338,
@@ -3717,7 +3717,7 @@ const products = [
     description: "Automate code workflows using webhook triggers for real-time processing.",
     features: ["Code Automation", "Webhook Trigger", "Real-Time Processing"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook-automate"
   },
   {
     id: 339,
@@ -3728,7 +3728,7 @@ const products = [
     description: "Manually send sticky note data via webhook for external integration.",
     features: ["Sticky Notes", "Webhook Send", "Manual Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-send-webhook"
   },
   {
     id: 340,
@@ -3739,7 +3739,7 @@ const products = [
     description: "Send code execution results via webhook for automated workflows.",
     features: ["Code Execution", "Webhook Send", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/webhook-code-send"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-code-send"
   },
   {
     id: 341,
@@ -3750,7 +3750,7 @@ const products = [
     description: "Create webhooks from code execution for automated integrations.",
     features: ["Code Execution", "Webhook Creation", "Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-code-create"
   },
   {
     id: 342,
@@ -3761,7 +3761,7 @@ const products = [
     description: "Automate sticky note data syncing to Notion via webhook.",
     features: ["Sticky Notes", "Notion Integration", "Webhook Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-notion-automate"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-notion-automate"
   },
   {
     id: 343,
@@ -3772,7 +3772,7 @@ const products = [
     description: "Trigger Pipedrive record creation from code execution for CRM automation.",
     features: ["Pipedrive Integration", "Code Trigger", "CRM Automation"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/pipedrive-create"
+    buyLink: "http://maken8n.gumroad.com/l/pipedrive-create"
   },
   {
     id: 344,
@@ -3783,7 +3783,7 @@ const products = [
     description: "Manually trigger code-based record creation for custom automation.",
     features: ["Code Execution", "Manual Trigger", "Record Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-manual-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-create"
   },
   {
     id: 345,
@@ -3794,7 +3794,7 @@ const products = [
     description: "Update Telegram workflows with code execution via webhook triggers.",
     features: ["Telegram Integration", "Code Update", "Webhook Trigger"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-code-update"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-code-update"
   },
   {
     id: 346,
@@ -3805,7 +3805,7 @@ const products = [
     description: "Schedule Spotify playlist or track creation for automated music management.",
     features: ["Spotify Integration", "Scheduled Trigger", "Music Automation"],
     icon: "🎵",
-    buyLink: "https://example.com/workflows/spotify-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/spotify-scheduled"
   },
   {
     id: 347,
@@ -3816,7 +3816,7 @@ const products = [
     description: "Create Telegram webhooks with wait conditions for delayed automation.",
     features: ["Telegram Integration", "Wait Mechanism", "Webhook Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-wait-create"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-wait-create"
   },
   {
     id: 348,
@@ -3827,7 +3827,7 @@ const products = [
     description: "Manually create HTTP webhooks for custom automation workflows.",
     features: ["HTTP Integration", "Manual Trigger", "Webhook Creation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-manual-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-manual-create"
   },
   {
     id: 349,
@@ -3838,7 +3838,7 @@ const products = [
     description: "Schedule code execution with wait conditions and send via webhook.",
     features: ["Code Execution", "Scheduled Trigger", "Webhook Send"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-send"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-send"
   },
   {
     id: 350,
@@ -3849,7 +3849,7 @@ const products = [
     description: "Schedule filtered data splitting and updates for automated processing.",
     features: ["Data Splitting", "Scheduled Trigger", "Filter Update"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/split-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/split-filter-update"
   },
   {
     id: 351,
@@ -3860,7 +3860,7 @@ const products = [
     description: "Schedule Redis data creation from code execution for database automation.",
     features: ["Redis Integration", "Code Execution", "Scheduled Trigger"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/redis-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/redis-code-create"
   },
   {
     id: 352,
@@ -3871,7 +3871,7 @@ const products = [
     description: "Trigger Telegram record creation from code execution for automation.",
     features: ["Telegram Integration", "Code Trigger", "Record Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-code-create"
   },
   {
     id: 353,
@@ -3882,7 +3882,7 @@ const products = [
     description: "Manually trigger Google Analytics data imports for automated reporting.",
     features: ["Google Analytics", "Manual Trigger", "Data Import"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googleanalytics-import"
+    buyLink: "http://maken8n.gumroad.com/l/googleanalytics-import"
   },
   {
     id: 354,
@@ -3893,7 +3893,7 @@ const products = [
     description: "Automate GitHub workflows with webhook triggers and error handling.",
     features: ["GitHub Integration", "Webhook Trigger", "Error Handling"],
     icon: "🐙",
-    buyLink: "https://example.com/workflows/github-automate"
+    buyLink: "http://maken8n.gumroad.com/l/github-automate"
   },
   {
     id: 355,
@@ -3904,7 +3904,7 @@ const products = [
     description: "Create Slack webhooks from code execution for automated messaging.",
     features: ["Slack Integration", "Code Execution", "Webhook Creation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/code-slack-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-slack-create"
   },
   {
     id: 356,
@@ -3915,7 +3915,7 @@ const products = [
     description: "Create spreadsheet files via HTTP webhook for data automation.",
     features: ["Spreadsheet Creation", "HTTP Webhook", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/spreadsheetfile-create"
+    buyLink: "http://maken8n.gumroad.com/l/spreadsheetfile-create"
   },
   {
     id: 357,
@@ -3926,7 +3926,7 @@ const products = [
     description: "Trigger Monday.com updates with error handling for reliable automation.",
     features: ["Monday.com Integration", "Error Handling", "Update Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/mondaycom-update"
+    buyLink: "http://maken8n.gumroad.com/l/mondaycom-update"
   },
   {
     id: 358,
@@ -3937,7 +3937,7 @@ const products = [
     description: "Schedule automation tasks based on datetime triggers for precise execution.",
     features: ["Datetime Trigger", "Scheduled Automation", "Task Execution"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/datetime-schedule"
+    buyLink: "http://maken8n.gumroad.com/l/datetime-schedule"
   },
   {
     id: 359,
@@ -3948,7 +3948,7 @@ const products = [
     description: "Schedule code-based data imports for automated processing.",
     features: ["Code Execution", "Scheduled Trigger", "Data Import"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-schedule-import"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-import"
   },
   {
     id: 360,
@@ -3959,7 +3959,7 @@ const products = [
     description: "Send Telegram messages via webhook with wait conditions for delayed automation.",
     features: ["Telegram Integration", "Wait Mechanism", "Webhook Send"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-wait-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-wait-send"
   },
   {
     id: 361,
@@ -3970,7 +3970,7 @@ const products = [
     description: "Manually create webhooks from code execution for custom automation.",
     features: ["Code Execution", "Manual Trigger", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-manual-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-create-webhook"
   },
   {
     id: 362,
@@ -3981,7 +3981,7 @@ const products = [
     description: "Filter and send code execution results via triggered automation.",
     features: ["Code Execution", "Filter Trigger", "Send Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-filter-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-send"
   },
   {
     id: 363,
@@ -3992,7 +3992,7 @@ const products = [
     description: "Schedule updates to filtered data for automated processing.",
     features: ["Filter Update", "Scheduled Trigger", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/schedule-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-filter-update"
   },
   {
     id: 364,
@@ -4003,7 +4003,7 @@ const products = [
     description: "Trigger Beeminder goal creation from Strava activities for fitness tracking.",
     features: ["Beeminder Integration", "Strava Trigger", "Goal Automation"],
     icon: "🏃",
-    buyLink: "https://example.com/workflows/beeminder-strava-create"
+    buyLink: "http://maken8n.gumroad.com/l/beeminder-strava-create"
   },
   {
     id: 365,
@@ -4014,7 +4014,7 @@ const products = [
     description: "Send sticky note data to Postgres databases via triggered automation.",
     features: ["Postgres Integration", "Sticky Notes", "Send Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/postgres-stickynote-send"
+    buyLink: "http://maken8n.gumroad.com/l/postgres-stickynote-send"
   },
   {
     id: 366,
@@ -4025,7 +4025,7 @@ const products = [
     description: "Execute workflows and send results via HTTP webhook for automation.",
     features: ["Workflow Execution", "HTTP Webhook", "Send Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/executeworkflow-send"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-send"
   },
   {
     id: 367,
@@ -4036,7 +4036,7 @@ const products = [
     description: "Execute workflows and send results to Slack via triggered automation.",
     features: ["Slack Integration", "Workflow Execution", "Send Trigger"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/executeworkflow-slack-send"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-slack-send"
   },
   {
     id: 368,
@@ -4047,7 +4047,7 @@ const products = [
     description: "Manually trigger Sendgrid email campaigns for automated delivery.",
     features: ["Sendgrid Integration", "Manual Trigger", "Email Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/sendgrid-create"
+    buyLink: "http://maken8n.gumroad.com/l/sendgrid-create"
   },
   {
     id: 369,
@@ -4058,7 +4058,7 @@ const products = [
     description: "Manually trigger Google Contacts creation for automated contact management.",
     features: ["Google Contacts", "Manual Trigger", "Contact Automation"],
     icon: "📇",
-    buyLink: "https://example.com/workflows/googlecontacts-create"
+    buyLink: "http://maken8n.gumroad.com/l/googlecontacts-create"
   },
   {
     id: 370,
@@ -4069,7 +4069,7 @@ const products = [
     description: "Update filtered data via webhook for real-time automation.",
     features: ["Webhook Integration", "Filter Update", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-filter-update"
   },
   {
     id: 371,
@@ -4080,7 +4080,7 @@ const products = [
     description: "Filter and send form data via triggered automation.",
     features: ["Form Integration", "Filter Trigger", "Send Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/form-filter-send"
+    buyLink: "http://maken8n.gumroad.com/l/form-filter-send"
   },
   {
     id: 372,
@@ -4091,7 +4091,7 @@ const products = [
     description: "Schedule HTTP-based data updates for automated workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Data Update"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/schedule-http-update"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-http-update"
   },
   {
     id: 373,
@@ -4102,7 +4102,7 @@ const products = [
     description: "Create Intercom webhooks from code execution for customer communication.",
     features: ["Intercom Integration", "Code Execution", "Webhook Creation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/intercom-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/intercom-code-create"
   },
   {
     id: 374,
@@ -4113,7 +4113,7 @@ const products = [
     description: "Create filtered webhooks for automated data processing.",
     features: ["Webhook Creation", "Filter Integration", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-filter-create"
   },
   {
     id: 375,
@@ -4124,7 +4124,7 @@ const products = [
     description: "Create Google Calendar events from code via webhook automation.",
     features: ["Google Calendar", "Code Execution", "Webhook Creation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/code-googlecalendar-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-googlecalendar-create"
   },
   {
     id: 376,
@@ -4135,7 +4135,7 @@ const products = [
     description: "Create HubSpot webhooks with no operation handling for CRM automation.",
     features: ["HubSpot Integration", "Noop Trigger", "Webhook Creation"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/hubspot-noop-create"
+    buyLink: "http://maken8n.gumroad.com/l/hubspot-noop-create"
   },
   {
     id: 377,
@@ -4146,7 +4146,7 @@ const products = [
     description: "Schedule Gmail email sending for automated communication.",
     features: ["Gmail Integration", "Scheduled Trigger", "Email Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmail-scheduled-send"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-scheduled-send"
   },
   {
     id: 378,
@@ -4157,7 +4157,7 @@ const products = [
     description: "Schedule filtered data exports for automated processing.",
     features: ["Filter Export", "Scheduled Trigger", "Data Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-filter-export"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-export"
   },
   {
     id: 379,
@@ -4168,7 +4168,7 @@ const products = [
     description: "Trigger Telegram message automation for real-time communication.",
     features: ["Telegram Integration", "Manual Trigger", "Message Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-automate"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-automate"
   },
   {
     id: 380,
@@ -4179,7 +4179,7 @@ const products = [
     description: "Trigger Hunter email verification from form submissions.",
     features: ["Hunter Integration", "Form Trigger", "Email Verification"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/hunter-form-create"
+    buyLink: "http://maken8n.gumroad.com/l/hunter-form-create"
   },
   {
     id: 381,
@@ -4190,7 +4190,7 @@ const products = [
     description: "Schedule data imports via webhook for automated workflows.",
     features: ["Data Import", "Scheduled Trigger", "Webhook Integration"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/splitout-schedule-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-import"
   },
   {
     id: 382,
@@ -4201,7 +4201,7 @@ const products = [
     description: "Schedule HTTP webhook data sending for automated workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Webhook Send"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/schedule-http-send"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-http-send"
   },
   {
     id: 383,
@@ -4212,7 +4212,7 @@ const products = [
     description: "Send Hunter email verification results to Slack via webhook.",
     features: ["Slack Integration", "Hunter Integration", "Webhook Send"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-hunter-send"
+    buyLink: "http://maken8n.gumroad.com/l/slack-hunter-send"
   },
   {
     id: 384,
@@ -4223,7 +4223,7 @@ const products = [
     description: "Send Hunter email verification results from forms via webhook.",
     features: ["Hunter Integration", "Form Integration", "Webhook Send"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/hunter-form-send"
+    buyLink: "http://maken8n.gumroad.com/l/hunter-form-send"
   },
   {
     id: 385,
@@ -4234,7 +4234,7 @@ const products = [
     description: "Send Hunter email verification results to Telegram via webhook.",
     features: ["Telegram Integration", "Hunter Integration", "Webhook Send"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-hunter-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-hunter-send"
   },
   {
     id: 386,
@@ -4245,7 +4245,7 @@ const products = [
     description: "Monitor workflows with wait conditions and error handling via webhook.",
     features: ["Wait Mechanism", "Error Handling", "Webhook Monitor"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-monitor-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-monitor-webhook"
   },
   {
     id: 387,
@@ -4256,7 +4256,7 @@ const products = [
     description: "Send Google Calendar event data via webhook for automation.",
     features: ["Google Calendar", "Webhook Send", "Event Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/googlecalendar-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googlecalendar-send-webhook"
   },
   {
     id: 388,
@@ -4267,7 +4267,7 @@ const products = [
     description: "Trigger filtered Calendly event creation for automated scheduling.",
     features: ["Calendly Integration", "Filter Trigger", "Event Creation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/calendly-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/calendly-filter-create"
   },
   {
     id: 389,
@@ -4278,7 +4278,7 @@ const products = [
     description: "Trigger Convertkit subscriber creation with filtered data.",
     features: ["Convertkit Integration", "Filter Trigger", "Subscriber Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/convertkit-create"
+    buyLink: "http://maken8n.gumroad.com/l/convertkit-create"
   },
   {
     id: 390,
@@ -4289,7 +4289,7 @@ const products = [
     description: "Schedule filtered data creation for automated workflows.",
     features: ["Filter Creation", "Scheduled Trigger", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/schedule-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-filter-create"
   },
   {
     id: 391,
@@ -4300,7 +4300,7 @@ const products = [
     description: "Automate webhook updates for split-out workflows.",
     features: ["Webhook Update", "Automation", "Data Splitting"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/splitout-webhook-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-webhook-update"
   },
   {
     id: 392,
@@ -4311,7 +4311,7 @@ const products = [
     description: "Automate split-out workflows using webhook triggers.",
     features: ["Webhook Automation", "Data Splitting", "Workflow Trigger"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/splitout-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-webhook-automate"
   },
   {
     id: 393,
@@ -4322,7 +4322,7 @@ const products = [
     description: "Create filtered webhooks for split-out data automation.",
     features: ["Filter Creation", "Webhook Creation", "Data Splitting"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/splitout-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-create"
   },
   {
     id: 394,
@@ -4333,7 +4333,7 @@ const products = [
     description: "Trigger Pipedrive record creation with Hunter email verification.",
     features: ["Hunter Integration", "Pipedrive Integration", "Creator Trigger"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/hunter-pipedrive-create"
+    buyLink: "http://maken8n.gumroad.com/l/hunter-pipedrive-create"
   },
   {
     id: 395,
@@ -4344,7 +4344,7 @@ const products = [
     description: "Create filtered webhooks from code execution for automation.",
     features: ["Code Execution", "Filter Creation", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-create"
   },
   {
     id: 396,
@@ -4355,7 +4355,7 @@ const products = [
     description: "Schedule manual data creation tasks for automated workflows.",
     features: ["Manual Trigger", "Scheduled Creation", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/manual-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-schedule-create"
   },
   {
     id: 397,
@@ -4366,7 +4366,7 @@ const products = [
     description: "Create sticky note webhooks via HTTP for automated data flow.",
     features: ["Sticky Notes", "HTTP Webhook", "Webhook Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-create-webhook"
   },
     {
     id: 398,
@@ -4377,7 +4377,7 @@ const products = [
     description: "Create Google Sheets webhooks via HTTP for automated data entry.",
     features: ["Google Sheets", "HTTP Webhook", "Webhook Creation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-create-webhook"
   },
   {
     id: 399,
@@ -4388,7 +4388,7 @@ const products = [
     description: "Schedule split-out data sending for automated workflows.",
     features: ["Data Splitting", "Scheduled Trigger", "Send Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-schedule-send"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-send"
   },
   {
     id: 400,
@@ -4399,7 +4399,7 @@ const products = [
     description: "Schedule automated workflows with filtered data for precise processing.",
     features: ["Filter Automation", "Scheduled Trigger", "Data Processing"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/schedule-filter-automation"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-filter-automation"
   },
   {
     id: 401,
@@ -4410,7 +4410,7 @@ const products = [
     description: "Create Todoist tasks via webhook with datetime triggers.",
     features: ["Todoist Integration", "Datetime Trigger", "Webhook Creation"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/todoist-datetime-create"
+    buyLink: "http://maken8n.gumroad.com/l/todoist-datetime-create"
   },
   {
     id: 402,
@@ -4421,7 +4421,7 @@ const products = [
     description: "Schedule code-based data imports with split-out processing.",
     features: ["Code Execution", "Scheduled Import", "Data Splitting"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-import"
   },
   {
     id: 403,
@@ -4432,7 +4432,7 @@ const products = [
     description: "Schedule Todoist task creation from code for automated task management.",
     features: ["Todoist Integration", "Code Execution", "Scheduled Trigger"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/todoist-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/todoist-code-create"
   },
   {
     id: 404,
@@ -4443,7 +4443,7 @@ const products = [
     description: "Send Slack notifications with error handling via triggered automation.",
     features: ["Slack Integration", "Error Handling", "Send Trigger"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-error-send"
+    buyLink: "http://maken8n.gumroad.com/l/slack-error-send"
   },
   {
     id: 405,
@@ -4454,7 +4454,7 @@ const products = [
     description: "Schedule HTTP webhook creation for automated workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Webhook Creation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/schedule-http-create"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-http-create"
   },
   {
     id: 406,
@@ -4465,7 +4465,7 @@ const products = [
     description: "Create split-out webhooks for automated data workflows.",
     features: ["Webhook Creation", "Data Splitting", "Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/splitout-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-webhook-create"
   },
   {
     id: 407,
@@ -4476,7 +4476,7 @@ const products = [
     description: "Update filtered Slack data via webhook for real-time automation.",
     features: ["Slack Integration", "Filter Update", "Webhook Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/slack-filter-update"
   },
   {
     id: 408,
@@ -4487,7 +4487,7 @@ const products = [
     description: "Send Telegram notifications with error handling via triggered automation.",
     features: ["Telegram Integration", "Error Handling", "Send Trigger"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-error-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-error-send"
   },
   {
     id: 409,
@@ -4498,7 +4498,7 @@ const products = [
     description: "Manually trigger Gsuite Admin actions for automated user management.",
     features: ["Gsuite Admin", "Manual Trigger", "User Automation"],
     icon: "👤",
-    buyLink: "https://example.com/workflows/gsuiteadmin-create"
+    buyLink: "http://maken8n.gumroad.com/l/gsuiteadmin-create"
   },
   {
     id: 410,
@@ -4509,7 +4509,7 @@ const products = [
     description: "Send Gmail emails with error handling via triggered automation.",
     features: ["Gmail Integration", "Error Handling", "Send Trigger"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmail-error-send"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-error-send"
   },
   {
     id: 411,
@@ -4520,7 +4520,7 @@ const products = [
     description: "Manually trigger code-based record creation for custom automation.",
     features: ["Code Execution", "Manual Trigger", "Record Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/manual-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-code-create"
   },
   {
     id: 412,
@@ -4531,7 +4531,7 @@ const products = [
     description: "Schedule filtered data imports to Postgres for database automation.",
     features: ["Postgres Integration", "Scheduled Import", "Filter Automation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/postgres-filter-import"
+    buyLink: "http://maken8n.gumroad.com/l/postgres-filter-import"
   },
   {
     id: 413,
@@ -4542,7 +4542,7 @@ const products = [
     description: "Automate GraphQL workflows using webhook triggers for data processing.",
     features: ["GraphQL Integration", "Webhook Trigger", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/graphql-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/graphql-webhook-automate"
   },
   {
     id: 414,
@@ -4553,7 +4553,7 @@ const products = [
     description: "Create Telegram webhooks from code execution for automation.",
     features: ["Telegram Integration", "Code Execution", "Webhook Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-code-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-code-create-webhook"
   },
   {
     id: 415,
@@ -4564,7 +4564,7 @@ const products = [
     description: "Create webhooks from OpenAI-processed form data for automation.",
     features: ["OpenAI Integration", "Form Integration", "Webhook Creation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/openai-form-create"
+    buyLink: "http://maken8n.gumroad.com/l/openai-form-create"
   },
   {
     id: 416,
@@ -4575,7 +4575,7 @@ const products = [
     description: "Schedule filtered Telegram message sending for automated communication.",
     features: ["Telegram Integration", "Scheduled Trigger", "Filter Send"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-filter-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-filter-send"
   },
   {
     id: 417,
@@ -4586,7 +4586,7 @@ const products = [
     description: "Send filtered data via webhook with wait conditions for delayed automation.",
     features: ["Filter Send", "Wait Mechanism", "Webhook Integration"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-filter-send"
+    buyLink: "http://maken8n.gumroad.com/l/wait-filter-send"
   },
   {
     id: 418,
@@ -4597,7 +4597,7 @@ const products = [
     description: "Send responses to incoming webhooks for automated workflows.",
     features: ["Webhook Response", "Send Automation", "Webhook Integration"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/respondtowebhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-send"
   },
   {
     id: 419,
@@ -4608,7 +4608,7 @@ const products = [
     description: "Create split-out webhooks from code execution for automation.",
     features: ["Code Execution", "Webhook Creation", "Data Splitting"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-create"
   },
   {
     id: 420,
@@ -4619,7 +4619,7 @@ const products = [
     description: "Create Clickup tasks from webhook responses for project automation.",
     features: ["Clickup Integration", "Webhook Response", "Task Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/clickup-respondtowebhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/clickup-respondtowebhook-create"
   },
   {
     id: 421,
@@ -4630,7 +4630,7 @@ const products = [
     description: "Update Google Sheets data via HTTP webhook for automation.",
     features: ["Google Sheets", "HTTP Webhook", "Data Update"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-update-webhook"
   },
   {
     id: 422,
@@ -4641,7 +4641,7 @@ const products = [
     description: "Create webhooks from form submissions via HTTP for automation.",
     features: ["Form Integration", "HTTP Webhook", "Webhook Creation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/http-form-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-form-create"
   },
   {
     id: 423,
@@ -4652,7 +4652,7 @@ const products = [
     description: "Trigger Gmail email aggregation for automated data collection.",
     features: ["Gmail Integration", "Aggregate Trigger", "Data Collection"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmail-aggregate-create"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-aggregate-create"
   },
   {
     id: 424,
@@ -4663,7 +4663,7 @@ const products = [
     description: "Schedule code execution with limits for controlled automation.",
     features: ["Code Execution", "Scheduled Trigger", "Limit Control"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/limit-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/limit-code-create"
   },
   {
     id: 425,
@@ -4674,7 +4674,7 @@ const products = [
     description: "Schedule Google Sheets data automation for consistent updates.",
     features: ["Google Sheets", "Scheduled Trigger", "Data Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-schedule-automation"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-schedule-automation"
   },
   {
     id: 426,
@@ -4685,7 +4685,7 @@ const products = [
     description: "Schedule Google Analytics data processing with code automation.",
     features: ["Google Analytics", "Scheduled Trigger", "Code Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googleanalytics-code-automate"
+    buyLink: "http://maken8n.gumroad.com/l/googleanalytics-code-automate"
   },
   {
     id: 427,
@@ -4696,7 +4696,7 @@ const products = [
     description: "Manually trigger YouTube content creation for automated video uploads.",
     features: ["YouTube Integration", "Manual Trigger", "Content Creation"],
     icon: "📹",
-    buyLink: "https://example.com/workflows/youtube-create"
+    buyLink: "http://maken8n.gumroad.com/l/youtube-create"
   },
   {
     id: 428,
@@ -4707,7 +4707,7 @@ const products = [
     description: "Create Grist records from sticky note data via webhook.",
     features: ["Grist Integration", "Sticky Notes", "Webhook Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/grist-stickynote-create"
+    buyLink: "http://maken8n.gumroad.com/l/grist-stickynote-create"
   },
   {
     id: 429,
@@ -4718,7 +4718,7 @@ const products = [
     description: "Trigger Telegram automation with aggregated data for efficient messaging.",
     features: ["Telegram Integration", "Aggregate Trigger", "Message Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-aggregate-automate"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-aggregate-automate"
   },
   {
     id: 430,
@@ -4729,7 +4729,7 @@ const products = [
     description: "Automate Telegram workflows with code execution via webhook.",
     features: ["Telegram Integration", "Code Execution", "Webhook Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-code-automation"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-code-automation"
   },
   {
     id: 431,
@@ -4740,7 +4740,7 @@ const products = [
     description: "Automate responses to webhooks with code execution for dynamic workflows.",
     features: ["Code Execution", "Webhook Response", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-respondtowebhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/code-respondtowebhook-automate"
   },
   {
     id: 432,
@@ -4751,7 +4751,7 @@ const products = [
     description: "Extract data from files and update via webhook for automation.",
     features: ["File Extraction", "Webhook Update", "Data Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/webhook-extractfromfile-update"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-extractfromfile-update"
   },
   {
     id: 433,
@@ -4762,7 +4762,7 @@ const products = [
     description: "Automate sticky note creation from form submissions via webhook.",
     features: ["Form Integration", "Sticky Notes", "Webhook Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/form-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/form-stickynote-automate"
   },
   {
     id: 434,
@@ -4773,7 +4773,7 @@ const products = [
     description: "Schedule Telegram record creation for automated messaging.",
     features: ["Telegram Integration", "Scheduled Trigger", "Record Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/schedule-telegram-create"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-telegram-create"
   },
   {
     id: 435,
@@ -4784,7 +4784,7 @@ const products = [
     description: "Trigger Telegram sticky note updates for real-time automation.",
     features: ["Telegram Integration", "Sticky Notes", "Update Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/telegram-stickynote-update"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-update"
   },
   {
     id: 436,
@@ -4795,7 +4795,7 @@ const products = [
     description: "Manually trigger debug helper actions for workflow troubleshooting.",
     features: ["Debug Helper", "Manual Trigger", "Workflow Automation"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/debughelper-create"
+    buyLink: "http://maken8n.gumroad.com/l/debughelper-create"
   },
   {
     id: 437,
@@ -4806,7 +4806,7 @@ const products = [
     description: "Trigger Gmail email sending via Mautic for marketing automation.",
     features: ["Mautic Integration", "Gmail Integration", "Send Trigger"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/mautic-gmail-send"
+    buyLink: "http://maken8n.gumroad.com/l/mautic-gmail-send"
   },
   {
     id: 438,
@@ -4817,7 +4817,7 @@ const products = [
     description: "Monitor webhooks with code execution for real-time automation.",
     features: ["Code Execution", "Webhook Monitor", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-webhook-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook-monitor"
   },
   {
     id: 439,
@@ -4828,7 +4828,7 @@ const products = [
     description: "Create HTTP responses to incoming webhooks for automated workflows.",
     features: ["HTTP Integration", "Webhook Response", "Webhook Creation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-respondtowebhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-respondtowebhook-create"
   },
     {
     id: 440,
@@ -4839,7 +4839,7 @@ const products = [
     description: "Create Keap records via HTTP webhook for CRM automation.",
     features: [" HD1"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/keap-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/keap-create-webhook"
   },
   {
     id: 441,
@@ -4850,7 +4850,7 @@ const products = [
     description: "Extract HTML data and send via webhook for automated processing.",
     features: ["HTML Extraction", "Webhook Send", "Data Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/htmlextract-send"
+    buyLink: "http://maken8n.gumroad.com/l/htmlextract-send"
   },
   {
     id: 442,
@@ -4861,7 +4861,7 @@ const products = [
     description: "Manually update data via HTTP webhook for custom automation.",
     features: ["HTTP Integration", "Manual Trigger", "Webhook Update"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-manual-update"
+    buyLink: "http://maken8n.gumroad.com/l/http-manual-update"
   },
   {
     id: 443,
@@ -4872,7 +4872,7 @@ const products = [
     description: "Schedule Redis data imports for automated database processing.",
     features: ["Redis Integration", "Scheduled Import", "Data Automation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/redis-schedule-import"
+    buyLink: "http://maken8n.gumroad.com/l/redis-schedule-import"
   },
   {
     id: 444,
@@ -4883,7 +4883,7 @@ const products = [
     description: "Schedule split-out data processing with wait conditions for automation.",
     features: ["Data Splitting", "Scheduled Trigger", "Wait Mechanism"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-process"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-process"
   },
   {
     id: 445,
@@ -4894,7 +4894,7 @@ const products = [
     description: "Manually extract data from files and send via webhook.",
     features: ["File Extraction", "Manual Trigger", "Webhook Send"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/manual-extractfromfile-send"
+    buyLink: "http://maken8n.gumroad.com/l/manual-extractfromfile-send"
   },
   {
     id: 446,
@@ -4905,7 +4905,7 @@ const products = [
     description: "Schedule filtered Wordpress content updates for automation.",
     features: ["Wordpress Integration", "Scheduled Trigger", "Filter Update"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/wordpress-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/wordpress-filter-update"
   },
   {
     id: 447,
@@ -4916,7 +4916,7 @@ const products = [
     description: "Schedule code-based record creation with split-out processing.",
     features: ["Code Execution", "Scheduled Trigger", "Data Splitting"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-create"
   },
   {
     id: 448,
@@ -4927,7 +4927,7 @@ const products = [
     description: "Manually trigger file conversion processes for automated workflows.",
     features: ["File Conversion", "Manual Trigger", "Process Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/converttofile-manual-process"
+    buyLink: "http://maken8n.gumroad.com/l/converttofile-manual-process"
   },
   {
     id: 449,
@@ -4938,7 +4938,7 @@ const products = [
     description: "Schedule HTTP webhook automation for seamless data workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Webhook Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-schedule-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-schedule-automation"
   },
   {
     id: 450,
@@ -4949,7 +4949,7 @@ const products = [
     description: "Trigger MongoDB record creation from sticky note data.",
     features: ["MongoDB Integration", "Sticky Notes", "Automation Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/mongodb-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/mongodb-stickynote-automate"
   },
   {
     id: 451,
@@ -4960,7 +4960,7 @@ const products = [
     description: "Process sticky note data via HTTP webhook for automation.",
     features: ["Sticky Notes", "HTTP Webhook", "Data Processing"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-process-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-process-webhook"
   },
   {
     id: 452,
@@ -4971,7 +4971,7 @@ const products = [
     description: "Schedule code updates with error handling for reliable automation.",
     features: ["Code Execution", "Scheduled Trigger", "Error Handling"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-error-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-error-update"
   },
   {
     id: 453,
@@ -4982,7 +4982,7 @@ const products = [
     description: "Manually create webhooks from code execution for custom automation.",
     features: ["Code Execution", "Manual Trigger", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-manual-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-create-webhook"
   },
   {
     id: 454,
@@ -4993,7 +4993,7 @@ const products = [
     description: "Create split-out webhooks with wait conditions for delayed automation.",
     features: ["Data Splitting", "Wait Mechanism", "Webhook Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-create"
   },
   {
     id: 455,
@@ -5004,7 +5004,7 @@ const products = [
     description: "Create Google Docs records via webhook for document automation.",
     features: ["Google Docs", "Webhook Creation", "Document Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/googledocs-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/googledocs-webhook-create"
   },
   {
     id: 456,
@@ -5015,7 +5015,7 @@ const products = [
     description: "Create Bannerbear images and send to Discord via webhook.",
     features: ["Bannerbear Integration", "Discord Integration", "Webhook Creation"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/bannerbear-discord-create"
+    buyLink: "http://maken8n.gumroad.com/l/bannerbear-discord-create"
   },
   {
     id: 457,
@@ -5026,7 +5026,7 @@ const products = [
     description: "Schedule Slack message creation for automated team communication.",
     features: ["Slack Integration", "Scheduled Trigger", "Message Creation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/schedule-slack-create"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-slack-create"
   },
   {
     id: 458,
@@ -5037,7 +5037,7 @@ const products = [
     description: "Schedule manual data updates for automated workflows.",
     features: ["Manual Trigger", "Scheduled Update", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/schedule-manual-update"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-manual-update"
   },
   {
     id: 459,
@@ -5048,7 +5048,7 @@ const products = [
     description: "Schedule Google Calendar event creation with split-out data.",
     features: ["Google Calendar", "Scheduled Trigger", "Data Splitting"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/splitout-googlecalendar-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-googlecalendar-create"
   },
   {
     id: 460,
@@ -5059,7 +5059,7 @@ const products = [
     description: "Schedule Slack updates via webhook for automated messaging.",
     features: ["Slack Integration", "Scheduled Trigger", "Webhook Update"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/schedule-slack-update"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-slack-update"
   },
   {
     id: 461,
@@ -5070,7 +5070,7 @@ const products = [
     description: "Create Google Calendar webhooks with split-out data for automation.",
     features: ["Google Calendar", "Webhook Creation", "Data Splitting"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/splitout-googlecalendar-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-googlecalendar-webhook"
   },
   {
     id: 462,
@@ -5081,7 +5081,7 @@ const products = [
     description: "Create Elasticsearch records via webhook with split-out data.",
     features: ["Elasticsearch Integration", "Webhook Creation", "Data Splitting"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/splitout-elasticsearch-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-elasticsearch-create"
   },
   {
     id: 463,
@@ -5092,7 +5092,7 @@ const products = [
     description: "Export code execution results via webhook with wait conditions.",
     features: ["Code Execution", "Wait Mechanism", "Webhook Export"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-export"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-export"
   },
   {
     id: 464,
@@ -5103,7 +5103,7 @@ const products = [
     description: "Trigger local file processing with command execution for automation.",
     features: ["Local File", "Command Execution", "Process Trigger"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/executecommand-localfile-process"
+    buyLink: "http://maken8n.gumroad.com/l/executecommand-localfile-process"
   },
   {
     id: 465,
@@ -5114,7 +5114,7 @@ const products = [
     description: "Create webhooks from local file data for automated workflows.",
     features: ["Local File", "Webhook Creation", "Data Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/localfile-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/localfile-create-webhook"
   },
   {
     id: 466,
@@ -5125,7 +5125,7 @@ const products = [
     description: "Trigger sending of split-out local file data for automation.",
     features: ["Local File", "Data Splitting", "Send Trigger"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/localfile-splitout-send"
+    buyLink: "http://maken8n.gumroad.com/l/localfile-splitout-send"
   },
   {
     id: 467,
@@ -5136,7 +5136,7 @@ const products = [
     description: "Trigger local file data creation with wait conditions for automation.",
     features: ["Local File", "Wait Mechanism", "Creator Trigger"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/localfile-wait-create"
+    buyLink: "http://maken8n.gumroad.com/l/localfile-wait-create"
   },
   {
     id: 468,
@@ -5147,7 +5147,7 @@ const products = [
     description: "Send split-out data via webhook with wait conditions for automation.",
     features: ["Data Splitting", "Wait Mechanism", "Webhook Send"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-send"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-send"
   },
   {
     id: 469,
@@ -5158,7 +5158,7 @@ const products = [
     description: "Schedule Twilio webhook creation for automated communication.",
     features: ["Twilio Integration", "Scheduled Trigger", "Webhook Creation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/schedule-twilio-create"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-twilio-create"
   },
   {
     id: 470,
@@ -5169,7 +5169,7 @@ const products = [
     description: "Trigger Redis record creation with wait conditions for automation.",
     features: ["Redis Integration", "Wait Mechanism", "Creator Trigger"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/wait-redis-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-redis-create"
   },
   {
     id: 471,
@@ -5180,7 +5180,7 @@ const products = [
     description: "Manually trigger N8N data exports for workflow automation.",
     features: ["N8N Integration", "Manual Trigger", "Data Export"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/n8n-export"
+    buyLink: "http://maken8n.gumroad.com/l/n8n-export"
   },
   {
     id: 472,
@@ -5191,7 +5191,7 @@ const products = [
     description: "Trigger Google Drive file creation from Gmail emails.",
     features: ["Gmail Integration", "Google Drive", "Creator Trigger"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmail-googledrive-create"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-googledrive-create"
   },
   {
     id: 473,
@@ -5202,7 +5202,7 @@ const products = [
     description: "Trigger N8N data imports with error handling for reliable automation.",
     features: ["N8N Integration", "Error Handling", "Import Trigger"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/n8n-error-import"
+    buyLink: "http://maken8n.gumroad.com/l/n8n-error-import"
   },
   {
     id: 474,
@@ -5213,7 +5213,7 @@ const products = [
     description: "Schedule code-based record creation for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Record Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-create"
   },
   {
     id: 475,
@@ -5224,7 +5224,7 @@ const products = [
     description: "Monitor filtered HTTP data via webhook for real-time automation.",
     features: ["HTTP Integration", "Filter Monitor", "Webhook Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-filter-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/http-filter-monitor"
   },
   {
     id: 476,
@@ -5235,7 +5235,7 @@ const products = [
     description: "Send sticky note data to Slack via webhook for team updates.",
     features: ["Slack Integration", "Sticky Notes", "Webhook Send"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-stickynote-send"
+    buyLink: "http://maken8n.gumroad.com/l/slack-stickynote-send"
   },
   {
     id: 477,
@@ -5246,7 +5246,7 @@ const products = [
     description: "Schedule sending of code execution results for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Send Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-schedule-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-send"
   },
     {
     id: 478,
@@ -5257,7 +5257,7 @@ const products = [
     description: "Export split-out code execution results via webhook for automation.",
     features: ["Code Execution", "Data Splitting", "Webhook Export"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-export"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-export"
   },
   {
     id: 479,
@@ -5268,7 +5268,7 @@ const products = [
     description: "Schedule filtered Gitlab record creation for automated workflows.",
     features: ["Gitlab Integration", "Scheduled Trigger", "Filter Creation"],
     icon: "🦊",
-    buyLink: "https://example.com/workflows/gitlab-filter-create"
+    buyLink: "http://maken8n.gumroad.com/l/gitlab-filter-create"
   },
   {
     id: 480,
@@ -5279,7 +5279,7 @@ const products = [
     description: "Manually trigger sticky note automation for efficient data processing.",
     features: ["Sticky Notes", "Manual Trigger", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/manual-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-automate"
   },
   {
     id: 481,
@@ -5290,7 +5290,7 @@ const products = [
     description: "Create HTTP webhooks for seamless automation workflows.",
     features: ["HTTP Integration", "Webhook Creation", "Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-webhook-create"
   },
   {
     id: 482,
@@ -5301,7 +5301,7 @@ const products = [
     description: "Import filtered split-out data via webhook for automation.",
     features: ["Data Splitting", "Filter Import", "Webhook Integration"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/splitout-filter-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-import"
   },
   {
     id: 483,
@@ -5312,7 +5312,7 @@ const products = [
     description: "Trigger Gitlab record creation from code execution for automation.",
     features: ["Gitlab Integration", "Code Execution", "Creator Trigger"],
     icon: "🦊",
-    buyLink: "https://example.com/workflows/gitlab-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/gitlab-code-create"
   },
   {
     id: 484,
@@ -5323,7 +5323,7 @@ const products = [
     description: "Trigger Supabase record creation from sticky note data.",
     features: ["Supabase Integration", "Sticky Notes", "Creator Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/supabase-stickynote-create"
+    buyLink: "http://maken8n.gumroad.com/l/supabase-stickynote-create"
   },
   {
     id: 485,
@@ -5334,7 +5334,7 @@ const products = [
     description: "Automate Slack workflows using webhook triggers for team communication.",
     features: ["Slack Integration", "Webhook Trigger", "Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/webhook-slack-automate"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-slack-automate"
   },
   {
     id: 486,
@@ -5345,7 +5345,7 @@ const products = [
     description: "Automate sticky note workflows via HTTP webhook for data processing.",
     features: ["Sticky Notes", "HTTP Webhook", "Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/http-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/http-stickynote-automate"
   },
   {
     id: 487,
@@ -5356,7 +5356,7 @@ const products = [
     description: "Schedule Zendesk automation for efficient customer support workflows.",
     features: ["Zendesk Integration", "Scheduled Trigger", "Support Automation"],
     icon: "🎧",
-    buyLink: "https://example.com/workflows/zendesk-schedule-automate"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-schedule-automate"
   },
   {
     id: 488,
@@ -5367,7 +5367,7 @@ const products = [
     description: "Trigger Telegram workflow updates for real-time automation.",
     features: ["Telegram Integration", "Workflow Update", "Trigger Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/executeworkflow-telegram-update"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-telegram-update"
   },
   {
     id: 489,
@@ -5378,7 +5378,7 @@ const products = [
     description: "Create split-out webhooks with datetime triggers for automation.",
     features: ["Data Splitting", "Datetime Trigger", "Webhook Creation"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/splitout-datetime-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-datetime-create"
   },
   {
     id: 490,
@@ -5389,7 +5389,7 @@ const products = [
     description: "Send code execution results via webhook for automated workflows.",
     features: ["Code Execution", "Webhook Send", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-webhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook-send"
   },
   {
     id: 491,
@@ -5400,7 +5400,7 @@ const products = [
     description: "Schedule sending of filtered data for automated workflows.",
     features: ["Filter Send", "Scheduled Trigger", "Data Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/filter-schedule-send"
+    buyLink: "http://maken8n.gumroad.com/l/filter-schedule-send"
   },
   {
     id: 492,
@@ -5411,7 +5411,7 @@ const products = [
     description: "Send sticky note data to Notion via webhook for automation.",
     features: ["Notion Integration", "Sticky Notes", "Webhook Send"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-notion-send"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-notion-send"
   },
   {
     id: 493,
@@ -5422,7 +5422,7 @@ const products = [
     description: "Trigger Notion record creation from sticky note data.",
     features: ["Notion Integration", "Sticky Notes", "Creator Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-notion-create"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-notion-create"
   },
   {
     id: 494,
@@ -5433,7 +5433,7 @@ const products = [
     description: "Manually update edited images via webhook for automation.",
     features: ["Image Editing", "Manual Trigger", "Webhook Update"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/editimage-manual-update"
+    buyLink: "http://maken8n.gumroad.com/l/editimage-manual-update"
   },
   {
     id: 495,
@@ -5444,7 +5444,7 @@ const products = [
     description: "Automate form responses to webhooks for dynamic workflows.",
     features: ["Form Integration", "Webhook Response", "Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/respondtowebhook-form-automate"
+    buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-form-automate"
   },
   {
     id: 496,
@@ -5455,7 +5455,7 @@ const products = [
     description: "Update edited images via webhook using code execution.",
     features: ["Image Editing", "Code Execution", "Webhook Update"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/code-editimage-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-editimage-update"
   },
   {
     id: 497,
@@ -5466,7 +5466,7 @@ const products = [
     description: "Schedule webhook creation with wait conditions for automation.",
     features: ["Wait Mechanism", "Scheduled Trigger", "Webhook Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-schedule-create"
   },
   {
     id: 498,
@@ -5477,7 +5477,7 @@ const products = [
     description: "Trigger split-out image editing updates for automated workflows.",
     features: ["Image Editing", "Data Splitting", "Update Trigger"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/splitout-editimage-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-editimage-update"
   },
   {
     id: 499,
@@ -5488,7 +5488,7 @@ const products = [
     description: "Import edited images via webhook using code execution.",
     features: ["Image Editing", "Code Execution", "Webhook Import"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/code-editimage-import"
+    buyLink: "http://maken8n.gumroad.com/l/code-editimage-import"
   },
   {
     id: 500,
@@ -5499,7 +5499,7 @@ const products = [
     description: "Create Slack webhooks for automated team communication.",
     features: ["Slack Integration", "Webhook Creation", "Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/webhook-slack-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-slack-create"
   },
   {
     id: 501,
@@ -5510,7 +5510,7 @@ const products = [
     description: "Create Dropbox webhooks with wait conditions for automation.",
     features: ["Dropbox Integration", "Wait Mechanism", "Webhook Creation"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/wait-dropbox-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-dropbox-create"
   },
   {
     id: 502,
@@ -5521,7 +5521,7 @@ const products = [
     description: "Create Strapi records with split-out data via webhook.",
     features: ["Strapi Integration", "Data Splitting", "Webhook Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/strapi-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/strapi-splitout-create"
   },
   {
     id: 503,
@@ -5532,7 +5532,7 @@ const products = [
     description: "Automate Telegram workflows with split-out data via webhook.",
     features: ["Telegram Integration", "Data Splitting", "Webhook Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-splitout-automate"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-automate"
   },
   {
     id: 504,
@@ -5543,7 +5543,7 @@ const products = [
     description: "Automate sticky note responses to webhooks for dynamic workflows.",
     features: ["Sticky Notes", "Webhook Response", "Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/respondtowebhook-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-stickynote-automate"
   },
   {
     id: 505,
@@ -5554,7 +5554,7 @@ const products = [
     description: "Send filtered split-out data via webhook for automation.",
     features: ["Data Splitting", "Filter Send", "Webhook Integration"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-filter-send"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-send"
   },
   {
     id: 506,
@@ -5565,7 +5565,7 @@ const products = [
     description: "Schedule HTTP webhook creation for automated workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Webhook Creation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-schedule-create"
   },
   {
     id: 507,
@@ -5576,7 +5576,7 @@ const products = [
     description: "Manually update filtered data via webhook for automation.",
     features: ["Filter Update", "Manual Trigger", "Webhook Integration"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/manual-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/manual-filter-update"
   },
   {
     id: 508,
@@ -5587,7 +5587,7 @@ const products = [
     description: "Send sticky note data in response to webhooks for automation.",
     features: ["Sticky Notes", "Webhook Response", "Send Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/respondtowebhook-stickynote-send"
+    buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-stickynote-send"
   },
   {
     id: 509,
@@ -5598,7 +5598,7 @@ const products = [
     description: "Automate AWS S3 workflows with error handling via webhook.",
     features: ["AWS S3 Integration", "Error Handling", "Webhook Automation"],
     icon: "☁️",
-    buyLink: "https://example.com/workflows/awss3-error-automate"
+    buyLink: "http://maken8n.gumroad.com/l/awss3-error-automate"
   },
   {
     id: 510,
@@ -5609,7 +5609,7 @@ const products = [
     description: "Trigger AWS S3 file compression for automated storage workflows.",
     features: ["AWS S3 Integration", "Compression", "Automation Trigger"],
     icon: "☁️",
-    buyLink: "https://example.com/workflows/awss3-compression-automate"
+    buyLink: "http://maken8n.gumroad.com/l/awss3-compression-automate"
   },
   {
     id: 511,
@@ -5620,7 +5620,7 @@ const products = [
     description: "Create Telegram webhooks via HTTP for automated messaging.",
     features: ["Telegram Integration", "HTTP Webhook", "Webhook Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/http-telegram-create"
+    buyLink: "http://maken8n.gumroad.com/l/http-telegram-create"
   },
   {
     id: 512,
@@ -5631,7 +5631,7 @@ const products = [
     description: "Manually trigger sending of filtered data for automated workflows.",
     features: ["Filter Send", "Manual Trigger", "Data Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/filter-manual-send"
+    buyLink: "http://maken8n.gumroad.com/l/filter-manual-send"
   },
     {
     id: 513,
@@ -5642,7 +5642,7 @@ const products = [
     description: "Import code execution results via webhook with wait conditions for automation.",
     features: ["Code Execution", "Wait Mechanism", "Webhook Import"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-import"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-import"
   },
   {
     id: 514,
@@ -5653,7 +5653,7 @@ const products = [
     description: "Trigger Telegram messages from Gmail data for automated communication.",
     features: ["Telegram Integration", "Gmail Integration", "Send Trigger"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-gmailtool-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-gmailtool-send"
   },
   {
     id: 515,
@@ -5664,7 +5664,7 @@ const products = [
     description: "Extract data from files via code and create webhooks for automation.",
     features: ["Code Execution", "File Extraction", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-extractfromfile-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-extractfromfile-create"
   },
   {
     id: 516,
@@ -5675,7 +5675,7 @@ const products = [
     description: "Manually extract data from files and create webhooks for automation.",
     features: ["File Extraction", "Manual Trigger", "Webhook Creation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/manual-extractfromfile-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-extractfromfile-create"
   },
   {
     id: 517,
@@ -5686,7 +5686,7 @@ const products = [
     description: "Schedule Jira issue creation for automated project management.",
     features: ["Jira Integration", "Scheduled Trigger", "Issue Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/jiratool-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/jiratool-schedule-create"
   },
   {
     id: 518,
@@ -5697,7 +5697,7 @@ const products = [
     description: "Schedule code-based item list creation for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Item Lists"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-itemlists-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-itemlists-create"
   },
   {
     id: 519,
@@ -5708,7 +5708,7 @@ const products = [
     description: "Trigger aggregated split-out data automation for efficient processing.",
     features: ["Data Splitting", "Aggregate Trigger", "Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/splitout-aggregate-automate"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-aggregate-automate"
   },
   {
     id: 520,
@@ -5719,7 +5719,7 @@ const products = [
     description: "Import split-out code execution results via webhook for automation.",
     features: ["Code Execution", "Data Splitting", "Webhook Import"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-import"
   },
   {
     id: 521,
@@ -5730,7 +5730,7 @@ const products = [
     description: "Import data via webhook with wait and limit conditions for controlled automation.",
     features: ["Wait Mechanism", "Limit Control", "Webhook Import"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-limit-import"
+    buyLink: "http://maken8n.gumroad.com/l/wait-limit-import"
   },
   {
     id: 522,
@@ -5741,7 +5741,7 @@ const products = [
     description: "Schedule Twilio automation with no operation handling for seamless communication.",
     features: ["Twilio Integration", "Scheduled Trigger", "Noop Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/noop-twilio-automate"
+    buyLink: "http://maken8n.gumroad.com/l/noop-twilio-automate"
   },
   {
     id: 523,
@@ -5752,7 +5752,7 @@ const products = [
     description: "Schedule HTTP-based filtered data automation for precise workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Filter Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-filter-automation"
+    buyLink: "http://maken8n.gumroad.com/l/http-filter-automation"
   },
   {
     id: 524,
@@ -5763,7 +5763,7 @@ const products = [
     description: "Schedule sending of filtered Slack messages for automated communication.",
     features: ["Slack Integration", "Scheduled Trigger", "Filter Send"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/filter-slack-send"
+    buyLink: "http://maken8n.gumroad.com/l/filter-slack-send"
   },
   {
     id: 525,
@@ -5774,7 +5774,7 @@ const products = [
     description: "Manually import split-out data via webhook for automation.",
     features: ["Data Splitting", "Manual Trigger", "Webhook Import"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/splitout-manual-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-manual-import"
   },
   {
     id: 526,
@@ -5785,7 +5785,7 @@ const products = [
     description: "Create Filemaker webhooks for automated database workflows.",
     features: ["Filemaker Integration", "Webhook Creation", "Data Automation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/webhook-filemaker-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-filemaker-create"
   },
   {
     id: 527,
@@ -5796,7 +5796,7 @@ const products = [
     description: "Create Elasticsearch webhooks using cron scheduling for automation.",
     features: ["Elasticsearch Integration", "Cron Scheduling", "Webhook Creation"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/elasticsearch-cron-create"
+    buyLink: "http://maken8n.gumroad.com/l/elasticsearch-cron-create"
   },
   {
     id: 528,
@@ -5807,7 +5807,7 @@ const products = [
     description: "Manually trigger no operation automation via webhook for testing workflows.",
     features: ["Noop Automation", "Manual Trigger", "Webhook Integration"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/manual-noop-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-noop-automate"
   },
   {
     id: 529,
@@ -5818,7 +5818,7 @@ const products = [
     description: "Automate Slack workflows with wait conditions via webhook.",
     features: ["Slack Integration", "Wait Mechanism", "Webhook Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/wait-slack-automate"
+    buyLink: "http://maken8n.gumroad.com/l/wait-slack-automate"
   },
   {
     id: 530,
@@ -5829,7 +5829,7 @@ const products = [
     description: "Monitor Slack workflows with wait conditions via webhook.",
     features: ["Slack Integration", "Wait Mechanism", "Webhook Monitor"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/wait-slack-monitor"
+    buyLink: "http://maken8n.gumroad.com/l/wait-slack-monitor"
   },
   {
     id: 531,
@@ -5840,7 +5840,7 @@ const products = [
     description: "Manually trigger dataset comparison and record creation for automation.",
     features: ["Dataset Comparison", "Manual Trigger", "Creator Trigger"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/comparedatasets-manual-create"
+    buyLink: "http://maken8n.gumroad.com/l/comparedatasets-manual-create"
   },
   {
     id: 532,
@@ -5851,7 +5851,7 @@ const products = [
     description: "Schedule HTTP data sending for automated workflows.",
     features: ["HTTP Integration", "Scheduled Trigger", "Send Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-schedule-send"
+    buyLink: "http://maken8n.gumroad.com/l/http-schedule-send"
   },
   {
     id: 533,
@@ -5862,7 +5862,7 @@ const products = [
     description: "Trigger split-out code record creation for automated workflows.",
     features: ["Code Execution", "Data Splitting", "Creator Trigger"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-create"
   },
   {
     id: 534,
@@ -5873,7 +5873,7 @@ const products = [
     description: "Schedule split-out data creation with wait conditions for automation.",
     features: ["Data Splitting", "Wait Mechanism", "Scheduled Trigger"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-create"
   },
   {
     id: 535,
@@ -5884,7 +5884,7 @@ const products = [
     description: "Schedule code execution results export for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Export Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-schedule-export"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-export"
   },
   {
     id: 536,
@@ -5895,7 +5895,7 @@ const products = [
     description: "Schedule code-based webhook creation for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook-create"
   },
   {
     id: 537,
@@ -5906,7 +5906,7 @@ const products = [
     description: "Schedule Wordpress content automation for consistent updates.",
     features: ["Wordpress Integration", "Scheduled Trigger", "Content Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/schedule-wordpress-automate"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-wordpress-automate"
   },
   {
     id: 538,
@@ -5917,7 +5917,7 @@ const products = [
     description: "Manually create webhooks for custom automation workflows.",
     features: ["Webhook Creation", "Manual Trigger", "Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-manual-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-manual-create"
   },
   {
     id: 539,
@@ -5928,7 +5928,7 @@ const products = [
     description: "Trigger Google Sheets record creation from form submissions.",
     features: ["Google Sheets", "Form Integration", "Creator Trigger"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/form-googlesheets-create"
+    buyLink: "http://maken8n.gumroad.com/l/form-googlesheets-create"
   },
   {
     id: 540,
@@ -5939,7 +5939,7 @@ const products = [
     description: "Manually export split-out data via webhook for automation.",
     features: ["Data Splitting", "Manual Trigger", "Webhook Export"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-manual-export"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-manual-export"
   },
   {
     id: 541,
@@ -5950,7 +5950,7 @@ const products = [
     description: "Trigger Webflow content creation from Google Sheets data.",
     features: ["Google Sheets", "Webflow Integration", "Creator Trigger"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlesheets-webflow-create"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-webflow-create"
   },
   {
     id: 542,
@@ -5961,7 +5961,7 @@ const products = [
     description: "Create Redis records with split-out data via webhook.",
     features: ["Redis Integration", "Data Splitting", "Webhook Creation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/splitout-redis-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-redis-create"
   },
   {
     id: 543,
@@ -5972,7 +5972,7 @@ const products = [
     description: "Create webhooks from RSS feed data via HTTP for automation.",
     features: ["RSS Feed Integration", "HTTP Webhook", "Webhook Creation"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/rssfeedread-create"
+    buyLink: "http://maken8n.gumroad.com/l/rssfeedread-create"
   },
   {
     id: 544,
@@ -5983,7 +5983,7 @@ const products = [
     description: "Process extracted file data via HTTP webhook for automation.",
     features: ["File Extraction", "HTTP Webhook", "Data Processing"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/http-extractfromfile-process"
+    buyLink: "http://maken8n.gumroad.com/l/http-extractfromfile-process"
   },
   {
     id: 545,
@@ -5994,7 +5994,7 @@ const products = [
     description: "Schedule split-out data imports to Snowflake for analytics automation.",
     features: ["Snowflake Integration", "Scheduled Import", "Data Splitting"],
     icon: "❄️",
-    buyLink: "https://example.com/workflows/splitout-snowflake-import"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-snowflake-import"
   },
   {
     id: 546,
@@ -6005,7 +6005,7 @@ const products = [
     description: "Sync split-out code execution results via webhook for automation.",
     features: ["Code Execution", "Data Splitting", "Webhook Sync"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-sync"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-sync"
   },
   {
     id: 547,
@@ -6016,7 +6016,7 @@ const products = [
     description: "Export extracted file data from forms via webhook for automation.",
     features: ["Form Integration", "File Extraction", "Webhook Export"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/extractfromfile-form-export"
+    buyLink: "http://maken8n.gumroad.com/l/extractfromfile-form-export"
   },
   {
     id: 548,
@@ -6027,7 +6027,7 @@ const products = [
     description: "Trigger Google Calendar event creation from form submissions.",
     features: ["Google Calendar", "Form Integration", "Creator Trigger"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/googlecalendar-form-create"
+    buyLink: "http://maken8n.gumroad.com/l/googlecalendar-form-create"
   },
   {
     id: 549,
@@ -6038,7 +6038,7 @@ const products = [
     description: "Schedule split-out data creation for automated workflows.",
     features: ["Data Splitting", "Scheduled Trigger", "Creator Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/splitout-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-create"
   },
   {
     id: 550,
@@ -6049,7 +6049,7 @@ const products = [
     description: "Manually trigger Convertkit subscriber creation for marketing automation.",
     features: ["Convertkit Integration", "Manual Trigger", "Subscriber Creation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/manual-convertkit-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-convertkit-create"
   },
   {
     id: 551,
@@ -6060,7 +6060,7 @@ const products = [
     description: "Schedule Postgres database updates with code execution.",
     features: ["Postgres Integration", "Scheduled Trigger", "Code Update"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/code-postgres-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-postgres-update"
   },
   {
     id: 552,
@@ -6071,7 +6071,7 @@ const products = [
     description: "Schedule split-out data updates via webhook for automation.",
     features: ["Data Splitting", "Scheduled Trigger", "Webhook Update"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/splitout-schedule-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-update"
   },
   {
     id: 553,
@@ -6082,7 +6082,7 @@ const products = [
     description: "Trigger Calendly event creation with no operation handling.",
     features: ["Calendly Integration", "Noop Trigger", "Event Creation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/calendly-noop-create"
+    buyLink: "http://maken8n.gumroad.com/l/calendly-noop-create"
   },
   {
     id: 554,
@@ -6093,7 +6093,7 @@ const products = [
     description: "Schedule manual automation tasks for consistent workflows.",
     features: ["Manual Trigger", "Scheduled Automation", "Task Execution"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/manual-schedule-automation"
+    buyLink: "http://maken8n.gumroad.com/l/manual-schedule-automation"
   },
   {
     id: 555,
@@ -6104,7 +6104,7 @@ const products = [
     description: "Schedule split-out data updates for automated workflows.",
     features: ["Data Splitting", "Scheduled Trigger", "Update Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/splitout-schedule-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-update"
   },
   {
     id: 556,
@@ -6115,7 +6115,7 @@ const products = [
     description: "Create split-out webhooks with limit conditions for controlled automation.",
     features: ["Data Splitting", "Limit Control", "Webhook Creation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/splitout-limit-create"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-limit-create"
   },
   {
     id: 557,
@@ -6126,7 +6126,7 @@ const products = [
     description: "Create Postgres webhooks for automated database workflows.",
     features: ["Postgres Integration", "Webhook Creation", "Data Automation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/postgres-webhook-create"
+    buyLink: "http://maken8n.gumroad.com/l/postgres-webhook-create"
   },
   {
     id: 558,
@@ -6137,7 +6137,7 @@ const products = [
     description: "Create Microsoft Outlook records via webhook using code execution.",
     features: ["Microsoft Outlook", "Code Execution", "Webhook Creation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/code-microsoftoutlook-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-microsoftoutlook-create"
   },
   {
     id: 559,
@@ -6148,7 +6148,7 @@ const products = [
     description: "Convert code execution results to files and create webhooks.",
     features: ["Code Execution", "File Conversion", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-converttofile-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-converttofile-create"
   },
   {
     id: 560,
@@ -6159,7 +6159,7 @@ const products = [
     description: "Schedule webhook updates for automated data workflows.",
     features: ["Webhook Update", "Scheduled Trigger", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-schedule-update"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-schedule-update"
   },
   {
     id: 561,
@@ -6170,7 +6170,7 @@ const products = [
     description: "Create webhooks with code execution and limit conditions for automation.",
     features: ["Code Execution", "Limit Control", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/limit-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/limit-code-create"
   },
   {
     id: 562,
@@ -6181,7 +6181,7 @@ const products = [
     description: "Automate webhooks with limit conditions for controlled workflows.",
     features: ["Webhook Automation", "Limit Control", "Data Processing"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/limit-webhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/limit-webhook-automate"
   },
   {
     id: 563,
@@ -6192,7 +6192,7 @@ const products = [
     description: "Schedule code automation with limit conditions for controlled execution.",
     features: ["Code Execution", "Scheduled Trigger", "Limit Control"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/limit-code-automate"
+    buyLink: "http://maken8n.gumroad.com/l/limit-code-automate"
   },
   {
     id: 564,
@@ -6203,7 +6203,7 @@ const products = [
     description: "Import split-out data to Telegram via webhook for automation.",
     features: ["Telegram Integration", "Data Splitting", "Webhook Import"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-splitout-import"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-import"
   },
   {
     id: 565,
@@ -6214,7 +6214,7 @@ const products = [
     description: "Create split-out Gmail records via webhook for automation.",
     features: ["Gmail Integration", "Data Splitting", "Webhook Creation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/gmailtool-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/gmailtool-splitout-create"
   },
   {
     id: 566,
@@ -6225,7 +6225,7 @@ const products = [
     description: "Create split-out Telegram records via webhook for automation.",
     features: ["Telegram Integration", "Data Splitting", "Webhook Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-create"
   },
   {
     id: 567,
@@ -6236,7 +6236,7 @@ const products = [
     description: "Send split-out data via HTTP webhook for automation.",
     features: ["Data Splitting", "HTTP Webhook", "Send Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-http-send"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-http-send"
   },
   {
     id: 568,
@@ -6247,7 +6247,7 @@ const products = [
     description: "Create aggregated data webhooks via HTTP for automation.",
     features: ["HTTP Integration", "Aggregate Data", "Webhook Creation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/aggregate-http-create"
+    buyLink: "http://maken8n.gumroad.com/l/aggregate-http-create"
   },
   {
     id: 569,
@@ -6258,7 +6258,7 @@ const products = [
     description: "Schedule data creation with datetime triggers for automation.",
     features: ["Datetime Trigger", "Scheduled Creation", "Data Automation"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/datetime-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/datetime-schedule-create"
   },
   {
     id: 570,
@@ -6269,7 +6269,7 @@ const products = [
     description: "Create Telegram webhooks for automated messaging workflows.",
     features: ["Telegram Integration", "Webhook Creation", "Message Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/webhook-telegram-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-telegram-create"
   },
   {
     id: 571,
@@ -6280,7 +6280,7 @@ const products = [
     description: "Send sticky note data in response to webhooks for automation.",
     features: ["Sticky Notes", "Webhook Response", "Send Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-respondtowebhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-respondtowebhook-send"
   },
   {
     id: 572,
@@ -6291,7 +6291,7 @@ const products = [
     description: "Send data via webhook with limit conditions for controlled automation.",
     features: ["Webhook Send", "Limit Control", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/limit-webhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/limit-webhook-send"
   },
   {
     id: 573,
@@ -6302,7 +6302,7 @@ const products = [
     description: "Update webhooks using code execution for automated workflows.",
     features: ["Code Execution", "Webhook Update", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-webhook-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-webhook-update"
   },
   {
     id: 574,
@@ -6313,7 +6313,7 @@ const products = [
     description: "Automate form data processing via HTTP webhook for workflows.",
     features: ["Form Integration", "HTTP Webhook", "Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/http-form-automate"
+    buyLink: "http://maken8n.gumroad.com/l/http-form-automate"
   },
   {
     id: 575,
@@ -6324,7 +6324,7 @@ const products = [
     description: "Process data via HTTP webhook for automated workflows.",
     features: ["HTTP Integration", "Webhook Processing", "Data Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/http-webhook-process"
+    buyLink: "http://maken8n.gumroad.com/l/http-webhook-process"
   },
   {
     id: 576,
@@ -6335,7 +6335,7 @@ const products = [
     description: "Trigger Gmail-based sticky note creation for automation.",
     features: ["Gmail Integration", "Sticky Notes", "Creator Trigger"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/stickynote-gmail-create"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-gmail-create"
   },
   {
     id: 577,
@@ -6346,7 +6346,7 @@ const products = [
     description: "Send Telegram messages via webhook for automated communication.",
     features: ["Telegram Integration", "Webhook Send", "Message Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-webhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-webhook-send"
   },
   {
     id: 578,
@@ -6357,7 +6357,7 @@ const products = [
     description: "Trigger aggregated Jotform data creation for automation.",
     features: ["Jotform Integration", "Aggregate Data", "Creator Trigger"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/aggregate-jotform-create"
+    buyLink: "http://maken8n.gumroad.com/l/aggregate-jotform-create"
   },
   {
     id: 579,
@@ -6368,7 +6368,7 @@ const products = [
     description: "Update webhooks with code execution for automated workflows.",
     features: ["Code Execution", "Webhook Update", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/webhook-code-update"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-code-update"
   },
   {
     id: 580,
@@ -6379,7 +6379,7 @@ const products = [
     description: "Manually automate file data extraction via webhook.",
     features: ["File Extraction", "Manual Trigger", "Webhook Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/extractfromfile-manual-automate"
+    buyLink: "http://maken8n.gumroad.com/l/extractfromfile-manual-automate"
   },
   {
     id: 581,
@@ -6390,7 +6390,7 @@ const products = [
     description: "Create aggregated sticky note data via webhook for automation.",
     features: ["Sticky Notes", "Aggregate Data", "Webhook Creation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/aggregate-stickynote-create"
+    buyLink: "http://maken8n.gumroad.com/l/aggregate-stickynote-create"
   },
   {
     id: 582,
@@ -6401,7 +6401,7 @@ const products = [
     description: "Trigger aggregated Typeform data creation for automation.",
     features: ["Typeform Integration", "Aggregate Data", "Creator Trigger"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/aggregate-typeform-create"
+    buyLink: "http://maken8n.gumroad.com/l/aggregate-typeform-create"
   },
   {
     id: 583,
@@ -6412,7 +6412,7 @@ const products = [
     description: "Trigger split-out code automation for efficient workflows.",
     features: ["Code Execution", "Data Splitting", "Automation Trigger"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-automate"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-automate"
   },
   {
     id: 584,
@@ -6423,7 +6423,7 @@ const products = [
     description: "Send code execution results in response to webhooks for automation.",
     features: ["Code Execution", "Webhook Response", "Send Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-respondtowebhook-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-respondtowebhook-send"
   },
   {
     id: 585,
@@ -6434,7 +6434,7 @@ const products = [
     description: "Trigger Strava activity sending with code execution.",
     features: ["Strava Integration", "Code Execution", "Send Trigger"],
     icon: "🏃",
-    buyLink: "https://example.com/workflows/code-strava-send"
+    buyLink: "http://maken8n.gumroad.com/l/code-strava-send"
   },
   {
     id: 586,
@@ -6445,7 +6445,7 @@ const products = [
     description: "Create Google Calendar webhooks for automated event workflows.",
     features: ["Google Calendar", "Webhook Creation", "Event Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/webhook-googlecalendar-create"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-googlecalendar-create"
   },
   {
     id: 587,
@@ -6456,7 +6456,7 @@ const products = [
     description: "Manually trigger Sentry.io issue creation for error tracking.",
     features: ["Sentry.io Integration", "Manual Trigger", "Issue Creation"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/manual-sentryio-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-sentryio-create"
   },
   {
     id: 588,
@@ -6467,7 +6467,7 @@ const products = [
     description: "Update filtered data via webhook using code execution.",
     features: ["Code Execution", "Filter Update", "Webhook Integration"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-filter-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-update"
   },
   {
     id: 589,
@@ -6478,7 +6478,7 @@ const products = [
     description: "Create HTTP webhooks using code execution for automation.",
     features: ["Code Execution", "HTTP Integration", "Webhook Creation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-http-create"
+    buyLink: "http://maken8n.gumroad.com/l/code-http-create"
   },
   {
     id: 590,
@@ -6489,7 +6489,7 @@ const products = [
     description: "Trigger split-out Zendesk updates for automated support workflows.",
     features: ["Zendesk Integration", "Data Splitting", "Update Trigger"],
     icon: "🎧",
-    buyLink: "https://example.com/workflows/splitout-zendesk-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-zendesk-update"
   },
   {
     id: 591,
@@ -6500,7 +6500,7 @@ const products = [
     description: "Schedule data creation with wait conditions for automation.",
     features: ["Wait Mechanism", "Scheduled Trigger", "Creator Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-schedule-create"
+    buyLink: "http://maken8n.gumroad.com/l/wait-schedule-create"
   },
   {
     id: 592,
@@ -6511,7 +6511,7 @@ const products = [
     description: "Process data via webhook with wait conditions for automation.",
     features: ["Webhook Processing", "Wait Mechanism", "Data Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-webhook-process"
+    buyLink: "http://maken8n.gumroad.com/l/wait-webhook-process"
   },
   {
     id: 593,
@@ -6522,7 +6522,7 @@ const products = [
     description: "Create split-out webhooks with error handling for automation.",
     features: ["Data Splitting", "Error Handling", "Webhook Creation"],
     icon: "🚫",
-    buyLink: "https://example.com/workflows/stopanderror-splitout-create"
+    buyLink: "http://maken8n.gumroad.com/l/stopanderror-splitout-create"
   },
   {
     id: 594,
@@ -6533,7 +6533,7 @@ const products = [
     description: "Trigger Wordpress file conversion processes for automation.",
     features: ["Wordpress Integration", "File Conversion", "Process Trigger"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/wordpress-converttofile-process"
+    buyLink: "http://maken8n.gumroad.com/l/wordpress-converttofile-process"
   },
   {
     id: 595,
@@ -6544,7 +6544,7 @@ const products = [
     description: "Automate responses to incoming webhooks for dynamic workflows.",
     features: ["Webhook Response", "Webhook Automation", "Data Processing"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-respondtowebhook-automate"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-respondtowebhook-automate"
   },
   {
     id: 596,
@@ -6555,7 +6555,7 @@ const products = [
     description: "Trigger Convertkit subscriber creation for marketing automation.",
     features: ["Convertkit Integration", "Creator Trigger", "Subscriber Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/convertkit-create"
+    buyLink: "http://maken8n.gumroad.com/l/convertkit-create"
   },
   {
     id: 597,
@@ -6566,7 +6566,7 @@ const products = [
     description: "Trigger split-out code updates for automated workflows.",
     features: ["Code Execution", "Data Splitting", "Update Trigger"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-update"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-update"
   },
   {
     id: 598,
@@ -6577,7 +6577,7 @@ const products = [
     description: "Schedule code execution updates for automated workflows.",
     features: ["Code Execution", "Scheduled Trigger", "Update Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-schedule-update"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-update"
   },
   {
     id: 599,
@@ -6588,7 +6588,7 @@ const products = [
     description: "Create sticky note webhooks for automated data workflows.",
     features: ["Sticky Notes", "Webhook Creation", "Data Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-create"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-create"
   },
   {
     id: 600,
@@ -6599,7 +6599,7 @@ const products = [
     description: "Manually trigger Google Sheets data updates for automation.",
     features: ["Google Sheets", "Manual Trigger", "Update Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/manual-googlesheets-update"
+    buyLink: "http://maken8n.gumroad.com/l/manual-googlesheets-update"
   },
   {
     id: 601,
@@ -6610,7 +6610,7 @@ const products = [
     description: "Schedule sticky note data sending for automated workflows.",
     features: ["Sticky Notes", "Scheduled Trigger", "Send Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/schedule-stickynote-send"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-stickynote-send"
   },
   {
     id: 602,
@@ -6621,7 +6621,7 @@ const products = [
     description: "Trigger split-out data sending with no operation handling.",
     features: ["Data Splitting", "Noop Trigger", "Send Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/splitout-noop-send"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-noop-send"
   },
   {
     id: 603,
@@ -6632,7 +6632,7 @@ const products = [
     description: "Trigger YouTube content updates from form submissions.",
     features: ["YouTube Integration", "Form Integration", "Update Trigger"],
     icon: "📹",
-    buyLink: "https://example.com/workflows/form-youtube-update"
+    buyLink: "http://maken8n.gumroad.com/l/form-youtube-update"
   },
   {
     id: 604,
@@ -6643,7 +6643,7 @@ const products = [
     description: "Trigger code-based record creation from form submissions.",
     features: ["Code Execution", "Form Integration", "Creator Trigger"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/form-code-create"
+    buyLink: "http://maken8n.gumroad.com/l/form-code-create"
   },
   {
     id: 605,
@@ -6654,7 +6654,7 @@ const products = [
     description: "Automate Telegram workflows with Google Calendar via webhook.",
     features: ["Telegram Integration", "Google Calendar", "Webhook Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-googlecalendar-automate"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-googlecalendar-automate"
   },
   {
     id: 606,
@@ -6665,7 +6665,7 @@ const products = [
     description: "Trigger Slack messages from Google Sheets data for automation.",
     features: ["Google Sheets", "Slack Integration", "Send Trigger"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/googlesheets-slack-send"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-slack-send"
   },
   {
     id: 607,
@@ -6676,7 +6676,7 @@ const products = [
     description: "Manually trigger command execution for automated workflows.",
     features: ["Command Execution", "Manual Trigger", "Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/manual-executecommand-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-executecommand-automate"
   },
   {
     id: 608,
@@ -6687,7 +6687,7 @@ const products = [
     description: "Trigger Customer.io updates for automated customer engagement.",
     features: ["Customer.io Integration", "Update Trigger", "Customer Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/customerio-update"
+    buyLink: "http://maken8n.gumroad.com/l/customerio-update"
   },
   {
     id: 609,
@@ -6698,7 +6698,7 @@ const products = [
     description: "Automate form data via HTTP webhook for seamless workflows.",
     features: ["Form Integration", "HTTP Webhook", "Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/http-form-automate"
+    buyLink: "http://maken8n.gumroad.com/l/http-form-automate"
   },
   {
     id: 610,
@@ -6709,7 +6709,7 @@ const products = [
     description: "Automate split-out code execution via webhook for workflows.",
     features: ["Code Execution", "Data Splitting", "Webhook Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/splitout-code-automate"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-automate"
   },
   {
     id: 611,
@@ -6720,7 +6720,7 @@ const products = [
     description: "Trigger sticky note automation from extracted file data.",
     features: ["File Extraction", "Sticky Notes", "Automation Trigger"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/extractfromfile-stickynote-automate"
+    buyLink: "http://maken8n.gumroad.com/l/extractfromfile-stickynote-automate"
   },
   {
     id: 612,
@@ -6731,7 +6731,7 @@ const products = [
     description: "Trigger automation with wait conditions and error handling.",
     features: ["Wait Mechanism", "Error Handling", "Automation Trigger"],
     icon: "🚫",
-    buyLink: "https://example.com/workflows/stopanderror-wait-automate"
+    buyLink: "http://maken8n.gumroad.com/l/stopanderror-wait-automate"
   },
   {
     id: 613,
@@ -6742,7 +6742,7 @@ const products = [
     description: "Manually trigger Google Tasks creation for task automation.",
     features: ["Google Tasks", "Manual Trigger", "Task Creation"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/manual-googletasks-create"
+    buyLink: "http://maken8n.gumroad.com/l/manual-googletasks-create"
   },
   {
     id: 614,
@@ -6753,7 +6753,7 @@ const products = [
     description: "Automate Telegram workflows via HTTP webhook for messaging.",
     features: ["Telegram Integration", "HTTP Webhook", "Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/http-telegram-automate"
+    buyLink: "http://maken8n.gumroad.com/l/http-telegram-automate"
   },
   {
     id: 615,
@@ -6764,7 +6764,7 @@ const products = [
     description: "Manually trigger Discord automation for community workflows.",
     features: ["Discord Integration", "Manual Trigger", "Automation"],
     icon: "🎮",
-    buyLink: "https://example.com/workflows/manual-discord-automate"
+    buyLink: "http://maken8n.gumroad.com/l/manual-discord-automate"
   },
   {
     id: 616,
@@ -6775,7 +6775,7 @@ const products = [
     description: "Automate writing binary file data into spreadsheets for efficient data processing.",
     features: ["Binary File Handling", "Spreadsheet Integration", "Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/writebinaryfile-spreadsheet-automate"
+    buyLink: "http://maken8n.gumroad.com/l/writebinaryfile-spreadsheet-automate"
   },
   {
     id: 617,
@@ -6786,7 +6786,7 @@ const products = [
     description: "Schedule no-operation tasks for Telegram-based automation workflows.",
     features: ["Telegram Integration", "Scheduled Tasks", "Noop Workflow"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/noop-telegram-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/noop-telegram-scheduled"
   },
   {
     id: 618,
@@ -6797,7 +6797,7 @@ const products = [
     description: "Read binary files, move data, and send it via scheduled automation.",
     features: ["Binary File Reading", "Data Transfer", "Scheduled Automation"],
     icon: "💾",
-    buyLink: "https://example.com/workflows/readbinaryfile-move-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/readbinaryfile-move-send-scheduled"
   },
   {
     id: 619,
@@ -6808,7 +6808,7 @@ const products = [
     description: "Sync Clockify data with external systems using webhook automation.",
     features: ["Clockify Integration", "Webhook Sync", "Automation"],
     icon: "⏱️",
-    buyLink: "https://example.com/workflows/clockify-webhook-sync"
+    buyLink: "http://maken8n.gumroad.com/l/clockify-webhook-sync"
   },
   {
     id: 620,
@@ -6819,7 +6819,7 @@ const products = [
     description: "Trigger Telegram notifications with real-time OpenWeatherMap data.",
     features: ["Weather Data", "Telegram Notifications", "Triggered Automation"],
     icon: "🌤️",
-    buyLink: "https://example.com/workflows/openweathermap-telegram-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/openweathermap-telegram-triggered"
   },
   {
     id: 621,
@@ -6830,7 +6830,7 @@ const products = [
     description: "Automate RSS feed reading and processing via HTTP requests on a schedule.",
     features: ["RSS Feed Integration", "HTTP Requests", "Scheduled Automation"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/http-rssfeedread-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/http-rssfeedread-scheduled"
   },
   {
     id: 622,
@@ -6841,7 +6841,7 @@ const products = [
     description: "Execute custom code and send data via webhook automation.",
     features: ["Code Execution", "Webhook Integration", "Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/code-executiondata-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-executiondata-webhook"
   },
   {
     id: 623,
@@ -6852,7 +6852,7 @@ const products = [
     description: "Trigger no-operation tasks for Google Slides automation workflows.",
     features: ["Google Slides Integration", "Noop Workflow", "Triggered Automation"],
     icon: "📽️",
-    buyLink: "https://example.com/workflows/googleslides-noop-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googleslides-noop-triggered"
   },
   {
     id: 624,
@@ -6863,7 +6863,7 @@ const products = [
     description: "Send sticky note data to external systems via webhook.",
     features: ["Sticky Note Integration", "Webhook Sending", "Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/stickynote-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-send-webhook"
   },
   {
     id: 625,
@@ -6874,7 +6874,7 @@ const products = [
     description: "Trigger automation to create records in Airtable.",
     features: ["Airtable Integration", "Record Creation", "Triggered Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/airtable-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/airtable-create-triggered"
   },
   {
     id: 626,
@@ -6885,7 +6885,7 @@ const products = [
     description: "Manually trigger WordPress content creation via webhook.",
     features: ["WordPress Integration", "Manual Trigger", "Webhook"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/manual-wordpress-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-wordpress-create-webhook"
   },
   {
     id: 627,
@@ -6896,7 +6896,7 @@ const products = [
     description: "Monitor and trigger manual tasks on a scheduled basis.",
     features: ["Monitoring", "Manual Trigger", "Scheduled Automation"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/schedule-manual-monitor-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-manual-monitor-scheduled"
   },
   {
     id: 628,
@@ -6907,7 +6907,7 @@ const products = [
     description: "Compare datasets and trigger actions based on differences.",
     features: ["Dataset Comparison", "Triggered Automation", "Data Processing"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/splitout-comparedatasets-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-comparedatasets-triggered"
   },
   {
     id: 629,
@@ -6918,7 +6918,7 @@ const products = [
     description: "Execute code and send results via webhook for split-out workflows.",
     features: ["Code Execution", "Webhook Sending", "Splitout Workflow"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/splitout-code-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-send-webhook"
   },
   {
     id: 630,
@@ -6929,7 +6929,7 @@ const products = [
     description: "Compare datasets and trigger Slack notifications for updates.",
     features: ["Slack Integration", "Dataset Comparison", "Triggered Automation"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-comparedatasets-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/slack-comparedatasets-triggered"
   },
   {
     id: 631,
@@ -6940,7 +6940,7 @@ const products = [
     description: "Aggregate data and create sticky notes via triggered automation.",
     features: ["Data Aggregation", "Sticky Note Creation", "Triggered Automation"],
     icon: "📌",
-    buyLink: "https://example.com/workflows/aggregate-stickynote-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/aggregate-stickynote-triggered"
   },
   {
     id: 632,
@@ -6951,7 +6951,7 @@ const products = [
     description: "Introduce delays in split-out workflows and trigger creation tasks.",
     features: ["Wait Mechanism", "Splitout Workflow", "Triggered Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-create-triggered"
   },
   {
     id: 633,
@@ -6962,7 +6962,7 @@ const products = [
     description: "Update limits with a wait mechanism via webhook automation.",
     features: ["Wait Mechanism", "Limit Updates", "Webhook Integration"],
     icon: "⚖️",
-    buyLink: "https://example.com/workflows/wait-limit-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-limit-update-webhook"
   },
   {
     id: 634,
@@ -6973,7 +6973,7 @@ const products = [
     description: "Filter data with custom code and send via webhook.",
     features: ["Code Filtering", "Webhook Sending", "Automation"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/code-filter-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-send-webhook"
   },
   {
     id: 635,
@@ -6984,7 +6984,7 @@ const products = [
     description: "Create sticky notes from Telegram triggers automatically.",
     features: ["Telegram Integration", "Sticky Note Creation", "Triggered Automation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-stickynote-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-triggered"
   },
   {
     id: 636,
@@ -6995,7 +6995,7 @@ const products = [
     description: "Manually trigger sticky note creation via webhook.",
     features: ["Sticky Note Creation", "Manual Trigger", "Webhook"],
     icon: "✍️",
-    buyLink: "https://example.com/workflows/manual-stickynote-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-create-webhook"
   },
   {
     id: 637,
@@ -7006,7 +7006,7 @@ const products = [
     description: "Filter and process data in split-out workflows via webhook.",
     features: ["Data Filtering", "Splitout Workflow", "Webhook Integration"],
     icon: "🗂️",
-    buyLink: "https://example.com/workflows/splitout-filter-process-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-process-webhook"
   },
   {
     id: 638,
@@ -7017,7 +7017,7 @@ const products = [
     description: "Manually trigger updates with custom code execution.",
     features: ["Code Execution", "Manual Trigger", "Update Automation"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/code-manual-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/code-manual-update-triggered"
   },
   {
     id: 639,
@@ -7028,7 +7028,7 @@ const products = [
     description: "Automate split-out workflows with code execution and webhook.",
     features: ["Code Execution", "Splitout Workflow", "Webhook Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/splitout-code-automate-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-automate-webhook"
   },
   {
     id: 640,
@@ -7039,7 +7039,7 @@ const products = [
     description: "Execute commands via HTTP requests and automate with webhooks.",
     features: ["HTTP Requests", "Command Execution", "Webhook Automation"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-executecommand-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-executecommand-webhook"
   },
   {
     id: 641,
@@ -7050,7 +7050,7 @@ const products = [
     description: "Manually trigger Mailerlite campaign creation.",
     features: ["Mailerlite Integration", "Manual Trigger", "Campaign Creation"],
     icon: "166",
-    buyLink: "https://example.com/workflows/manual-mailerlite-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-mailerlite-create-triggered"
   },
   {
     id: 642,
@@ -7061,7 +7061,7 @@ const products = [
     description: "Automate data filtering with custom code and webhook integration.",
     features: ["Code Filtering", "Webhook Integration", "Automation"],
     icon: "🛡️",
-    buyLink: "https://example.com/workflows/code-filter-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-automation-webhook"
   },
   {
     id: 643,
@@ -7072,7 +7072,7 @@ const products = [
     description: "Import sticky note data via HTTP webhook automation.",
     features: ["Sticky Note Import", "HTTP Integration", "Webhook"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/http-stickynote-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-stickynote-import-webhook"
   },
   {
     id: 644,
@@ -7083,7 +7083,7 @@ const products = [
     description: "Create Redis entries from Telegram triggers via webhook.",
     features: ["Telegram Integration", "Redis Integration", "Webhook"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/telegram-redis-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-redis-create-webhook"
   },
   {
     id: 645,
@@ -7094,7 +7094,7 @@ const products = [
     description: "Schedule and create Google Calendar events automatically.",
     features: ["Google Calendar Integration", "Scheduled Tasks", "Event Creation"],
     icon: "🗓️",
-    buyLink: "https://example.com/workflows/googlecalendar-schedule-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/googlecalendar-schedule-create-scheduled"
   },
   {
     id: 646,
@@ -7105,7 +7105,7 @@ const products = [
     description: "Automate form data processing with code and webhook integration.",
     features: ["Form Processing", "Code Execution", "Webhook Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/code-form-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-form-automation-webhook"
   },
   {
     id: 647,
@@ -7116,7 +7116,7 @@ const products = [
     description: "Create Twitter posts using OpenAI-generated content.",
     features: ["OpenAI Integration", "Twitter Integration", "Content Creation"],
     icon: "🐦",
-    buyLink: "https://example.com/workflows/openai-twitter-create"
+    buyLink: "http://maken8n.gumroad.com/l/openai-twitter-create"
   },
   {
     id: 648,
@@ -7127,7 +7127,7 @@ const products = [
     description: "Create sticky notes for stop-and-error workflows via webhook.",
     features: ["Error Handling", "Sticky Note Creation", "Webhook"],
     icon: "🚫",
-    buyLink: "https://example.com/workflows/stopanderror-stickynote-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/stopanderror-stickynote-webhook"
   },
   {
     id: 649,
@@ -7138,7 +7138,7 @@ const products = [
     description: "Trigger no-operation tasks for Google Translate via webhook.",
     features: ["Google Translate Integration", "Noop Workflow", "Webhook"],
     icon: "🌍",
-    buyLink: "https://example.com/workflows/googletranslate-noop-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googletranslate-noop-webhook"
   },
   {
     id: 650,
@@ -7149,7 +7149,7 @@ const products = [
     description: "Schedule and create split-out tasks via webhook automation.",
     features: ["Splitout Workflow", "Scheduled Tasks", "Webhook"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/splitout-schedule-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-create-webhook"
   },
   {
     id: 651,
@@ -7160,7 +7160,7 @@ const products = [
     description: "Monitor and execute code in split-out workflows on a schedule.",
     features: ["Code Execution", "Splitout Workflow", "Scheduled Monitoring"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/splitout-code-monitor-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-monitor-scheduled"
   },
   {
     id: 652,
@@ -7171,7 +7171,7 @@ const products = [
     description: "Schedule automated creation of Mailchimp campaigns.",
     features: ["Mailchimp Integration", "Scheduled Tasks", "Campaign Creation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/schedule-mailchimp-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-mailchimp-create-scheduled"
   },
   {
     id: 653,
@@ -7182,7 +7182,7 @@ const products = [
     description: "Monitor code execution in split-out workflows via webhook.",
     features: ["Code Execution", "Splitout Workflow", "Webhook Monitoring"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/splitout-code-monitor-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-monitor-webhook"
   },
   {
     id: 654,
@@ -7193,7 +7193,7 @@ const products = [
     description: "Execute commands in split-out workflows on a schedule.",
     features: ["Command Execution", "Splitout Workflow", "Scheduled Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/splitout-executecommand-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-executecommand-scheduled"
   },
   {
     id: 655,
@@ -7204,7 +7204,7 @@ const products = [
     description: "Filter and import data on a schedule via webhook.",
     features: ["Data Filtering", "Scheduled Import", "Webhook Integration"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/filter-schedule-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/filter-schedule-import-webhook"
   },
   {
     id: 656,
@@ -7215,7 +7215,7 @@ const products = [
     description: "Create records in Nocodb via webhook automation.",
     features: ["Nocodb Integration", "Record Creation", "Webhook"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/webhook-nocodb-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-nocodb-create-webhook"
   },
   {
     id: 657,
@@ -7226,7 +7226,7 @@ const products = [
     description: "Manually trigger Customer.io campaign creation.",
     features: ["Customer.io Integration", "Manual Trigger", "Campaign Creation"],
     icon: "📢",
-    buyLink: "https://example.com/workflows/manual-customerio-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-customerio-create-triggered"
   },
   {
     id: 658,
@@ -7237,7 +7237,7 @@ const products = [
     description: "Create HTML forms via triggered automation.",
     features: ["HTML Form Creation", "Triggered Automation", "Form Processing"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/form-html-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/form-html-create-triggered"
   },
   {
     id: 659,
@@ -7248,7 +7248,7 @@ const products = [
     description: "Automate sticky note creation from Google BigQuery data.",
     features: ["BigQuery Integration", "Sticky Note Creation", "Triggered Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/googlebigquery-stickynote-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googlebigquery-stickynote-triggered"
   },
   {
     id: 660,
@@ -7259,7 +7259,7 @@ const products = [
     description: "Send Telegram messages with a wait mechanism on trigger.",
     features: ["Telegram Integration", "Wait Mechanism", "Triggered Sending"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-wait-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-wait-send-triggered"
   },
   {
     id: 661,
@@ -7270,7 +7270,7 @@ const products = [
     description: "Process form data with code and send via webhook.",
     features: ["Form Processing", "Code Execution", "Webhook Sending"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/code-form-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-form-send-webhook"
   },
   {
     id: 662,
@@ -7281,7 +7281,7 @@ const products = [
     description: "Schedule no-operation Slack message sending.",
     features: ["Slack Integration", "Noop Workflow", "Scheduled Sending"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/noop-slack-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/noop-slack-send-scheduled"
   },
   {
     id: 663,
@@ -7292,7 +7292,7 @@ const products = [
     description: "Schedule split-out tasks with webhook automation.",
     features: ["Splitout Workflow", "Scheduled Tasks", "Webhook Automation"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/splitout-schedule-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-automation-webhook"
   },
   {
     id: 664,
@@ -7303,7 +7303,7 @@ const products = [
     description: "Automate data transfer between Google Sheets and Google Drive.",
     features: ["Google Sheets Integration", "Google Drive Integration", "Triggered Automation"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/googlesheets-googledrive-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-googledrive-triggered"
   },
   {
     id: 665,
@@ -7314,7 +7314,7 @@ const products = [
     description: "Process and respond to incoming webhooks automatically.",
     features: ["Webhook Processing", "Response Handling", "Webhook Integration"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/webhook-respondtowebhook-process-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-respondtowebhook-process-webhook"
   },
   {
     id: 666,
@@ -7325,7 +7325,7 @@ const products = [
     description: "Send Gmail emails from Google Sheets data on trigger.",
     features: ["Google Sheets Integration", "Gmail Integration", "Triggered Sending"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/googlesheets-gmail-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-gmail-send-triggered"
   },
   {
     id: 667,
@@ -7336,7 +7336,7 @@ const products = [
     description: "Update data with custom code via Telegram triggers.",
     features: ["Telegram Integration", "Code Execution", "Triggered Update"],
     icon: "🔧",
-    buyLink: "https://example.com/workflows/telegram-code-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-code-update-triggered"
   },
   {
     id: 668,
@@ -7347,7 +7347,7 @@ const products = [
     description: "Schedule code execution in split-out workflows.",
     features: ["Code Execution", "Splitout Workflow", "Scheduled Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/splitout-code-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-automation-scheduled"
   },
   {
     id: 669,
@@ -7358,7 +7358,7 @@ const products = [
     description: "Remove duplicates and create records on a schedule via webhook.",
     features: ["Duplicate Removal", "Scheduled Tasks", "Webhook Creation"],
     icon: "🗑️",
-    buyLink: "https://example.com/workflows/schedule-removeduplicates-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-removeduplicates-create-webhook"
   },
   {
     id: 670,
@@ -7369,7 +7369,7 @@ const products = [
     description: "Import webhook data into Google Sheets automatically.",
     features: ["Google Sheets Integration", "Webhook Import", "Automation"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/googlesheets-respondtowebhook-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-respondtowebhook-import-webhook"
   },
   {
     id: 671,
@@ -7380,7 +7380,7 @@ const products = [
     description: "Execute code with a wait mechanism and send via webhook.",
     features: ["Code Execution", "Wait Mechanism", "Webhook Sending"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-send-webhook"
   },
   {
     id: 672,
@@ -7391,7 +7391,7 @@ const products = [
     description: "Manually trigger no-operation tasks for automation workflows.",
     features: ["Manual Trigger", "Noop Workflow", "Triggered Automation"],
     icon: "🛑",
-    buyLink: "https://example.com/workflows/manual-noop-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-noop-create-triggered"
   },
   {
     id: 673,
@@ -7402,7 +7402,7 @@ const products = [
     description: "Schedule Postgres database tasks using cron automation.",
     features: ["Postgres Integration", "Cron Scheduling", "Automation"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/cron-postgres-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/cron-postgres-automation-scheduled"
   },
   {
     id: 674,
@@ -7413,7 +7413,7 @@ const products = [
     description: "Trigger updates to Zendesk tickets automatically.",
     features: ["Zendesk Integration", "Triggered Update", "Automation"],
     icon: "🎫",
-    buyLink: "https://example.com/workflows/zendesk-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/zendesk-update-triggered"
   },
   {
     id: 675,
@@ -7424,7 +7424,7 @@ const products = [
     description: "Monitor RSS feeds and send Telegram notifications on a schedule.",
     features: ["RSS Feed Monitoring", "Telegram Integration", "Scheduled Automation"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/telegram-rssfeedread-monitor-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-rssfeedread-monitor-scheduled"
   },
   {
     id: 676,
@@ -7435,7 +7435,7 @@ const products = [
     description: "Manually send data via HTTP webhook.",
     features: ["HTTP Integration", "Manual Trigger", "Webhook Sending"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-manual-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-manual-send-webhook"
   },
   {
     id: 677,
@@ -7446,7 +7446,7 @@ const products = [
     description: "Introduce delays in split-out workflows with webhook automation.",
     features: ["Wait Mechanism", "Splitout Workflow", "Webhook Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-splitout-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-splitout-automation-webhook"
   },
   {
     id: 678,
@@ -7457,7 +7457,7 @@ const products = [
     description: "Manually trigger sending of function items.",
     features: ["Manual Trigger", "Function Item", "Triggered Sending"],
     icon: "⚡",
-    buyLink: "https://example.com/workflows/manual-functionitem-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-functionitem-send-triggered"
   },
   {
     id: 679,
@@ -7468,7 +7468,7 @@ const products = [
     description: "Extract data from files and send via Gmail on trigger.",
     features: ["File Extraction", "Gmail Integration", "Triggered Sending"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/extractfromfile-gmail-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/extractfromfile-gmail-send-triggered"
   },
   {
     id: 680,
@@ -7479,7 +7479,7 @@ const products = [
     description: "Filter and summarize data, then send on a schedule.",
     features: ["Data Filtering", "Summarization", "Scheduled Sending"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/filter-summarize-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/filter-summarize-send-scheduled"
   },
   {
     id: 681,
@@ -7490,7 +7490,7 @@ const products = [
     description: "Monitor code execution with a wait mechanism via webhook.",
     features: ["Code Execution", "Wait Mechanism", "Webhook Monitoring"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/wait-code-monitor-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-monitor-webhook"
   },
   {
     id: 682,
@@ -7501,7 +7501,7 @@ const products = [
     description: "Schedule automated tasks for Microsoft Outlook.",
     features: ["Outlook Integration", "Scheduled Tasks", "Automation"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/microsoftoutlook-schedule-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/microsoftoutlook-schedule-scheduled"
   },
   {
     id: 683,
@@ -7512,7 +7512,7 @@ const products = [
     description: "Schedule code execution with a wait mechanism for creation tasks.",
     features: ["Code Execution", "Wait Mechanism", "Scheduled Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-create-scheduled"
   },
   {
     id: 684,
@@ -7523,7 +7523,7 @@ const products = [
     description: "Create Gmail emails from Google Sheets data on trigger.",
     features: ["Google Sheets Integration", "Gmail Integration", "Triggered Creation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/googlesheets-gmail-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googlesheets-gmail-create-triggered"
   },
   {
     id: 685,
@@ -7534,7 +7534,7 @@ const products = [
     description: "Create Google Sheets from Google Drive files on trigger.",
     features: ["Google Drive Integration", "Google Sheets Integration", "Triggered Creation"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/googledrive-googlesheets-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googledrive-googlesheets-create-triggered"
   },
   {
     id: 686,
@@ -7545,7 +7545,7 @@ const products = [
     description: "Send sticky note data via Twilio on trigger.",
     features: ["Twilio Integration", "Sticky Note Sending", "Triggered Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/twilio-stickynote-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/twilio-stickynote-send-triggered"
   },
   {
     id: 687,
@@ -7556,7 +7556,7 @@ const products = [
     description: "Schedule Twilio message sending using cron automation.",
     features: ["Twilio Integration", "Cron Scheduling", "Message Sending"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/twilio-cron-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/twilio-cron-send-scheduled"
   },
   {
     id: 688,
@@ -7567,7 +7567,7 @@ const products = [
     description: "Trigger updates to Gumroad products or orders.",
     features: ["Gumroad Integration", "Triggered Update", "Automation"],
     icon: "🛒",
-    buyLink: "https://example.com/workflows/gumroad-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/gumroad-update-triggered"
   },
   {
     id: 689,
@@ -7578,7 +7578,7 @@ const products = [
     description: "Create Ghost content using custom code on trigger.",
     features: ["Ghost Integration", "Code Execution", "Triggered Creation"],
     icon: "✍️",
-    buyLink: "https://example.com/workflows/code-ghost-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/code-ghost-create-triggered"
   },
   {
     id: 690,
@@ -7589,7 +7589,7 @@ const products = [
     description: "Filter and export data via webhook automation.",
     features: ["Data Filtering", "Webhook Export", "Automation"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/webhook-filter-export-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-filter-export-webhook"
   },
   {
     id: 691,
@@ -7600,7 +7600,7 @@ const products = [
     description: "Create LinkedIn posts from split-out workflows on trigger.",
     features: ["LinkedIn Integration", "Splitout Workflow", "Triggered Creation"],
     icon: "💼",
-    buyLink: "https://example.com/workflows/linkedin-splitout-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/linkedin-splitout-create-triggered"
   },
   {
     id: 692,
@@ -7611,7 +7611,7 @@ const products = [
     description: "Filter and update data with custom code on trigger.",
     features: ["Code Filtering", "Triggered Update", "Automation"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/code-filter-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/code-filter-update-triggered"
   },
   {
     id: 693,
@@ -7622,7 +7622,7 @@ const products = [
     description: "Extract and filter data from files to create records on trigger.",
     features: ["File Extraction", "Data Filtering", "Triggered Creation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/filter-extractfromfile-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/filter-extractfromfile-create-triggered"
   },
   {
     id: 694,
@@ -7633,7 +7633,7 @@ const products = [
     description: "Automate Mattermost notifications with PagerDuty via webhook.",
     features: ["Mattermost Integration", "PagerDuty Integration", "Webhook Automation"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/mattermost-pagerduty-automate-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-pagerduty-automate-webhook"
   },
   {
     id: 695,
@@ -7644,7 +7644,7 @@ const products = [
     description: "Monitor and extract data from files using code on trigger.",
     features: ["File Extraction", "Code Execution", "Triggered Monitoring"],
     icon: "📡",
-    buyLink: "https://example.com/workflows/code-extractfromfile-monitor-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/code-extractfromfile-monitor-triggered"
   },
   {
     id: 696,
@@ -7655,7 +7655,7 @@ const products = [
     description: "Create Google Sheets records from Gmail data on trigger.",
     features: ["Gmail Integration", "Google Sheets Integration", "Triggered Creation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/gmail-googlesheets-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/gmail-googlesheets-create-triggered"
   },
   {
     id: 697,
@@ -7666,7 +7666,7 @@ const products = [
     description: "Manually trigger command execution for automation workflows.",
     features: ["Command Execution", "Manual Trigger", "Automation"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/manual-executecommand-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-executecommand-automate-triggered"
   },
   {
     id: 698,
@@ -7677,7 +7677,7 @@ const products = [
     description: "Filter and create records in split-out workflows on a schedule.",
     features: ["Data Filtering", "Splitout Workflow", "Scheduled Creation"],
     icon: "🗂️",
-    buyLink: "https://example.com/workflows/splitout-filter-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-filter-create-scheduled"
   },
   {
     id: 699,
@@ -7688,7 +7688,7 @@ const products = [
     description: "Automate Mattermost notifications via webhook.",
     features: ["Mattermost Integration", "Webhook Automation", "Notification Sending"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/mattermost-webhook-automate-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-webhook-automate-webhook"
   },
   {
     id: 700,
@@ -7699,7 +7699,7 @@ const products = [
     description: "Schedule updates with a wait mechanism.",
     features: ["Wait Mechanism", "Scheduled Update", "Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-schedule-update-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/wait-schedule-update-scheduled"
   },
   {
     id: 701,
@@ -7710,7 +7710,7 @@ const products = [
     description: "Limit and send data in split-out workflows via webhook.",
     features: ["Data Limiting", "Splitout Workflow", "Webhook Sending"],
     icon: "⚖️",
-    buyLink: "https://example.com/workflows/splitout-limit-send-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-limit-send-webhook"
   },
   {
     id: 702,
@@ -7721,7 +7721,7 @@ const products = [
     description: "Create records with code execution and wait mechanism via webhook.",
     features: ["Code Execution", "Wait Mechanism", "Webhook Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-code-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-code-create-webhook"
   },
   {
     id: 703,
@@ -7732,7 +7732,7 @@ const products = [
     description: "Schedule data import with code execution via webhook.",
     features: ["Code Execution", "Scheduled Import", "Webhook Integration"],
     icon: "📥",
-    buyLink: "https://example.com/workflows/code-schedule-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-schedule-import-webhook"
   },
   {
     id: 704,
@@ -7743,7 +7743,7 @@ const products = [
     description: "Create records in split-out workflows from Telegram triggers.",
     features: ["Telegram Integration", "Splitout Workflow", "Triggered Creation"],
     icon: "📲",
-    buyLink: "https://example.com/workflows/telegram-splitout-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-create-triggered"
   },
   {
     id: 705,
@@ -7754,7 +7754,7 @@ const products = [
     description: "Automate Twilio notifications from Mattermost triggers.",
     features: ["Mattermast Integration", "Twilio Integration", "Triggered Automation"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/mattermost-twilio-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-twilio-automate-triggered"
   },
   {
     id: 706,
@@ -7765,7 +7765,7 @@ const products = [
     description: "Filter and create records with a wait mechanism via-webhook.",
     features: ["Data Filtering", "Wait Mechanism", "Webhook Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-filter-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-filter-create-webhook"
   },
   {
     id: 707,
@@ -7776,7 +7776,7 @@ const products = [
     description: "Send data with a wait mechanism based on datetime schedules.",
     features: ["Wait Mechanism", "Datetime Scheduling", "Data Sending"],
     icon: "🕒",
-    buyLink: "https://example.com/workflows/wait-datetime-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/wait-datetime-send-scheduled"
   },
   {
     id: 708,
@@ -7787,7 +7787,7 @@ const products = [
     description: "Update scheduled tasks via HTTP webhook automation.",
     features: ["HTTP Integration", "Scheduled Updates", "Webhook"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-schedule-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-schedule-update-webhook"
   },
   {
     id: 709,
@@ -7798,7 +7798,7 @@ const products = [
     description: "Introduce delays and create tasks via HTTP webhook.",
     features: ["Wait Mechanism", "HTTP Integration", "Webhook Creation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-http-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/wait-http-create-webhook"
   },
   {
     id: 710,
@@ -7809,7 +7809,7 @@ const products = [
     description: "Trigger workflow execution with command tools for automation.",
     features: ["Workflow Execution", "Command Tool", "Triggered Automation"],
     icon: "🛠️",
-    buyLink: "https://example.com/workflows/executeworkflow-executecommandtool-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-executecommandtool-create-triggered"
   },
   {
     id: 711,
@@ -7820,7 +7820,7 @@ const products = [
     description: "Create sticky notes in Postgres databases via triggered automation.",
     features: ["Postgres Integration", "Sticky Note Creation", "Triggered Automation"],
     icon: "📝",
-    buyLink: "https://example.com/workflows/stickynote-postgrestool-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-postgrestool-create-triggered"
   },
   {
     id: 712,
@@ -7831,7 +7831,7 @@ const products = [
     description: "Automate sticky note creation through executed workflows with triggers.",
     features: ["Workflow Execution", "Sticky Note Creation", "Triggered Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/stickynote-executeworkflow-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-executeworkflow-create-triggered"
 },
 {
     id: 713,
@@ -7842,7 +7842,7 @@ const products = [
     description: "Extract data from files in Google Drive and import via triggered automation.",
     features: ["Google Drive Integration", "Data Extraction", "Triggered Import"],
     icon: "📂",
-    buyLink: "https://example.com/workflows/googledrivetool-extractfromfile-import-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/googledrivetool-extractfromfile-import-triggered"
 },
 {
     id: 714,
@@ -7853,7 +7853,7 @@ const products = [
     description: "Aggregate data from GitHub and create records via webhook automation.",
     features: ["GitHub Integration", "Data Aggregation", "Webhook Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/github-aggregate-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/github-aggregate-create-webhook"
 },
 {
     id: 715,
@@ -7864,7 +7864,7 @@ const products = [
     description: "Import aggregated data via HTTP requests using webhook triggers.",
     features: ["HTTP Requests", "Data Aggregation", "Webhook Import"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-aggregate-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-aggregate-import-webhook"
 },
 {
     id: 716,
@@ -7875,7 +7875,7 @@ const products = [
     description: "Filter and update data via HTTP requests using webhook automation.",
     features: ["Data Filtering", "HTTP Updates", "Webhook Automation"],
     icon: "🔍",
-    buyLink: "https://example.com/workflows/filter-http-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/filter-http-update-webhook"
 },
 {
     id: 717,
@@ -7886,7 +7886,7 @@ const products = [
     description: "Update Google Tasks via HTTP requests with webhook triggers.",
     features: ["Google Tasks Integration", "HTTP Updates", "Webhook Automation"],
     icon: "✅",
-    buyLink: "https://example.com/workflows/googletasks-http-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/googletasks-http-update-webhook"
 },
 {
     id: 718,
@@ -7897,7 +7897,7 @@ const products = [
     description: "Create Google Tasks from Telegram messages via triggered automation.",
     features: ["Telegram Integration", "Google Tasks Creation", "Triggered Automation"],
     icon: "📩",
-    buyLink: "https://example.com/workflows/telegram-googletaskstool-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-googletaskstool-create-triggered"
 },
 {
     id: 719,
@@ -7908,7 +7908,7 @@ const products = [
     description: "Filter and export data from Telegram via triggered automation.",
     features: ["Telegram Integration", "Data Filtering", "Triggered Export"],
     icon: "📤",
-    buyLink: "https://example.com/workflows/telegram-filter-export-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-filter-export-triggered"
 },
 {
     id: 720,
@@ -7919,7 +7919,7 @@ const products = [
     description: "Automate Monday.com tasks from Telegram messages with triggers.",
     features: ["Telegram Integration", "Monday.com Automation", "Triggered Workflow"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/telegram-mondaycom-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-mondaycom-automate-triggered"
 },
 {
     id: 721,
@@ -7930,7 +7930,7 @@ const products = [
     description: "Manually import sticky notes via webhook automation.",
     features: ["Manual Import", "Sticky Note Creation", "Webhook Automation"],
     icon: "📌",
-    buyLink: "https://example.com/workflows/manual-stickynote-import-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-import-webhook"
 },
 {
     id: 722,
@@ -7941,7 +7941,7 @@ const products = [
     description: "Convert data to files and create via HTTP webhook automation.",
     features: ["Data Conversion", "File Creation", "Webhook Automation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/converttofile-http-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/converttofile-http-create-webhook"
 },
 {
     id: 723,
@@ -7952,7 +7952,7 @@ const products = [
     description: "Send sticky notes from form submissions via triggered automation.",
     features: ["Form Integration", "Sticky Note Sending", "Triggered Automation"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/form-stickynote-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/form-stickynote-send-triggered"
 },
 {
     id: 724,
@@ -7963,7 +7963,7 @@ const products = [
     description: "Create sticky notes from emails read via IMAP.",
     features: ["IMAP Email Integration", "Sticky Note Creation", "Email Processing"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/stickynote-emailreadimap-create"
+    buyLink: "http://maken8n.gumroad.com/l/stickynote-emailreadimap-create"
 },
 {
     id: 725,
@@ -7974,7 +7974,7 @@ const products = [
     description: "Split and create data in Redis via triggered automation.",
     features: ["Redis Integration", "Data Splitting", "Triggered Creation"],
     icon: "🔄",
-    buyLink: "https://example.com/workflows/splitout-redis-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-redis-create-triggered"
 },
 {
     id: 726,
@@ -7985,7 +7985,7 @@ const products = [
     description: "Automate sticky note creation from Facebook Lead Ads with triggers.",
     features: ["Facebook Lead Ads Integration", "Sticky Note Automation", "Triggered Workflow"],
     icon: "📢",
-    buyLink: "https://example.com/workflows/facebookleadads-stickynote-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/facebookleadads-stickynote-automate-triggered"
 },
 {
     id: 727,
@@ -7996,7 +7996,7 @@ const products = [
     description: "Send limited code executions on a scheduled basis.",
     features: ["Code Execution", "Rate Limiting", "Scheduled Sending"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/limit-code-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/limit-code-send-scheduled"
 },
 {
     id: 728,
@@ -8007,7 +8007,7 @@ const products = [
     description: "Split and update Google Calendar events via webhook automation.",
     features: ["Google Calendar Integration", "Data Splitting", "Webhook Updates"],
     icon: "📅",
-    buyLink: "https://example.com/workflows/splitout-googlecalendar-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-googlecalendar-update-webhook"
 },
 {
     id: 729,
@@ -8018,7 +8018,7 @@ const products = [
     description: "Automate Google Sheets updates via HTTP webhook requests.",
     features: ["Google Sheets Integration", "HTTP Requests", "Webhook Automation"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/http-googlesheets-automate-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-googlesheets-automate-webhook"
 },
 {
     id: 730,
@@ -8029,7 +8029,7 @@ const products = [
     description: "Automate Redis operations with wait mechanisms via triggers.",
     features: ["Redis Integration", "Wait Mechanism", "Triggered Automation"],
     icon: "⏳",
-    buyLink: "https://example.com/workflows/wait-redis-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/wait-redis-automate-triggered"
 },
 {
     id: 731,
@@ -8040,7 +8040,7 @@ const products = [
     description: "Schedule removal of duplicates and create records on a schedule.",
     features: ["Duplicate Removal", "Scheduled Creation", "Data Processing"],
     icon: "🗑️",
-    buyLink: "https://example.com/workflows/schedule-removeduplicates-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/schedule-removeduplicates-create-scheduled"
 },
 {
     id: 732,
@@ -8051,7 +8051,7 @@ const products = [
     description: "Update Bitly links with datetime via webhook automation.",
     features: ["Bitly Integration", "Datetime Updates", "Webhook Automation"],
     icon: "🔗",
-    buyLink: "https://example.com/workflows/bitly-datetime-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/bitly-datetime-update-webhook"
 },
 {
     id: 733,
@@ -8062,7 +8062,7 @@ const products = [
     description: "Create Gmail emails from Telegram messages via triggered automation.",
     features: ["Telegram Integration", "Gmail Creation", "Triggered Automation"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/telegram-gmail-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-gmail-create-triggered"
 },
 {
     id: 734,
@@ -8073,7 +8073,7 @@ const products = [
     description: "Filter and create WhatsApp messages via triggered automation.",
     features: ["WhatsApp Integration", "Data Filtering", "Triggered Creation"],
     icon: "📱",
-    buyLink: "https://example.com/workflows/filter-whatsapp-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/filter-whatsapp-create-triggered"
 },
 {
     id: 735,
@@ -8084,7 +8084,7 @@ const products = [
     description: "Send no-operation (noop) code via triggered automation.",
     features: ["Code Execution", "No-Operation", "Triggered Sending"],
     icon: "💾",
-    buyLink: "https://example.com/workflows/code-noop-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/code-noop-send-triggered"
 },
 {
     id: 736,
@@ -8095,7 +8095,7 @@ const products = [
     description: "Extract and split data from files to create records via webhook.",
     features: ["File Extraction", "Data Splitting", "Webhook Creation"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/splitout-extractfromfile-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-extractfromfile-create-webhook"
 },
 {
     id: 737,
@@ -8106,7 +8106,7 @@ const products = [
     description: "Split and create HubSpot records via webhook automation.",
     features: ["HubSpot Integration", "Data Splitting", "Webhook Creation"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/hubspot-splitout-create-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/hubspot-splitout-create-webhook"
 },
 {
     id: 738,
@@ -8117,7 +8117,7 @@ const products = [
     description: "Split and send code executions on a scheduled basis.",
     features: ["Code Execution", "Data Splitting", "Scheduled Sending"],
     icon: "⏰",
-    buyLink: "https://example.com/workflows/splitout-code-send-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/splitout-code-send-scheduled"
 },
 {
     id: 739,
@@ -8128,7 +8128,7 @@ const products = [
     description: "Process and respond to webhooks with custom code automation.",
     features: ["Webhook Processing", "Code Execution", "Webhook Response"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/code-respondtowebhook-process-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/code-respondtowebhook-process-webhook"
 },
 {
     id: 740,
@@ -8139,7 +8139,7 @@ const products = [
     description: "Automate stop and error handling with wait mechanisms via triggers.",
     features: ["Error Handling", "Wait Mechanism", "Triggered Automation"],
     icon: "🛑",
-    buyLink: "https://example.com/workflows/stopanderror-wait-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/stopanderror-wait-automate-triggered"
 },
 {
     id: 741,
@@ -8150,7 +8150,7 @@ const products = [
     description: "Manually trigger N8N automation workflows.",
     features: ["N8N Integration", "Manual Trigger", "Automation Workflow"],
     icon: "⚙️",
-    buyLink: "https://example.com/workflows/manual-n8n-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-n8n-automate-triggered"
 },
 {
     id: 742,
@@ -8161,7 +8161,7 @@ const products = [
     description: "Perform no-operation extraction from files with automation.",
     features: ["File Extraction", "No-Operation", "Automation Workflow"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/noop-extractfromfile-automation"
+    buyLink: "http://maken8n.gumroad.com/l/noop-extractfromfile-automation"
 },
 {
     id: 743,
@@ -8172,7 +8172,7 @@ const products = [
     description: "Manually export spreadsheet files via triggered automation.",
     features: ["Spreadsheet Export", "Manual Trigger", "Automation Workflow"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/manual-spreadsheetfile-export-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-spreadsheetfile-export-triggered"
 },
 {
     id: 744,
@@ -8183,7 +8183,7 @@ const products = [
     description: "Monitor and split Telegram data on a scheduled basis.",
     features: ["Telegram Integration", "Data Splitting", "Scheduled Monitoring"],
     icon: "📩",
-    buyLink: "https://example.com/workflows/telegram-splitout-monitor-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-monitor-scheduled"
 },
 {
     id: 745,
@@ -8194,7 +8194,7 @@ const products = [
     description: "Automate code execution via HTTP webhook requests.",
     features: ["HTTP Requests", "Code Execution", "Webhook Automation"],
     icon: "💻",
-    buyLink: "https://example.com/workflows/http-code-automate-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-code-automate-webhook"
 },
 {
     id: 746,
@@ -8205,7 +8205,7 @@ const products = [
     description: "Automate Lingvanex translations via HTTP webhook requests.",
     features: ["Lingvanex Integration", "HTTP Requests", "Webhook Automation"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-lingvanex-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-lingvanex-automation-webhook"
 },
 {
     id: 747,
@@ -8216,7 +8216,7 @@ const products = [
     description: "Edit and update images via HTTP webhook automation.",
     features: ["Image Editing", "HTTP Requests", "Webhook Updates"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/http-editimage-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-editimage-update-webhook"
 },
 {
     id: 748,
@@ -8227,7 +8227,7 @@ const products = [
     description: "Manually trigger Mailchimp automation workflows.",
     features: ["Mailchimp Integration", "Manual Trigger", "Automation Workflow"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/manual-mailchimp-automation-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-mailchimp-automation-triggered"
 },
 {
     id: 749,
@@ -8238,7 +8238,7 @@ const products = [
     description: "Manually schedule Slack automation workflows.",
     features: ["Slack Integration", "Manual Scheduling", "Automation Workflow"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/slack-manual-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/slack-manual-automation-scheduled"
 },
 {
     id: 750,
@@ -8249,7 +8249,7 @@ const products = [
     description: "Automate Google Sheets updates from Mattermost on a schedule.",
     features: ["Mattermost Integration", "Google Sheets Automation", "Scheduled Workflow"],
     icon: "📊",
-    buyLink: "https://example.com/workflows/mattermost-googlesheets-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/mattermost-googlesheets-automation-scheduled"
 },
 {
     id: 751,
@@ -8260,7 +8260,7 @@ const products = [
     description: "Automate Signl4 alerts via webhook automation.",
     features: ["Signl4 Integration", "Webhook Automation", "Alert Processing"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/webhook-signl4-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/webhook-signl4-automation-webhook"
 },
 {
     id: 752,
@@ -8271,7 +8271,7 @@ const products = [
     description: "Manually trigger XML data automation workflows.",
     features: ["XML Processing", "Manual Trigger", "Automation Workflow"],
     icon: "📄",
-    buyLink: "https://example.com/workflows/manual-xml-automation-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-xml-automation-triggered"
 },
 {
     id: 753,
@@ -8282,7 +8282,7 @@ const products = [
     description: "Read and automate RSS feeds via Telegram on a schedule.",
     features: ["Telegram Integration", "RSS Feed Reading", "Scheduled Automation"],
     icon: "📰",
-    buyLink: "https://example.com/workflows/telegram-rssfeedread-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/telegram-rssfeedread-automation-scheduled"
 },
 {
     id: 754,
@@ -8293,7 +8293,7 @@ const products = [
     description: "Send error code notifications via triggered automation.",
     features: ["Error Handling", "Code Notifications", "Triggered Sending"],
     icon: "⚠️",
-    buyLink: "https://example.com/workflows/error-code-send-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/error-code-send-triggered"
 },
 {
     id: 755,
@@ -8304,7 +8304,7 @@ const products = [
     description: "Execute workflows to automate sticky note creation via triggers.",
     features: ["Workflow Execution", "Sticky Note Automation", "Triggered Workflow"],
     icon: "📋",
-    buyLink: "https://example.com/workflows/executeworkflow-stickynote-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/executeworkflow-stickynote-automate-triggered"
 },
 {
     id: 756,
@@ -8315,7 +8315,7 @@ const products = [
     description: "Filter and create records on a scheduled basis.",
     features: ["Data Filtering", "Scheduled Creation", "Automation Workflow"],
     icon: "🗓️",
-    buyLink: "https://example.com/workflows/filter-schedule-create-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/filter-schedule-create-scheduled"
 },
 {
     id: 757,
@@ -8326,7 +8326,7 @@ const products = [
     description: "Manually trigger Twilio automation workflows.",
     features: ["Twilio Integration", "Manual Trigger", "Automation Workflow"],
     icon: "📞",
-    buyLink: "https://example.com/workflows/manual-twilio-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-twilio-automate-triggered"
 },
 {
     id: 758,
@@ -8337,7 +8337,7 @@ const products = [
     description: "Manually trigger ActiveCampaign automation workflows.",
     features: ["ActiveCampaign Integration", "Manual Trigger", "Automation Workflow"],
     icon: "📧",
-    buyLink: "https://example.com/workflows/manual-activecampaign-automation-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-activecampaign-automation-triggered"
 },
 {
     id: 759,
@@ -8348,7 +8348,7 @@ const products = [
     description: "Automate Medium posts via HTTP webhook requests.",
     features: ["Medium Integration", "HTTP Requests", "Webhook Automation"],
     icon: "✍️",
-    buyLink: "https://example.com/workflows/http-medium-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-medium-automation-webhook"
 },
 {
     id: 760,
@@ -8359,7 +8359,7 @@ const products = [
     description: "Update Webflow content via triggered automation.",
     features: ["Webflow Integration", "Content Updates", "Triggered Automation"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/webflow-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/webflow-update-triggered"
 },
 {
     id: 761,
@@ -8370,7 +8370,7 @@ const products = [
     description: "Manually extract HTML data via webhook automation.",
     features: ["HTML Extraction", "Manual Trigger", "Webhook Automation"],
     icon: "📜",
-    buyLink: "https://example.com/workflows/manual-htmlextract-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/manual-htmlextract-automation-webhook"
 },
 {
     id: 762,
@@ -8381,7 +8381,7 @@ const products = [
     description: "General HTTP automation via webhook requests.",
     features: ["HTTP Requests", "Webhook Automation", "General Automation"],
     icon: "🌐",
-    buyLink: "https://example.com/workflows/http-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-automation-webhook"
 },
 {
     id: 763,
@@ -8392,7 +8392,7 @@ const products = [
     description: "Read binary files via HTTP webhook automation.",
     features: ["Binary File Reading", "HTTP Requests", "Webhook Automation"],
     icon: "📁",
-    buyLink: "https://example.com/workflows/http-readbinaryfile-automation-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/http-readbinaryfile-automation-webhook"
 },
 {
     id: 764,
@@ -8403,7 +8403,7 @@ const products = [
     description: "Manually trigger PayPal automation workflows.",
     features: ["PayPal Integration", "Manual Trigger", "Automation Workflow"],
     icon: "💳",
-    buyLink: "https://example.com/workflows/manual-paypal-automation-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-paypal-automation-triggered"
 },
 {
     id: 765,
@@ -8414,7 +8414,7 @@ const products = [
     description: "Manually trigger Signl4 automation workflows.",
     features: ["Signl4 Integration", "Manual Trigger", "Automation Workflow"],
     icon: "🚨",
-    buyLink: "https://example.com/workflows/manual-signl4-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-signl4-automate-triggered"
 },
 {
     id: 766,
@@ -8425,7 +8425,7 @@ const products = [
     description: "Manually trigger Freshdesk automation workflows.",
     features: ["Freshdesk Integration", "Manual Trigger", "Automation Workflow"],
     icon: "🎫",
-    buyLink: "https://example.com/workflows/manual-freshdesk-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-freshdesk-automate-triggered"
 },
 {
     id: 767,
@@ -8436,7 +8436,7 @@ const products = [
     description: "Filter and create Shopify records via triggered automation.",
     features: ["Shopify Integration", "Data Filtering", "Triggered Creation"],
     icon: "🛒",
-    buyLink: "https://example.com/workflows/shopify-filter-create-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/shopify-filter-create-triggered"
 },
 {
     id: 768,
@@ -8447,7 +8447,7 @@ const products = [
     description: "Manually trigger Postgres automation workflows.",
     features: ["Postgres Integration", "Manual Trigger", "Automation Workflow"],
     icon: "🗄️",
-    buyLink: "https://example.com/workflows/manual-postgres-automate-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/manual-postgres-automate-triggered"
 },
 {
     id: 769,
@@ -8458,7 +8458,7 @@ const products = [
     description: "Update Mautic records via webhook automation.",
     features: ["Mautic Integration", "Webhook Updates", "Automation Workflow"],
     icon: "📈",
-    buyLink: "https://example.com/workflows/mautic-webhook-update-webhook"
+    buyLink: "http://maken8n.gumroad.com/l/mautic-webhook-update-webhook"
 },
 {
     id: 770,
@@ -8469,7 +8469,7 @@ const products = [
     description: "Automate Bannerbear image creation via HTTP on a schedule.",
     features: ["Bannerbear Integration", "HTTP Requests", "Scheduled Automation"],
     icon: "🖼️",
-    buyLink: "https://example.com/workflows/http-bannerbear-automation-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/http-bannerbear-automation-scheduled"
 },
 {
     id: 771,
@@ -8480,7 +8480,7 @@ const products = [
     description: "Update PayPal records via triggered automation.",
     features: ["PayPal Integration", "Data Updates", "Triggered Automation"],
     icon: "💳",
-    buyLink: "https://example.com/workflows/paypal-update-triggered"
+    buyLink: "http://maken8n.gumroad.com/l/paypal-update-triggered"
 },
 {
     id: 772,
@@ -8491,7 +8491,7 @@ const products = [
     description: "Import Discord data via HTTP on a scheduled basis.",
     features: ["Discord Integration", "HTTP Requests", "Scheduled Import"],
     icon: "💬",
-    buyLink: "https://example.com/workflows/http-discord-import-scheduled"
+    buyLink: "http://maken8n.gumroad.com/l/http-discord-import-scheduled"
 },
 {
         id: 773,
@@ -8502,7 +8502,7 @@ const products = [
         description: "Update Asana tasks via triggered automation.",
         features: ["Asana Integration", "Task Updates", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/asana-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/asana-update-triggered"
     },
     {
         id: 774,
@@ -8513,7 +8513,7 @@ const products = [
         description: "Update Postmark email campaigns via triggered automation.",
         features: ["Postmark Integration", "Email Updates", "Triggered Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/postmark-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/postmark-update-triggered"
     },
     {
         id: 775,
@@ -8524,7 +8524,7 @@ const products = [
         description: "Manually automate Dropbox workflows via webhook.",
         features: ["Dropbox Integration", "Manual Trigger", "Webhook Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/dropbox-manual-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/dropbox-manual-automate-webhook"
     },
     {
         id: 776,
@@ -8535,7 +8535,7 @@ const products = [
         description: "Limit and split data for automation via webhook.",
         features: ["Data Limiting", "Data Splitting", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/limit-splitout-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/limit-splitout-automation-webhook"
     },
     {
         id: 777,
@@ -8546,7 +8546,7 @@ const products = [
         description: "Read and send emails via IMAP using Cortex automation.",
         features: ["Cortex Integration", "IMAP Email Reading", "Email Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/cortex-emailreadimap-send"
+        buyLink: "http://maken8n.gumroad.com/l/cortex-emailreadimap-send"
     },
     {
         id: 778,
@@ -8557,7 +8557,7 @@ const products = [
         description: "Create Slack messages from GitHub events via triggered automation.",
         features: ["GitHub Integration", "Slack Integration", "Triggered Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/github-slack-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/github-slack-create-triggered"
     },
     {
         id: 779,
@@ -8568,7 +8568,7 @@ const products = [
         description: "Export Google Sheets data to Telegram via triggered automation.",
         features: ["Google Sheets Integration", "Telegram Integration", "Triggered Export"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googlesheets-telegram-export-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-telegram-export-triggered"
     },
     {
         id: 780,
@@ -8579,7 +8579,7 @@ const products = [
         description: "Manually schedule Zulip automation workflows.",
         features: ["Zulip Integration", "Manual Scheduling", "Automation Workflow"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-zulip-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/manual-zulip-automation-scheduled"
     },
     {
         id: 781,
@@ -8590,7 +8590,7 @@ const products = [
         description: "Import code into Odoo on a scheduled basis.",
         features: ["Odoo Integration", "Code Import", "Scheduled Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/odoo-code-import-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/odoo-code-import-scheduled"
     },
     {
         id: 782,
@@ -8601,7 +8601,7 @@ const products = [
         description: "Automate sticky note creation in Google Drive via triggers.",
         features: ["Google Drive Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-googledrive-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-googledrive-automate-triggered"
     },
     {
         id: 783,
@@ -8612,7 +8612,7 @@ const products = [
         description: "Filter data via webhook for automation workflows.",
         features: ["Webhook Integration", "Data Filtering", "Automation Workflow"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/webhook-filter-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-filter-automation-webhook"
     },
     {
         id: 784,
@@ -8623,7 +8623,7 @@ const products = [
         description: "Manually trigger AWS SNS automation workflows.",
         features: ["AWS SNS Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/manual-awssns-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-awssns-automate-triggered"
     },
     {
         id: 785,
@@ -8634,7 +8634,7 @@ const products = [
         description: "Manually trigger MongoDB automation workflows.",
         features: ["MongoDB Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-mongodb-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mongodb-automate-triggered"
     },
     {
         id: 786,
@@ -8645,7 +8645,7 @@ const products = [
         description: "Manually trigger AWS SES automation workflows.",
         features: ["AWS SES Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-awsses-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-awsses-automate-triggered"
     },
     {
         id: 787,
@@ -8656,7 +8656,7 @@ const products = [
         description: "Automate AWS SNS notifications via triggered workflows.",
         features: ["AWS SNS Integration", "Notification Automation", "Triggered Workflow"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/awssns-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/awssns-automate-triggered"
     },
     {
         id: 788,
@@ -8667,7 +8667,7 @@ const products = [
         description: "Manually trigger AWS Lambda automation workflows.",
         features: ["AWS Lambda Integration", "Manual Trigger", "Automation Workflow"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-awslambda-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-awslambda-automate-triggered"
     },
     {
         id: 789,
@@ -8678,7 +8678,7 @@ const products = [
         description: "Manually send messages via Msg91 with triggered automation.",
         features: ["Msg91 Integration", "Manual Trigger", "Message Sending"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/manual-msg91-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-msg91-send-triggered"
     },
     {
         id: 790,
@@ -8689,7 +8689,7 @@ const products = [
         description: "Manually trigger Facebook Graph API automation workflows.",
         features: ["Facebook Graph API Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📢",
-        buyLink: "https://example.com/workflows/manual-facebookgraphapi-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-facebookgraphapi-automation-triggered"
     },
     {
         id: 791,
@@ -8700,7 +8700,7 @@ const products = [
         description: "Automate Mailchimp campaigns via triggered workflows.",
         features: ["Mailchimp Integration", "Campaign Automation", "Triggered Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/mailchimp-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mailchimp-automate-triggered"
     },
     {
         id: 792,
@@ -8711,7 +8711,7 @@ const products = [
         description: "Manually trigger Cockpit CMS automation workflows.",
         features: ["Cockpit Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/manual-cockpit-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-cockpit-automate-triggered"
     },
     {
         id: 793,
@@ -8722,7 +8722,7 @@ const products = [
         description: "Manually trigger Hunter email automation workflows.",
         features: ["Hunter Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-hunter-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-hunter-automate-triggered"
     },
     {
         id: 794,
@@ -8733,7 +8733,7 @@ const products = [
         description: "Send MQTT messages via triggered automation.",
         features: ["MQTT Integration", "Message Sending", "Triggered Automation"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/mqtt-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mqtt-send-triggered"
     },
     {
         id: 795,
@@ -8744,7 +8744,7 @@ const products = [
         description: "Manually trigger Mailjet email automation workflows.",
         features: ["Mailjet Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-mailjet-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mailjet-automate-triggered"
     },
     {
         id: 796,
@@ -8755,7 +8755,7 @@ const products = [
         description: "Automate Mailjet email campaigns via triggered workflows.",
         features: ["Mailjet Integration", "Campaign Automation", "Triggered Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/mailjet-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mailjet-automate-triggered"
     },
     {
         id: 797,
@@ -8766,7 +8766,7 @@ const products = [
         description: "Manually trigger Mailgun email automation workflows.",
         features: ["Mailgun Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-mailgun-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mailgun-automate-triggered"
     },
     {
         id: 798,
@@ -8777,7 +8777,7 @@ const products = [
         description: "Manually create Hacker News posts via triggered automation.",
         features: ["Hacker News Integration", "Manual Trigger", "Content Creation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/manual-hackernews-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-hackernews-create-triggered"
     },
     {
         id: 799,
@@ -8788,7 +8788,7 @@ const products = [
         description: "Automate GitHub workflows via triggered automation.",
         features: ["GitHub Integration", "Workflow Automation", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/github-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/github-automate-triggered"
     },
     {
         id: 800,
@@ -8799,7 +8799,7 @@ const products = [
         description: "Automate Gitlab workflows via triggered automation.",
         features: ["Gitlab Integration", "Workflow Automation", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/gitlab-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gitlab-automate-triggered"
     },
     {
         id: 801,
@@ -8810,7 +8810,7 @@ const products = [
         description: "Automate Bitbucket workflows via triggered automation.",
         features: ["Bitbucket Integration", "Workflow Automation", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/bitbucket-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/bitbucket-automate-triggered"
     },
     {
         id: 802,
@@ -8821,7 +8821,7 @@ const products = [
         description: "Manually create Travis CI builds via triggered automation.",
         features: ["Travis CI Integration", "Manual Trigger", "Build Creation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-travisci-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-travisci-create-triggered"
     },
     {
         id: 803,
@@ -8832,7 +8832,7 @@ const products = [
         description: "Automate sticky note creation from Telegram via triggers.",
         features: ["Telegram Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/telegram-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-automation-triggered"
     },
     {
         id: 804,
@@ -8843,7 +8843,7 @@ const products = [
         description: "Automate Acuity Scheduling tasks via triggered workflows.",
         features: ["Acuity Scheduling Integration", "Task Automation", "Triggered Workflow"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/acuityscheduling-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/acuityscheduling-automate-triggered"
     },
     {
         id: 805,
@@ -8854,7 +8854,7 @@ const products = [
         description: "Manually trigger Invoice Ninja automation workflows.",
         features: ["Invoice Ninja Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🧾",
-        buyLink: "https://example.com/workflows/manual-invoiceninja-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-invoiceninja-automate-triggered"
     },
     {
         id: 806,
@@ -8865,7 +8865,7 @@ const products = [
         description: "Automate Invoice Ninja tasks via triggered workflows.",
         features: ["Invoice Ninja Integration", "Task Automation", "Triggered Workflow"],
         icon: "🧾",
-        buyLink: "https://example.com/workflows/invoiceninja-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/invoiceninja-automate-triggered"
     },
     {
         id: 807,
@@ -8876,7 +8876,7 @@ const products = [
         description: "Automate Clockify time tracking via triggered workflows.",
         features: ["Clockify Integration", "Time Tracking Automation", "Triggered Workflow"],
         icon: "⏱️",
-        buyLink: "https://example.com/workflows/clockify-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/clockify-automate-triggered"
     },
     {
         id: 808,
@@ -8887,7 +8887,7 @@ const products = [
         description: "Automate Copper CRM tasks via triggered workflows.",
         features: ["Copper Integration", "CRM Automation", "Triggered Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/copper-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/copper-automate-triggered"
     },
     {
         id: 809,
@@ -8898,7 +8898,7 @@ const products = [
         description: "Automate Eventbrite event management via triggered workflows.",
         features: ["Eventbrite Integration", "Event Automation", "Triggered Workflow"],
         icon: "🎟️",
-        buyLink: "https://example.com/workflows/eventbrite-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/eventbrite-automate-triggered"
     },
     {
         id: 810,
@@ -8909,7 +8909,7 @@ const products = [
         description: "Manually trigger Rundeck automation workflows.",
         features: ["Rundeck Integration", "Manual Trigger", "Automation Workflow"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-rundeck-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-rundeck-automate-triggered"
     },
     {
         id: 811,
@@ -8920,7 +8920,7 @@ const products = [
         description: "Automate Calendly scheduling via triggered workflows.",
         features: ["Calendly Integration", "Scheduling Automation", "Triggered Workflow"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/calendly-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/calendly-automate-triggered"
     },
     {
         id: 812,
@@ -8931,7 +8931,7 @@ const products = [
         description: "Automate Jotform submissions via triggered workflows.",
         features: ["Jotform Integration", "Form Automation", "Triggered Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/jotform-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/jotform-automate-triggered"
     },
     {
         id: 813,
@@ -8942,7 +8942,7 @@ const products = [
         description: "Manually trigger Xero accounting automation workflows.",
         features: ["Xero Integration", "Manual Trigger", "Automation Workflow"],
         icon: "💸",
-        buyLink: "https://example.com/workflows/manual-xero-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-xero-automate-triggered"
     },
     {
         id: 814,
@@ -8953,7 +8953,7 @@ const products = [
         description: "Manually trigger Bannerbear image automation workflows.",
         features: ["Bannerbear Integration", "Manual Trigger", "Image Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/manual-bannerbear-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-bannerbear-automate-triggered"
     },
     {
         id: 815,
@@ -8964,7 +8964,7 @@ const products = [
         description: "Manually trigger Wordpress content automation workflows.",
         features: ["Wordpress Integration", "Manual Trigger", "Content Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/manual-wordpress-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-wordpress-automate-triggered"
     },
     {
         id: 816,
@@ -8975,7 +8975,7 @@ const products = [
         description: "Automate Shopify store tasks via triggered workflows.",
         features: ["Shopify Integration", "Store Automation", "Triggered Workflow"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/shopify-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/shopify-automate-triggered"
     },
     {
         id: 817,
@@ -8986,7 +8986,7 @@ const products = [
         description: "Manually trigger Shopify store automation workflows.",
         features: ["Shopify Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/manual-shopify-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-shopify-automate-triggered"
     },
     {
         id: 818,
@@ -8997,7 +8997,7 @@ const products = [
         description: "Manually trigger Mautic marketing automation workflows.",
         features: ["Mautic Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-mautic-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mautic-automate-triggered"
     },
     {
         id: 819,
@@ -9008,7 +9008,7 @@ const products = [
         description: "Automate Typeform data to Airtable via triggered workflows.",
         features: ["Typeform Integration", "Airtable Integration", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/typeform-airtable-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/typeform-airtable-automation-triggered"
     },
     {
         id: 820,
@@ -9019,7 +9019,7 @@ const products = [
         description: "Manually create Paddle transactions via triggered automation.",
         features: ["Paddle Integration", "Manual Trigger", "Transaction Creation"],
         icon: "💳",
-        buyLink: "https://example.com/workflows/manual-paddle-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-paddle-create-triggered"
     },
     {
         id: 821,
@@ -9030,7 +9030,7 @@ const products = [
         description: "Automate SurveyMonkey responses via triggered workflows.",
         features: ["SurveyMonkey Integration", "Response Automation", "Triggered Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/surveymonkey-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/surveymonkey-automate-triggered"
     },
     {
         id: 822,
@@ -9041,7 +9041,7 @@ const products = [
         description: "Manually trigger Zoho CRM automation workflows.",
         features: ["Zoho CRM Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-zohocrm-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-zohocrm-automate-triggered"
     },
     {
         id: 823,
@@ -9052,7 +9052,7 @@ const products = [
         description: "Manually trigger Keap CRM automation workflows.",
         features: ["Keap Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-keap-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-keap-automate-triggered"
     },
     {
         id: 824,
@@ -9063,7 +9063,7 @@ const products = [
         description: "Automate Keap CRM tasks via triggered workflows.",
         features: ["Keap Integration", "CRM Automation", "Triggered Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/keap-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/keap-automate-triggered"
     },
     {
         id: 825,
@@ -9074,7 +9074,7 @@ const products = [
         description: "Manually trigger Monday.com automation workflows.",
         features: ["Monday.com Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/manual-mondaycom-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mondaycom-automate-triggered"
     },
     {
         id: 826,
@@ -9085,7 +9085,7 @@ const products = [
         description: "Manually trigger Redis automation workflows.",
         features: ["Redis Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-redis-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-redis-automate-triggered"
     },
     {
         id: 827,
@@ -9096,7 +9096,7 @@ const products = [
         description: "Manually trigger GraphQL automation workflows.",
         features: ["GraphQL Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-graphql-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-graphql-automate-triggered"
     },
     {
         id: 828,
@@ -9107,7 +9107,7 @@ const products = [
         description: "Manually trigger Box file automation workflows.",
         features: ["Box Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-box-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-box-automate-triggered"
     },
     {
         id: 829,
@@ -9118,7 +9118,7 @@ const products = [
         description: "Manually trigger Trello board automation workflows.",
         features: ["Trello Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-trello-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-trello-automation-triggered"
     },
     {
         id: 830,
@@ -9129,7 +9129,7 @@ const products = [
         description: "Manually process XML data via webhook automation.",
         features: ["XML Processing", "Manual Trigger", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/manual-xml-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-xml-process-webhook"
     },
     {
         id: 831,
@@ -9140,7 +9140,7 @@ const products = [
         description: "Monitor Typeform submissions via HTTP webhook automation.",
         features: ["Typeform Integration", "HTTP Monitoring", "Webhook Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/http-typeform-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-typeform-monitor-webhook"
     },
     {
         id: 832,
@@ -9151,7 +9151,7 @@ const products = [
         description: "Automate Box file tasks via triggered workflows.",
         features: ["Box Integration", "File Automation", "Triggered Workflow"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/box-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/box-automate-triggered"
     },
     {
         id: 833,
@@ -9162,7 +9162,7 @@ const products = [
         description: "Manually trigger Microsoft OneDrive automation workflows.",
         features: ["Microsoft OneDrive Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-microsoftonedrive-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-microsoftonedrive-automate-triggered"
     },
     {
         id: 834,
@@ -9173,7 +9173,7 @@ const products = [
         description: "Manually trigger Microsoft Excel automation workflows.",
         features: ["Microsoft Excel Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-microsoftexcel-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-microsoftexcel-automate-triggered"
     },
     {
         id: 835,
@@ -9184,7 +9184,7 @@ const products = [
         description: "Manually trigger Helpscout automation workflows.",
         features: ["Helpscout Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🎫",
-        buyLink: "https://example.com/workflows/manual-helpscout-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-helpscout-automate-triggered"
     },
     {
         id: 836,
@@ -9195,7 +9195,7 @@ const products = [
         description: "Automate Jira tasks via triggered workflows.",
         features: ["Jira Integration", "Task Automation", "Triggered Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/jira-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/jira-automate-triggered"
     },
     {
         id: 837,
@@ -9206,7 +9206,7 @@ const products = [
         description: "Send error notifications via Twilio with triggered automation.",
         features: ["Twilio Integration", "Error Notifications", "Triggered Sending"],
         icon: "⚠️",
-        buyLink: "https://example.com/workflows/error-twilio-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/error-twilio-send-triggered"
     },
     {
         id: 838,
@@ -9217,7 +9217,7 @@ const products = [
         description: "Manually trigger Mandrill email automation workflows.",
         features: ["Mandrill Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-mandrill-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mandrill-automate-triggered"
     },
     {
         id: 839,
@@ -9228,7 +9228,7 @@ const products = [
         description: "Manually trigger cryptocurrency automation workflows.",
         features: ["Crypto Integration", "Manual Trigger", "Automation Workflow"],
         icon: "💸",
-        buyLink: "https://example.com/workflows/manual-crypto-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-crypto-automate-triggered"
     },
     {
         id: 840,
@@ -9239,7 +9239,7 @@ const products = [
         description: "Manually trigger datetime-based automation workflows.",
         features: ["Datetime Processing", "Manual Trigger", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/manual-datetime-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-datetime-automate-triggered"
     },
     {
         id: 841,
@@ -9250,7 +9250,7 @@ const products = [
         description: "Manually edit and update images via webhook automation.",
         features: ["Image Editing", "Manual Trigger", "Webhook Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/manual-editimage-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-editimage-update-webhook"
     },
     {
         id: 842,
@@ -9261,7 +9261,7 @@ const products = [
         description: "Manually trigger binary file reading automation workflows.",
         features: ["Binary File Reading", "Manual Trigger", "Automation Workflow"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/manual-readbinaryfiles-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-readbinaryfiles-automate-triggered"
     },
     {
         id: 843,
@@ -9272,7 +9272,7 @@ const products = [
         description: "Manually trigger key renaming automation workflows.",
         features: ["Key Renaming", "Manual Trigger", "Automation Workflow"],
         icon: "🔑",
-        buyLink: "https://example.com/workflows/manual-renamekeys-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-renamekeys-automate-triggered"
     },
 	{
         id: 844,
@@ -9283,7 +9283,7 @@ const products = [
         description: "Manually send emails via triggered automation.",
         features: ["Email Sending", "Manual Trigger", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-emailsend-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-emailsend-send-triggered"
     },
     {
         id: 845,
@@ -9294,7 +9294,7 @@ const products = [
         description: "Manually trigger PDF reading automation workflows.",
         features: ["PDF Reading", "Manual Trigger", "Automation Workflow"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/manual-readpdf-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-readpdf-automate-triggered"
     },
     {
         id: 846,
@@ -9305,7 +9305,7 @@ const products = [
         description: "Read and send emails via IMAP automation.",
         features: ["IMAP Email Reading", "Email Sending", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/emailreadimap-send"
+        buyLink: "http://maken8n.gumroad.com/l/emailreadimap-send"
     },
     {
         id: 847,
@@ -9316,7 +9316,7 @@ const products = [
         description: "Manually trigger workflow execution automation.",
         features: ["Workflow Execution", "Manual Trigger", "Automation Workflow"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-executeworkflow-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-executeworkflow-automate-triggered"
     },
     {
         id: 848,
@@ -9327,7 +9327,7 @@ const products = [
         description: "Update Telegram via HTTP webhook automation.",
         features: ["Telegram Integration", "HTTP Requests", "Webhook Updates"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/http-telegram-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-telegram-update-webhook"
     },
     {
         id: 849,
@@ -9338,7 +9338,7 @@ const products = [
         description: "Manually trigger Philips Hue automation workflows.",
         features: ["Philips Hue Integration", "Manual Trigger", "Automation Workflow"],
         icon: "💡",
-        buyLink: "https://example.com/workflows/manual-philipshue-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-philipshue-automation-triggered"
     },
     {
         id: 850,
@@ -9349,7 +9349,7 @@ const products = [
         description: "Manually trigger CrateDB automation workflows.",
         features: ["CrateDB Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-cratedb-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-cratedb-automate-triggered"
     },
     {
         id: 851,
@@ -9360,7 +9360,7 @@ const products = [
         description: "Manually trigger MySQL automation workflows.",
         features: ["MySQL Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-mysql-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mysql-automation-triggered"
     },
     {
         id: 852,
@@ -9371,7 +9371,7 @@ const products = [
         description: "Manually send messages via Mocean with triggered automation.",
         features: ["Mocean Integration", "Manual Trigger", "Message Sending"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/manual-mocean-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-mocean-send-triggered"
     },
     {
         id: 853,
@@ -9382,7 +9382,7 @@ const products = [
         description: "Split and import code via triggered automation.",
         features: ["Code Import", "Data Splitting", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/splitout-code-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-code-import-triggered"
     },
     {
         id: 854,
@@ -9393,7 +9393,7 @@ const products = [
         description: "General automation via webhook triggers.",
         features: ["Webhook Integration", "General Automation", "Triggered Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/automate-webhook"
     },
     {
         id: 855,
@@ -9404,7 +9404,7 @@ const products = [
         description: "Automate Telegram with stop and error handling via triggers.",
         features: ["Telegram Integration", "Error Handling", "Triggered Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-telegram-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-telegram-automation-triggered"
     },
     {
         id: 856,
@@ -9415,7 +9415,7 @@ const products = [
         description: "Automate Slack with GraphQL via webhook.",
         features: ["Slack Integration", "GraphQL Integration", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-graphql-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/slack-graphql-automation-webhook"
     },
     {
         id: 857,
@@ -9426,7 +9426,7 @@ const products = [
         description: "Update Clockify via HTTP webhook automation.",
         features: ["Clockify Integration", "HTTP Requests", "Webhook Updates"],
         icon: "⏱️",
-        buyLink: "https://example.com/workflows/http-clockify-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-clockify-update-webhook"
     },
     {
         id: 858,
@@ -9437,7 +9437,7 @@ const products = [
         description: "Manually create GitHub content via triggered automation.",
         features: ["GitHub Integration", "Manual Trigger", "Content Creation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/manual-github-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-github-create-triggered"
     },
     {
         id: 859,
@@ -9448,7 +9448,7 @@ const products = [
         description: "Manually export function items via webhook automation.",
         features: ["Function Item Export", "Manual Trigger", "Webhook Automation"],
         icon: "📤",
-        buyLink: "https://example.com/workflows/functionitem-manual-export-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/functionitem-manual-export-webhook"
     },
     {
         id: 860,
@@ -9459,7 +9459,7 @@ const products = [
         description: "Automate Slack notifications from GitHub via triggers.",
         features: ["GitHub Integration", "Slack Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/github-slack-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/github-slack-automation-triggered"
     },
     {
         id: 861,
@@ -9470,7 +9470,7 @@ const products = [
         description: "Update sticky notes in Figma via triggered automation.",
         features: ["Figma Integration", "Sticky Note Updates", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/figma-stickynote-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/figma-stickynote-update-triggered"
     },
     {
         id: 862,
@@ -9481,7 +9481,7 @@ const products = [
         description: "Create Wordpress content from Telegram via webhook.",
         features: ["Telegram Integration", "Wordpress Integration", "Webhook Creation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/telegram-wordpress-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-wordpress-create-webhook"
     },
     {
         id: 863,
@@ -9492,7 +9492,7 @@ const products = [
         description: "Create sticky notes from Google Calendar via triggered automation.",
         features: ["Google Calendar Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendartool-stickynote-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendartool-stickynote-create-triggered"
     },
     {
         id: 864,
@@ -9503,7 +9503,7 @@ const products = [
         description: "Automate sticky note creation via HTTP webhook.",
         features: ["HTTP Requests", "Sticky Note Automation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/http-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-stickynote-automation-webhook"
     },
     {
         id: 865,
@@ -9514,7 +9514,7 @@ const products = [
         description: "Manually create Wordpress content via triggered automation.",
         features: ["Wordpress Integration", "Manual Trigger", "Content Creation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/manual-wordpress-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-wordpress-create-triggered"
     },
     {
         id: 866,
@@ -9525,7 +9525,7 @@ const products = [
         description: "Manually schedule Cron automation workflows.",
         features: ["Cron Integration", "Manual Scheduling", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/manual-cron-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/manual-cron-automation-scheduled"
     },
     {
         id: 867,
@@ -9536,7 +9536,7 @@ const products = [
         description: "Manually automate Dropbox via webhook.",
         features: ["Dropbox Integration", "Manual Trigger", "Webhook Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-dropbox-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-dropbox-automation-webhook"
     },
     {
         id: 868,
@@ -9547,7 +9547,7 @@ const products = [
         description: "Create Helpscout tickets via triggered automation.",
         features: ["Helpscout Integration", "Ticket Creation", "Triggered Automation"],
         icon: "🎫",
-        buyLink: "https://example.com/workflows/helpscout-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/helpscout-create-triggered"
     },
     {
         id: 869,
@@ -9558,7 +9558,7 @@ const products = [
         description: "Automate HubSpot CRM tasks via triggered workflows.",
         features: ["HubSpot Integration", "CRM Automation", "Triggered Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/hubspot-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/hubspot-automate-triggered"
     },
     {
         id: 870,
@@ -9569,7 +9569,7 @@ const products = [
         description: "Read binary files and create Slack messages.",
         features: ["Slack Integration", "Binary File Reading", "Content Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-readbinaryfile-create"
+        buyLink: "http://maken8n.gumroad.com/l/slack-readbinaryfile-create"
     },
     {
         id: 871,
@@ -9580,7 +9580,7 @@ const products = [
         description: "Automate Mautic to Google Sheets on a scheduled basis.",
         features: ["Mautic Integration", "Google Sheets Integration", "Scheduled Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/mautic-googlesheets-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/mautic-googlesheets-automate-scheduled"
     },
     {
         id: 872,
@@ -9591,7 +9591,7 @@ const products = [
         description: "Automate server-sent events (SSE) via triggered workflows.",
         features: ["SSE Integration", "Event Automation", "Triggered Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/sse-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/sse-automation-triggered"
     },
     {
         id: 873,
@@ -9602,7 +9602,7 @@ const products = [
         description: "Create Affinity records via triggered automation.",
         features: ["Affinity Integration", "Record Creation", "Triggered Automation"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/affinity-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/affinity-create-triggered"
     },
     {
         id: 874,
@@ -9613,7 +9613,7 @@ const products = [
         description: "Manually trigger Contentful automation workflows.",
         features: ["Contentful Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/manual-contentful-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-contentful-automation-triggered"
     },
     {
         id: 875,
@@ -9624,7 +9624,7 @@ const products = [
         description: "Manually trigger Unleashed Software automation workflows.",
         features: ["Unleashed Software Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📦",
-        buyLink: "https://example.com/workflows/manual-unleashedsoftware-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-unleashedsoftware-automation-triggered"
     },
     {
         id: 876,
@@ -9635,7 +9635,7 @@ const products = [
         description: "Manually import data to AWS S3 via webhook.",
         features: ["AWS S3 Integration", "Manual Trigger", "Webhook Import"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-s3-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-s3-import-webhook"
     },
     {
         id: 877,
@@ -9646,7 +9646,7 @@ const products = [
         description: "Manually trigger code execution automation workflows.",
         features: ["Code Execution", "Manual Trigger", "Automation Workflow"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/manual-code-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-code-automate-triggered"
     },
     {
         id: 878,
@@ -9657,7 +9657,7 @@ const products = [
         description: "Import Trello data with no-operation via triggered automation.",
         features: ["Trello Integration", "No-Operation", "Triggered Import"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/noop-trello-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/noop-trello-import-triggered"
     },
     {
         id: 879,
@@ -9668,7 +9668,7 @@ const products = [
         description: "Sync datetime-based tasks on a scheduled basis.",
         features: ["Datetime Sync", "Scheduled Automation", "Task Management"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/datetime-schedule-sync-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/datetime-schedule-sync-scheduled"
     },
     {
         id: 880,
@@ -9679,7 +9679,7 @@ const products = [
         description: "Manually automate FTP tasks via webhook.",
         features: ["FTP Integration", "Manual Trigger", "Webhook Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-ftp-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-ftp-automation-webhook"
     },
     {
         id: 881,
@@ -9690,7 +9690,7 @@ const products = [
         description: "Manually trigger Salesforce automation workflows.",
         features: ["Salesforce Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-salesforce-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-salesforce-automate-triggered"
     },
     {
         id: 882,
@@ -9701,7 +9701,7 @@ const products = [
         description: "Manually trigger Microsoft Teams automation workflows.",
         features: ["Microsoft Teams Integration", "Manual Trigger", "Automation Workflow"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-teams-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-teams-automate-triggered"
     },
     {
         id: 883,
@@ -9712,7 +9712,7 @@ const products = [
         description: "Manually automate LinkedIn tasks via webhook.",
         features: ["LinkedIn Integration", "Manual Trigger", "Webhook Automation"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/manual-linkedin-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-linkedin-automation-webhook"
     },
     {
         id: 884,
@@ -9723,7 +9723,7 @@ const products = [
         description: "Manually trigger no-operation automation workflows.",
         features: ["No-Operation", "Manual Trigger", "Automation Workflow"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-noop-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-noop-automate-triggered"
     },
     {
         id: 885,
@@ -9734,7 +9734,7 @@ const products = [
         description: "Manually create Taiga tasks via triggered automation.",
         features: ["Taiga Integration", "Manual Trigger", "Task Creation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-taiga-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-taiga-create-triggered"
     },
     {
         id: 886,
@@ -9745,7 +9745,7 @@ const products = [
         description: "Automate Twilio notifications with OpenWeatherMap data on a schedule.",
         features: ["OpenWeatherMap Integration", "Twilio Integration", "Scheduled Automation"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/openweathermap-twilio-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-twilio-automate-scheduled"
     },
     {
         id: 887,
@@ -9756,7 +9756,7 @@ const products = [
         description: "Manually trigger OpenAI automation workflows.",
         features: ["OpenAI Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🤖",
-        buyLink: "https://example.com/workflows/manual-openai-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-openai-automation-triggered"
     },
     {
         id: 888,
@@ -9767,7 +9767,7 @@ const products = [
         description: "Automate Google Tasks from Telegram via webhook.",
         features: ["Google Tasks Integration", "Telegram Integration", "Webhook Automation"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/googletaskstool-telegram-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googletaskstool-telegram-automation-webhook"
     },
     {
         id: 889,
@@ -9778,7 +9778,7 @@ const products = [
         description: "Create sticky notes via triggered automation.",
         features: ["Sticky Note Creation", "Triggered Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-create-triggered"
     },
     {
         id: 890,
@@ -9789,7 +9789,7 @@ const products = [
         description: "Automate Google Sheets with Cron on a scheduled basis.",
         features: ["Google Sheets Integration", "Cron Integration", "Scheduled Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googlesheets-cron-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-cron-automate-scheduled"
     },
     {
         id: 891,
@@ -9800,7 +9800,7 @@ const products = [
         description: "Automate GitHub tasks via HTTP webhook.",
         features: ["GitHub Integration", "HTTP Requests", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/http-github-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-github-automation-webhook"
     },
     {
         id: 892,
@@ -9811,7 +9811,7 @@ const products = [
         description: "Automate Postgres with Google Cloud Natural Language on a schedule.",
         features: ["Postgres Integration", "Google Cloud Natural Language", "Scheduled Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/postgres-googlecloudnaturallanguage-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/postgres-googlecloudnaturallanguage-automation-scheduled"
     },
     {
         id: 893,
@@ -9822,7 +9822,7 @@ const products = [
         description: "Schedule code execution automation workflows.",
         features: ["Code Execution", "Scheduled Automation", "Workflow Management"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/code-schedule-automation-scheduled"
     },
     {
         id: 894,
@@ -9833,7 +9833,7 @@ const products = [
         description: "Monitor MQTT via HTTP webhook automation.",
         features: ["MQTT Integration", "HTTP Monitoring", "Webhook Automation"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/http-mqtt-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-mqtt-monitor-webhook"
     },
     {
         id: 895,
@@ -9844,7 +9844,7 @@ const products = [
         description: "Split and automate Telegram data on a scheduled basis.",
         features: ["Telegram Integration", "Data Splitting", "Scheduled Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-splitout-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-automation-scheduled"
     },
     {
         id: 896,
@@ -9855,7 +9855,7 @@ const products = [
         description: "Update Taiga tasks via triggered automation.",
         features: ["Taiga Integration", "Task Updates", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/taiga-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/taiga-update-triggered"
     },
     {
         id: 897,
@@ -9866,7 +9866,7 @@ const products = [
         description: "Manually trigger Wekan automation workflows.",
         features: ["Wekan Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-wekan-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-wekan-automation-triggered"
     },
     {
         id: 898,
@@ -9877,7 +9877,7 @@ const products = [
         description: "Create Google Sheets records from Google Calendar via triggers.",
         features: ["Google Calendar Integration", "Google Sheets Integration", "Triggered Creation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-googlesheets-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-googlesheets-create-triggered"
     },
     {
         id: 899,
@@ -9888,7 +9888,7 @@ const products = [
         description: "Automate Google Sheets updates from Mattermost on a schedule.",
         features: ["Mattermost Integration", "Google Sheets Integration", "Scheduled Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/mattermost-googlesheets-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-googlesheets-automate-scheduled"
     },
     {
         id: 900,
@@ -9899,7 +9899,7 @@ const products = [
         description: "Automate OpenWeatherMap data via webhook.",
         features: ["OpenWeatherMap Integration", "Webhook Automation", "Data Processing"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/openweathermap-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-webhook-automate-webhook"
     },
     {
         id: 901,
@@ -9910,7 +9910,7 @@ const products = [
         description: "Automate Twilio notifications with OpenWeatherMap via webhook.",
         features: ["OpenWeatherMap Integration", "Twilio Integration", "Webhook Automation"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/openweathermap-twilio-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-twilio-automate-webhook"
     },
     {
         id: 902,
@@ -9921,7 +9921,7 @@ const products = [
         description: "Automate Airtable with Mindee via webhook.",
         features: ["Airtable Integration", "Mindee Integration", "Webhook Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/airtable-mindee-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/airtable-mindee-automate-webhook"
     },
     {
         id: 903,
@@ -9932,7 +9932,7 @@ const products = [
         description: "Create LinkedIn content with wait mechanism via webhook.",
         features: ["LinkedIn Integration", "Wait Mechanism", "Webhook Creation"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/linkedin-wait-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-wait-create-webhook"
     },
     {
         id: 904,
@@ -9943,7 +9943,7 @@ const products = [
         description: "Manually trigger RSS feed reading automation workflows.",
         features: ["RSS Feed Reading", "Manual Trigger", "Automation Workflow"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/manual-rssfeedread-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-rssfeedread-automation-triggered"
     },
     {
         id: 905,
@@ -9954,7 +9954,7 @@ const products = [
         description: "General automation for custom workflows.",
         features: ["General Automation", "Custom Workflow", "Triggered Automation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/automate"
+        buyLink: "http://maken8n.gumroad.com/l/automate"
     },
     {
         id: 906,
@@ -9965,7 +9965,7 @@ const products = [
         description: "General content creation via triggered automation.",
         features: ["Content Creation", "Triggered Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/create"
+        buyLink: "http://maken8n.gumroad.com/l/create"
     },
     {
         id: 907,
@@ -9976,7 +9976,7 @@ const products = [
         description: "Manually create Clockify time entries via triggered automation.",
         features: ["Clockify Integration", "Manual Trigger", "Time Entry Creation"],
         icon: "⏱️",
-        buyLink: "https://example.com/workflows/manual-clockify-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-clockify-create-triggered"
     },
     {
         id: 908,
@@ -9987,7 +9987,7 @@ const products = [
         description: "Automate Telegram with wait mechanism via triggers.",
         features: ["Telegram Integration", "Wait Mechanism", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-wait-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-wait-automate-triggered"
     },
     {
         id: 909,
@@ -9998,7 +9998,7 @@ const products = [
         description: "Update Wufoo forms via triggered automation.",
         features: ["Wufoo Integration", "Form Updates", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/wufoo-update-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/wufoo-update-triggered"
     },
     {
         id: 910,
@@ -10009,7 +10009,7 @@ const products = [
         description: "Send no-operation Twilio messages on a scheduled basis.",
         features: ["Twilio Integration", "No-Operation", "Scheduled Sending"],
         icon: "📞",
-        buyLink: "https://example.com/workflows/noop-twilio-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/noop-twilio-send-scheduled"
     },
     {
         id: 911,
@@ -10020,7 +10020,7 @@ const products = [
         description: "Extract data from files and process via webhook.",
         features: ["File Extraction", "Webhook Processing", "Automation Workflow"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/webhook-extractfromfile-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-extractfromfile-process-webhook"
     },
     {
         id: 912,
@@ -10031,7 +10031,7 @@ const products = [
         description: "Automate Google Sheets tasks via triggered workflows.",
         features: ["Google Sheets Integration", "Task Automation", "Triggered Workflow"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googlesheetstool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheetstool-automation-triggered"
     },
     {
         id: 913,
@@ -10042,7 +10042,7 @@ const products = [
         description: "Create Google Docs content with code via webhook.",
         features: ["Google Docs Integration", "Code Execution", "Webhook Creation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/googledocs-code-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googledocs-code-create-webhook"
     },
     {
         id: 914,
@@ -10053,7 +10053,7 @@ const products = [
         description: "Manually trigger HubSpot automation workflows.",
         features: ["HubSpot Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-hubspot-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-hubspot-automation-triggered"
     },
     {
         id: 915,
@@ -10064,7 +10064,7 @@ const products = [
         description: "Automate Mattermost with Cron on a scheduled basis.",
         features: ["Mattermost Integration", "Cron Integration", "Scheduled Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-cron-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-cron-automate-scheduled"
     },
     {
         id: 916,
@@ -10075,7 +10075,7 @@ const products = [
         description: "Automate Airtable with Vonage on a scheduled basis.",
         features: ["Airtable Integration", "Vonage Integration", "Scheduled Automation"],
         icon: "📞",
-        buyLink: "https://example.com/workflows/airtable-vonage-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/airtable-vonage-automation-scheduled"
     },
     {
         id: 917,
@@ -10086,7 +10086,7 @@ const products = [
         description: "Manually trigger Medium automation workflows.",
         features: ["Medium Integration", "Manual Trigger", "Automation Workflow"],
         icon: "✍️",
-        buyLink: "https://example.com/workflows/manual-medium-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-medium-automation-triggered"
     },
     {
         id: 918,
@@ -10097,7 +10097,7 @@ const products = [
         description: "Automate Raindrop bookmarks with function items on a schedule.",
         features: ["Raindrop Integration", "Function Item Automation", "Scheduled Workflow"],
         icon: "🔖",
-        buyLink: "https://example.com/workflows/functionitem-raindrop-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/functionitem-raindrop-automation-scheduled"
     },
     {
         id: 919,
@@ -10108,7 +10108,7 @@ const products = [
         description: "Automate sticky note creation from Gmail via triggers.",
         features: ["Gmail Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/gmailtool-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gmailtool-stickynote-automation-triggered"
     },
     {
         id: 920,
@@ -10119,7 +10119,7 @@ const products = [
         description: "Split and filter data via webhook automation.",
         features: ["Data Splitting", "Data Filtering", "Webhook Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/splitout-filter-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-filter-automation-webhook"
     },
     {
         id: 921,
@@ -10130,7 +10130,7 @@ const products = [
         description: "Automate Postgres with code execution via triggers.",
         features: ["Postgres Integration", "Code Execution", "Triggered Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/postgres-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/postgres-code-automation-triggered"
     },
     {
         id: 922,
@@ -10141,7 +10141,7 @@ const products = [
         description: "Split and automate GitHub tasks via webhook.",
         features: ["GitHub Integration", "Data Splitting", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/splitout-github-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-github-automation-webhook"
     },
     {
         id: 923,
@@ -10152,7 +10152,7 @@ const products = [
         description: "Create Slack messages from WooCommerce via triggered automation.",
         features: ["WooCommerce Integration", "Slack Integration", "Triggered Creation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/woocommerce-slack-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/woocommerce-slack-create-triggered"
     },
     {
         id: 924,
@@ -10163,7 +10163,7 @@ const products = [
         description: "Manually create GitHub content on a scheduled basis.",
         features: ["GitHub Integration", "Manual Trigger", "Scheduled Creation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/github-manual-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/github-manual-create-scheduled"
     },
     {
         id: 925,
@@ -10174,7 +10174,7 @@ const products = [
         description: "Execute no-operation commands on a scheduled basis.",
         features: ["Command Execution", "No-Operation", "Scheduled Automation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/noop-executecommand-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/noop-executecommand-automation-scheduled"
     },
     {
         id: 926,
@@ -10185,7 +10185,7 @@ const products = [
         description: "Automate Google Sheets with Orbit integration.",
         features: ["Google Sheets Integration", "Orbit Integration", "Automation Workflow"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googlesheets-orbit-automation"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-orbit-automation"
     },
     {
         id: 927,
@@ -10196,7 +10196,7 @@ const products = [
         description: "Manually create Automizy campaigns via triggered automation.",
         features: ["Automizy Integration", "Manual Trigger", "Campaign Creation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-automizy-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-automizy-create-triggered"
     },
     {
         id: 928,
@@ -10207,7 +10207,7 @@ const products = [
         description: "Execute function item commands and update via webhook.",
         features: ["Command Execution", "Function Item", "Webhook Updates"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/functionitem-executecommand-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/functionitem-executecommand-update-webhook"
     },
     {
         id: 929,
@@ -10218,7 +10218,7 @@ const products = [
         description: "Manually create Matrix messages via triggered automation.",
         features: ["Matrix Integration", "Manual Trigger", "Message Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-matrix-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-matrix-create-triggered"
     },
     {
         id: 930,
@@ -10229,7 +10229,7 @@ const products = [
         description: "Manually trigger Zoom automation workflows.",
         features: ["Zoom Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🎥",
-        buyLink: "https://example.com/workflows/manual-zoom-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-zoom-automation-triggered"
     },
     {
         id: 931,
@@ -10240,7 +10240,7 @@ const products = [
         description: "Create Mautic records from WooCommerce via triggered automation.",
         features: ["Mautic Integration", "WooCommerce Integration", "Triggered Creation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/mautic-woocommerce-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mautic-woocommerce-create-triggered"
     },
     {
         id: 932,
@@ -10251,7 +10251,7 @@ const products = [
         description: "Send Slack messages with code via webhook.",
         features: ["Slack Integration", "Code Execution", "Webhook Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/code-slack-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-slack-send-webhook"
     },
     {
         id: 933,
@@ -10262,7 +10262,7 @@ const products = [
         description: "Manually import CircleCI data via triggered automation.",
         features: ["CircleCI Integration", "Manual Trigger", "Data Import"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-circleci-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-circleci-import-triggered"
     },
     {
         id: 934,
@@ -10273,7 +10273,7 @@ const products = [
         description: "Automate code execution with stop and error handling via triggers.",
         features: ["Code Execution", "Error Handling", "Triggered Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-code-automation-triggered"
     },
     {
         id: 935,
@@ -10284,7 +10284,7 @@ const products = [
         description: "Create Telegram messages from Twitter via triggered automation.",
         features: ["Twitter Integration", "Telegram Integration", "Triggered Creation"],
         icon: "🐦",
-        buyLink: "https://example.com/workflows/twitter-telegram-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/twitter-telegram-create-triggered"
     },
 	{
         id: 936,
@@ -10295,7 +10295,7 @@ const products = [
         description: "Manually send messages via MessageBird with triggered automation.",
         features: ["MessageBird Integration", "Manual Trigger", "Message Sending"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/manual-messagebird-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-messagebird-send-triggered"
     },
     {
         id: 937,
@@ -10306,7 +10306,7 @@ const products = [
         description: "Create Google Sheets records from Mattermost on a scheduled basis.",
         features: ["Mattermost Integration", "Google Sheets Integration", "Scheduled Creation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/mattermost-googlesheets-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-googlesheets-create-scheduled"
     },
     {
         id: 938,
@@ -10317,7 +10317,7 @@ const products = [
         description: "Send Slack messages from Mautic via triggered automation.",
         features: ["Mautic Integration", "Slack Integration", "Triggered Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mautic-slack-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mautic-slack-send-triggered"
     },
     {
         id: 939,
@@ -10328,7 +10328,7 @@ const products = [
         description: "Manually create Jira tasks via triggered automation.",
         features: ["Jira Integration", "Manual Trigger", "Task Creation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-jira-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-jira-create-triggered"
     },
     {
         id: 940,
@@ -10339,7 +10339,7 @@ const products = [
         description: "Automate tasks with Cron via HTTP on a scheduled basis.",
         features: ["Cron Integration", "HTTP Requests", "Scheduled Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/http-cron-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/http-cron-automation-scheduled"
     },
     {
         id: 941,
@@ -10350,7 +10350,7 @@ const products = [
         description: "Send HubSpot data to Slack via triggered automation.",
         features: ["Slack Integration", "HubSpot Integration", "Triggered Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-hubspot-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/slack-hubspot-send-triggered"
     },
     {
         id: 942,
@@ -10361,7 +10361,7 @@ const products = [
         description: "Manually import OpenWeatherMap data via triggered automation.",
         features: ["OpenWeatherMap Integration", "Manual Trigger", "Data Import"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/manual-openweathermap-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-openweathermap-import-triggered"
     },
     {
         id: 943,
@@ -10372,7 +10372,7 @@ const products = [
         description: "Manually create Trello cards via triggered automation.",
         features: ["Trello Integration", "Manual Trigger", "Card Creation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-trello-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-trello-create-triggered"
     },
     {
         id: 944,
@@ -10383,7 +10383,7 @@ const products = [
         description: "Automate RSS feed reading to Slack on a scheduled basis.",
         features: ["RSS Feed Integration", "Slack Integration", "Scheduled Automation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/rssfeedread-slack-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/rssfeedread-slack-automation-scheduled"
     },
     {
         id: 945,
@@ -10394,7 +10394,7 @@ const products = [
         description: "Create Google Sheets records using OpenAI via triggered automation.",
         features: ["OpenAI Integration", "Google Sheets Integration", "Triggered Creation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/openai-googlesheets-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/openai-googlesheets-create-triggered"
     },
     {
         id: 946,
@@ -10405,7 +10405,7 @@ const products = [
         description: "Automate code execution via HTTP webhook.",
         features: ["Code Execution", "HTTP Requests", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-http-automation-webhook"
     },
     {
         id: 947,
@@ -10416,7 +10416,7 @@ const products = [
         description: "Automate Mailgun error handling via triggered workflows.",
         features: ["Mailgun Integration", "Error Handling", "Triggered Automation"],
         icon: "⚠️",
-        buyLink: "https://example.com/workflows/error-mailgun-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/error-mailgun-automate-triggered"
     },
     {
         id: 948,
@@ -10427,7 +10427,7 @@ const products = [
         description: "Extract HTML from RSS feeds and create records on a schedule.",
         features: ["RSS Feed Integration", "HTML Extraction", "Scheduled Creation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/rssfeedread-htmlextract-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/rssfeedread-htmlextract-create-scheduled"
     },
     {
         id: 949,
@@ -10438,7 +10438,7 @@ const products = [
         description: "Manually trigger Spotify automation workflows.",
         features: ["Spotify Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🎵",
-        buyLink: "https://example.com/workflows/manual-spotify-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-spotify-automation-triggered"
     },
     {
         id: 950,
@@ -10449,7 +10449,7 @@ const products = [
         description: "Create debug data via HTTP webhook for automation.",
         features: ["Debug Helper", "HTTP Requests", "Webhook Creation"],
         icon: "🛠️",
-        buyLink: "https://example.com/workflows/debughelper-http-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/debughelper-http-create-webhook"
     },
     {
         id: 951,
@@ -10460,7 +10460,7 @@ const products = [
         description: "Automate Telegram with wait mechanism via webhook.",
         features: ["Telegram Integration", "Wait Mechanism", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-wait-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-wait-automate-webhook"
     },
     {
         id: 952,
@@ -10471,7 +10471,7 @@ const products = [
         description: "Create Telegram messages from RSS feeds via triggered automation.",
         features: ["RSS Feed Integration", "Telegram Integration", "Triggered Creation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/rssfeedread-telegram-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/rssfeedread-telegram-create-triggered"
     },
     {
         id: 953,
@@ -10482,7 +10482,7 @@ const products = [
         description: "Automate Dropbox tasks via HTTP webhook.",
         features: ["Dropbox Integration", "HTTP Requests", "Webhook Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/http-dropbox-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-dropbox-automation-webhook"
     },
     {
         id: 954,
@@ -10493,7 +10493,7 @@ const products = [
         description: "Create Google Sheets records from IMAP email reading.",
         features: ["Google Sheets Integration", "IMAP Email Reading", "Content Creation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googlesheets-emailreadimap-create"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-emailreadimap-create"
     },
     {
         id: 955,
@@ -10504,7 +10504,7 @@ const products = [
         description: "Manually send RocketChat messages via triggered automation.",
         features: ["RocketChat Integration", "Manual Trigger", "Message Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-rocketchat-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-rocketchat-send-triggered"
     },
     {
         id: 956,
@@ -10515,7 +10515,7 @@ const products = [
         description: "Execute commands to read binary files via triggered automation.",
         features: ["Command Execution", "Binary File Reading", "Triggered Automation"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/executecommand-readbinaryfile-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/executecommand-readbinaryfile-automate-triggered"
     },
     {
         id: 957,
@@ -10526,7 +10526,7 @@ const products = [
         description: "Automate Slack with Typeform submissions via triggered workflows.",
         features: ["Slack Integration", "Typeform Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-typeform-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/slack-typeform-automate-triggered"
     },
     {
         id: 958,
@@ -10537,7 +10537,7 @@ const products = [
         description: "Automate TimescaleDB tasks via HTTP on a scheduled basis.",
         features: ["TimescaleDB Integration", "HTTP Requests", "Scheduled Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/http-timescaledb-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/http-timescaledb-automation-scheduled"
     },
     {
         id: 959,
@@ -10548,7 +10548,7 @@ const products = [
         description: "Manually create Intercom records via triggered automation.",
         features: ["Intercom Integration", "Manual Trigger", "Record Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-intercom-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-intercom-create-triggered"
     },
     {
         id: 960,
@@ -10559,7 +10559,7 @@ const products = [
         description: "Create Slack messages from IMAP email reading.",
         features: ["Slack Integration", "IMAP Email Reading", "Content Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-emailreadimap-create"
+        buyLink: "http://maken8n.gumroad.com/l/slack-emailreadimap-create"
     },
     {
         id: 961,
@@ -10570,7 +10570,7 @@ const products = [
         description: "Update Pushover with OpenWeatherMap data on a scheduled basis.",
         features: ["OpenWeatherMap Integration", "Pushover Integration", "Scheduled Updates"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/openweathermap-pushover-update-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-pushover-update-scheduled"
     },
     {
         id: 962,
@@ -10581,7 +10581,7 @@ const products = [
         description: "Manually trigger SecurityScorecard automation workflows.",
         features: ["SecurityScorecard Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🔒",
-        buyLink: "https://example.com/workflows/manual-securityscorecard-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-securityscorecard-automate-triggered"
     },
     {
         id: 963,
@@ -10592,7 +10592,7 @@ const products = [
         description: "Manually trigger Reddit automation workflows.",
         features: ["Reddit Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/manual-reddit-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-reddit-automate-triggered"
     },
     {
         id: 964,
@@ -10603,7 +10603,7 @@ const products = [
         description: "Send Pushcut notifications via Twilio with triggered automation.",
         features: ["Twilio Integration", "Pushcut Integration", "Triggered Sending"],
         icon: "📞",
-        buyLink: "https://example.com/workflows/twilio-pushcut-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/twilio-pushcut-send-triggered"
     },
     {
         id: 965,
@@ -10614,7 +10614,7 @@ const products = [
         description: "Manually send SMS via Sms77 with triggered automation.",
         features: ["Sms77 Integration", "Manual Trigger", "SMS Sending"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/manual-sms77-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-sms77-send-triggered"
     },
     {
         id: 966,
@@ -10625,7 +10625,7 @@ const products = [
         description: "Manually trigger Google Translate automation workflows.",
         features: ["Google Translate Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-googletranslate-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googletranslate-automation-triggered"
     },
     {
         id: 967,
@@ -10636,7 +10636,7 @@ const products = [
         description: "Manually trigger Discourse automation workflows.",
         features: ["Discourse Integration", "Manual Trigger", "Automation Workflow"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-discourse-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-discourse-automate-triggered"
     },
     {
         id: 968,
@@ -10647,7 +10647,7 @@ const products = [
         description: "Import GetResponse data to Airtable via triggered automation.",
         features: ["GetResponse Integration", "Airtable Integration", "Triggered Import"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/getresponse-airtable-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/getresponse-airtable-import-triggered"
     },
     {
         id: 969,
@@ -10658,7 +10658,7 @@ const products = [
         description: "Manually trigger Stackby automation workflows.",
         features: ["Stackby Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-stackby-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-stackby-automate-triggered"
     },
     {
         id: 970,
@@ -10669,7 +10669,7 @@ const products = [
         description: "Manually trigger Peekalink automation workflows.",
         features: ["Peekalink Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🔗",
-        buyLink: "https://example.com/workflows/manual-peekalink-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-peekalink-automate-triggered"
     },
     {
         id: 971,
@@ -10680,7 +10680,7 @@ const products = [
         description: "Manually trigger Tapfiliate automation workflows.",
         features: ["Tapfiliate Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-tapfiliate-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-tapfiliate-automate-triggered"
     },
     {
         id: 972,
@@ -10691,7 +10691,7 @@ const products = [
         description: "Manually create Strava activities via triggered automation.",
         features: ["Strava Integration", "Manual Trigger", "Activity Creation"],
         icon: "🏃",
-        buyLink: "https://example.com/workflows/manual-strava-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-strava-create-triggered"
     },
     {
         id: 973,
@@ -10702,7 +10702,7 @@ const products = [
         description: "Automate Demio events from Typeform submissions via triggered workflows.",
         features: ["Typeform Integration", "Demio Integration", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/typeform-demio-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/typeform-demio-automate-triggered"
     },
     {
         id: 974,
@@ -10713,7 +10713,7 @@ const products = [
         description: "Automate Quickbooks accounting tasks.",
         features: ["Quickbooks Integration", "Accounting Automation", "Workflow Management"],
         icon: "💸",
-        buyLink: "https://example.com/workflows/quickbooks-automate"
+        buyLink: "http://maken8n.gumroad.com/l/quickbooks-automate"
     },
     {
         id: 975,
@@ -10724,7 +10724,7 @@ const products = [
         description: "Automate Raindrop bookmark management.",
         features: ["Raindrop Integration", "Bookmark Automation", "Workflow Management"],
         icon: "🔖",
-        buyLink: "https://example.com/workflows/raindrop-automate"
+        buyLink: "http://maken8n.gumroad.com/l/raindrop-automate"
     },
     {
         id: 976,
@@ -10735,7 +10735,7 @@ const products = [
         description: "Manually create Affinity records via triggered automation.",
         features: ["Affinity Integration", "Manual Trigger", "Record Creation"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-affinity-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-affinity-create-triggered"
     },
     {
         id: 977,
@@ -10746,7 +10746,7 @@ const products = [
         description: "Create Strava activities from Twitter via triggered automation.",
         features: ["Twitter Integration", "Strava Integration", "Triggered Creation"],
         icon: "🏃",
-        buyLink: "https://example.com/workflows/twitter-strava-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/twitter-strava-create-triggered"
     },
     {
         id: 978,
@@ -10757,7 +10757,7 @@ const products = [
         description: "Automate Slack messages from Twitter on a scheduled basis.",
         features: ["Twitter Integration", "Slack Integration", "Scheduled Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/twitter-slack-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/twitter-slack-automation-scheduled"
     },
     {
         id: 979,
@@ -10768,7 +10768,7 @@ const products = [
         description: "Automate GoToWebinar event management.",
         features: ["GoToWebinar Integration", "Event Automation", "Workflow Management"],
         icon: "🎥",
-        buyLink: "https://example.com/workflows/gotowebinar-automate"
+        buyLink: "http://maken8n.gumroad.com/l/gotowebinar-automate"
     },
     {
         id: 980,
@@ -10779,7 +10779,7 @@ const products = [
         description: "Automate Emelia email campaigns.",
         features: ["Emelia Integration", "Email Automation", "Workflow Management"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/emelia-automate"
+        buyLink: "http://maken8n.gumroad.com/l/emelia-automate"
     },
     {
         id: 981,
@@ -10790,7 +10790,7 @@ const products = [
         description: "Automate Mattermost with Typeform submissions via triggered workflows.",
         features: ["Mattermost Integration", "Typeform Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-typeform-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-typeform-automate-triggered"
     },
     {
         id: 982,
@@ -10801,7 +10801,7 @@ const products = [
         description: "Manually schedule automation workflows.",
         features: ["Scheduling", "Manual Trigger", "Scheduled Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/manual-schedule-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/manual-schedule-automate-scheduled"
     },
     {
         id: 983,
@@ -10812,7 +10812,7 @@ const products = [
         description: "Automate Posthog events via webhook.",
         features: ["Posthog Integration", "Webhook Automation", "Event Processing"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/posthog-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/posthog-webhook-automate-webhook"
     },
     {
         id: 984,
@@ -10823,7 +10823,7 @@ const products = [
         description: "Manually create AgileCRM records via triggered automation.",
         features: ["AgileCRM Integration", "Manual Trigger", "Record Creation"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/manual-agilecrm-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-agilecrm-create-triggered"
     },
     {
         id: 985,
@@ -10834,7 +10834,7 @@ const products = [
         description: "Automate Lemlist campaigns with Airtable data.",
         features: ["Airtable Integration", "Lemlist Integration", "Automation Workflow"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/airtable-lemlist-automate"
+        buyLink: "http://maken8n.gumroad.com/l/airtable-lemlist-automate"
     },
     {
         id: 986,
@@ -10845,7 +10845,7 @@ const products = [
         description: "Automate Lemlist campaigns from Mattermost via triggered workflows.",
         features: ["Mattermost Integration", "Lemlist Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-lemlist-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-lemlist-automate-triggered"
     },
     {
         id: 987,
@@ -10856,7 +10856,7 @@ const products = [
         description: "Create OpenWeatherMap data records via webhook.",
         features: ["OpenWeatherMap Integration", "Webhook Creation", "Automation Workflow"],
         icon: "☁️",
-        buyLink: "https://example.com/workflows/openweathermap-webhook-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/openweathermap-webhook-create-webhook"
     },
     {
         id: 988,
@@ -10867,7 +10867,7 @@ const products = [
         description: "Automate Asana tasks via webhook.",
         features: ["Asana Integration", "Webhook Automation", "Task Management"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/asana-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/asana-webhook-automate-webhook"
     },
     {
         id: 989,
@@ -10878,7 +10878,7 @@ const products = [
         description: "Automate ApiTemplateIO with Typeform submissions via triggered workflows.",
         features: ["ApiTemplateIO Integration", "Typeform Integration", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/apitemplateio-typeform-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/apitemplateio-typeform-automation-triggered"
     },
     {
         id: 990,
@@ -10889,7 +10889,7 @@ const products = [
         description: "Manually create Asana tasks via triggered automation.",
         features: ["Asana Integration", "Manual Trigger", "Task Creation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/manual-asana-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-asana-create-triggered"
     },
     {
         id: 991,
@@ -10900,7 +10900,7 @@ const products = [
         description: "Update Kafka streams via HTTP webhook.",
         features: ["Kafka Integration", "HTTP Requests", "Webhook Updates"],
         icon: "📡",
-        buyLink: "https://example.com/workflows/http-kafka-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-kafka-update-webhook"
     },
     {
         id: 992,
@@ -10911,7 +10911,7 @@ const products = [
         description: "Automate Autopilot marketing tasks.",
         features: ["Autopilot Integration", "Marketing Automation", "Workflow Management"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/autopilot-automate"
+        buyLink: "http://maken8n.gumroad.com/l/autopilot-automate"
     },
     {
         id: 993,
@@ -10922,7 +10922,7 @@ const products = [
         description: "Automate Autopilot with Airtable via triggered workflows.",
         features: ["Autopilot Integration", "Airtable Integration", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/autopilot-airtable-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/autopilot-airtable-automate-triggered"
     },
     {
         id: 994,
@@ -10933,7 +10933,7 @@ const products = [
         description: "Automate Wise financial transactions.",
         features: ["Wise Integration", "Financial Automation", "Workflow Management"],
         icon: "💸",
-        buyLink: "https://example.com/workflows/wise-automate"
+        buyLink: "http://maken8n.gumroad.com/l/wise-automate"
     },
     {
         id: 995,
@@ -10944,7 +10944,7 @@ const products = [
         description: "Automate Wise transactions with Airtable via triggered workflows.",
         features: ["Wise Integration", "Airtable Integration", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/wise-airtable-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/wise-airtable-automate-triggered"
     },
     {
         id: 996,
@@ -10955,7 +10955,7 @@ const products = [
         description: "Manually trigger batch splitting automation workflows.",
         features: ["Batch Splitting", "Manual Trigger", "Automation Workflow"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/manual-splitinbatches-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-splitinbatches-automate-triggered"
     },
     {
         id: 997,
@@ -10966,7 +10966,7 @@ const products = [
         description: "Automate DeepL translations via HTTP webhook.",
         features: ["DeepL Integration", "HTTP Requests", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-deepl-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-deepl-automation-webhook"
     },
     {
         id: 998,
@@ -10977,7 +10977,7 @@ const products = [
         description: "Manually trigger Microsoft SQL automation workflows.",
         features: ["Microsoft SQL Integration", "Manual Trigger", "Automation Workflow"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-microsoftsql-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-microsoftsql-automation-triggered"
     },
     {
         id: 999,
@@ -10988,7 +10988,7 @@ const products = [
         description: "Automate Matrix with Cron on a scheduled basis.",
         features: ["Matrix Integration", "Cron Integration", "Scheduled Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/matrix-cron-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/matrix-cron-automate-scheduled"
     },
     {
         id: 1000,
@@ -10999,7 +10999,7 @@ const products = [
         description: "Automate Telegram error handling via webhook.",
         features: ["Telegram Integration", "Error Handling", "Webhook Automation"],
         icon: "⚠️",
-        buyLink: "https://example.com/workflows/error-telegram-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/error-telegram-automation-webhook"
     },
     {
         id: 1001,
@@ -11010,7 +11010,7 @@ const products = [
         description: "Manually automate code execution via webhook.",
         features: ["Code Execution", "Manual Trigger", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/manual-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-code-automation-webhook"
     },
 	{
         id: 1002,
@@ -11021,7 +11021,7 @@ const products = [
         description: "Send Google Contacts data on a scheduled basis.",
         features: ["Google Contacts Integration", "Scheduled Sending", "Automation Workflow"],
         icon: "📇",
-        buyLink: "https://example.com/workflows/googlecontacts-schedule-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/googlecontacts-schedule-send-scheduled"
     },
     {
         id: 1003,
@@ -11032,7 +11032,7 @@ const products = [
         description: "Send sticky notes formatted in Markdown.",
         features: ["Markdown Formatting", "Sticky Note Sending", "Automation Workflow"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/markdown-stickynote-send"
+        buyLink: "http://maken8n.gumroad.com/l/markdown-stickynote-send"
     },
     {
         id: 1004,
@@ -11043,7 +11043,7 @@ const products = [
         description: "Manually process HTTP requests via webhook automation.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-http-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-http-process-webhook"
     },
     {
         id: 1005,
@@ -11054,7 +11054,7 @@ const products = [
         description: "Automate sticky note creation from Discord via triggered workflows.",
         features: ["Discord Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/discordtool-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/discordtool-stickynote-automation-triggered"
     },
     {
         id: 1006,
@@ -11065,7 +11065,7 @@ const products = [
         description: "Automate Google Sheets updates from Telegram via triggered workflows.",
         features: ["Telegram Integration", "Google Sheets Integration", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/telegram-googlesheets-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googlesheets-automate-triggered"
     },
     {
         id: 1007,
@@ -11076,7 +11076,7 @@ const products = [
         description: "Extract data from files to Postgres via triggered automation.",
         features: ["Postgres Integration", "File Extraction", "Triggered Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/postgres-extractfromfile-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/postgres-extractfromfile-automation-triggered"
     },
     {
         id: 1008,
@@ -11087,7 +11087,7 @@ const products = [
         description: "Extract file data and automate via HTTP webhook.",
         features: ["File Extraction", "HTTP Requests", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-http-automation-webhook"
     },
     {
         id: 1009,
@@ -11098,7 +11098,7 @@ const products = [
         description: "Automate sticky note creation from Google Calendar via triggered workflows.",
         features: ["Google Calendar Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendartool-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendartool-stickynote-automation-triggered"
     },
     {
         id: 1010,
@@ -11109,7 +11109,7 @@ const products = [
         description: "Split and automate Gmail data via webhook.",
         features: ["Gmail Integration", "Data Splitting", "Webhook Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/gmailtool-splitout-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/gmailtool-splitout-automation-webhook"
     },
     {
         id: 1011,
@@ -11120,7 +11120,7 @@ const products = [
         description: "Automate Postgres tasks via webhook.",
         features: ["Postgres Integration", "Webhook Automation", "Data Processing"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/postgres-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/postgres-webhook-automation-webhook"
     },
     {
         id: 1012,
@@ -11131,7 +11131,7 @@ const products = [
         description: "General automation for custom workflows.",
         features: ["General Automation", "Custom Workflow", "Automation Management"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/automation"
+        buyLink: "http://maken8n.gumroad.com/l/automation"
     },
     {
         id: 1013,
@@ -11142,7 +11142,7 @@ const products = [
         description: "Automate sticky note creation from Postgres via triggered workflows.",
         features: ["Postgres Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/postgrestool-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/postgrestool-stickynote-automation-triggered"
     },
     {
         id: 1014,
@@ -11153,7 +11153,7 @@ const products = [
         description: "Automate sticky note creation via webhook.",
         features: ["Sticky Note Creation", "Webhook Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-automation-webhook"
     },
     {
         id: 1015,
@@ -11164,7 +11164,7 @@ const products = [
         description: "Extract data from files to forms via triggered automation.",
         features: ["File Extraction", "Form Integration", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-form-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-form-automate-triggered"
     },
     {
         id: 1016,
@@ -11175,7 +11175,7 @@ const products = [
         description: "Automate form processing with OpenAI via triggered workflows.",
         features: ["OpenAI Integration", "Form Processing", "Triggered Automation"],
         icon: "🤖",
-        buyLink: "https://example.com/workflows/openai-form-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/openai-form-automation-triggered"
     },
     {
         id: 1017,
@@ -11186,7 +11186,7 @@ const products = [
         description: "Automate Strava activities with code via triggered workflows.",
         features: ["Strava Integration", "Code Execution", "Triggered Automation"],
         icon: "🏃",
-        buyLink: "https://example.com/workflows/code-strava-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-strava-automation-triggered"
     },
     {
         id: 1018,
@@ -11197,7 +11197,7 @@ const products = [
         description: "Manually split and automate data via webhook.",
         features: ["Data Splitting", "Manual Trigger", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-manual-automation-webhook"
     },
     {
         id: 1019,
@@ -11208,7 +11208,7 @@ const products = [
         description: "Automate sticky note creation from Airtable via triggered workflows.",
         features: ["Airtable Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/airtabletool-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/airtabletool-stickynote-automation-triggered"
     },
     {
         id: 1020,
@@ -11219,7 +11219,7 @@ const products = [
         description: "General triggered automation for custom workflows.",
         features: ["General Automation", "Triggered Workflow", "Automation Management"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/automation-triggered"
     },
     {
         id: 1021,
@@ -11230,7 +11230,7 @@ const products = [
         description: "Automate sticky note creation in response to webhooks.",
         features: ["Webhook Response", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/respondtowebhook-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-stickynote-automation-webhook"
     },
     {
         id: 1022,
@@ -11241,7 +11241,7 @@ const products = [
         description: "Automate Markdown content via HTTP webhook.",
         features: ["Markdown Processing", "HTTP Requests", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/http-markdown-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-markdown-automation-webhook"
     },
     {
         id: 1023,
@@ -11252,7 +11252,7 @@ const products = [
         description: "Automate sticky note creation from Hacker News via triggered workflows.",
         features: ["Hacker News Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/stickynote-hackernews-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-hackernews-automate-triggered"
     },
     {
         id: 1024,
@@ -11263,7 +11263,7 @@ const products = [
         description: "Automate sticky note creation via triggered workflows.",
         features: ["Sticky Note Creation", "Triggered Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-automate-triggered"
     },
     {
         id: 1025,
@@ -11274,7 +11274,7 @@ const products = [
         description: "Manually schedule automation workflows.",
         features: ["Scheduling", "Manual Trigger", "Scheduled Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/schedule-manual-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-manual-automation-scheduled"
     },
     {
         id: 1026,
@@ -11285,7 +11285,7 @@ const products = [
         description: "Create datetime-based records via webhook automation.",
         features: ["Datetime Processing", "Webhook Creation", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/datetime-webhook-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/datetime-webhook-create-webhook"
     },
     {
         id: 1027,
@@ -11296,7 +11296,7 @@ const products = [
         description: "Automate code execution via webhook.",
         features: ["Code Execution", "Webhook Automation", "Workflow Management"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/webhook-code-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-code-automate-webhook"
     },
     {
         id: 1028,
@@ -11307,7 +11307,7 @@ const products = [
         description: "Automate Telegram tasks on a scheduled basis.",
         features: ["Telegram Integration", "Scheduled Automation", "Workflow Management"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/schedule-telegram-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-telegram-automation-scheduled"
     },
     {
         id: 1029,
@@ -11318,7 +11318,7 @@ const products = [
         description: "Manually send IMAP-read emails via webhook.",
         features: ["IMAP Email Reading", "Manual Trigger", "Webhook Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/emailreadimap-manual-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/emailreadimap-manual-send-webhook"
     },
     {
         id: 1030,
@@ -11329,7 +11329,7 @@ const products = [
         description: "Monitor and execute code via webhook on a schedule.",
         features: ["Code Execution", "Webhook Monitoring", "Scheduled Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-schedule-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-schedule-monitor-webhook"
     },
     {
         id: 1031,
@@ -11340,7 +11340,7 @@ const products = [
         description: "Manually automate Google Docs tasks via triggered workflows.",
         features: ["Google Docs Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/googledocs-manual-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googledocs-manual-automate-triggered"
     },
     {
         id: 1032,
@@ -11351,7 +11351,7 @@ const products = [
         description: "Automate Telegram messages from LinkedIn on a scheduled basis.",
         features: ["LinkedIn Integration", "Telegram Integration", "Scheduled Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/linkedin-telegram-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-telegram-automation-scheduled"
     },
     {
         id: 1033,
@@ -11362,7 +11362,7 @@ const products = [
         description: "Send Markdown-formatted emails read via IMAP.",
         features: ["IMAP Email Reading", "Markdown Formatting", "Email Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/emailreadimap-markdown-send"
+        buyLink: "http://maken8n.gumroad.com/l/emailreadimap-markdown-send"
     },
     {
         id: 1034,
@@ -11373,7 +11373,7 @@ const products = [
         description: "Manually import sticky notes via triggered automation.",
         features: ["Sticky Note Import", "Manual Trigger", "Automation Workflow"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/manual-stickynote-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-import-triggered"
     },
     {
         id: 1035,
@@ -11384,7 +11384,7 @@ const products = [
         description: "Manually trigger code execution automation workflows.",
         features: ["Code Execution", "Manual Trigger", "Automation Workflow"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-manual-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-manual-automation-triggered"
     },
     {
         id: 1036,
@@ -11395,7 +11395,7 @@ const products = [
         description: "Monitor Google Docs and Google Drive via triggered automation.",
         features: ["Google Docs Integration", "Google Drive Integration", "Triggered Monitoring"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/googledocs-googledrivetool-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googledocs-googledrivetool-monitor-triggered"
     },
     {
         id: 1037,
@@ -11406,7 +11406,7 @@ const products = [
         description: "Automate Telegram with wait mechanism via webhook.",
         features: ["Telegram Integration", "Wait Mechanism", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-wait-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-wait-automation-webhook"
     },
     {
         id: 1038,
@@ -11417,7 +11417,7 @@ const products = [
         description: "Automate GitHub tasks with code via webhook.",
         features: ["GitHub Integration", "Code Execution", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-github-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-github-automate-webhook"
     },
     {
         id: 1039,
@@ -11428,7 +11428,7 @@ const products = [
         description: "Manually automate data compression via webhook.",
         features: ["Data Compression", "Manual Trigger", "Webhook Automation"],
         icon: "📦",
-        buyLink: "https://example.com/workflows/compression-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/compression-manual-automation-webhook"
     },
     {
         id: 1040,
@@ -11439,7 +11439,7 @@ const products = [
         description: "Automate error handling for webhooks via webhook.",
         features: ["Error Handling", "Webhook Automation", "Stop Mechanism"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-webhook-automation-webhook"
     },
     {
         id: 1041,
@@ -11450,7 +11450,7 @@ const products = [
         description: "Split and process datetime-based data.",
         features: ["Datetime Processing", "Data Splitting", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/datetime-splitout-process"
+        buyLink: "http://maken8n.gumroad.com/l/datetime-splitout-process"
     },
     {
         id: 1042,
@@ -11461,7 +11461,7 @@ const products = [
         description: "Split and automate Google Calendar tasks via webhook.",
         features: ["Google Calendar Integration", "Data Splitting", "Webhook Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/splitout-googlecalendar-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-googlecalendar-automation-webhook"
     },
     {
         id: 1043,
@@ -11472,7 +11472,7 @@ const products = [
         description: "Create Trello cards using Google Cloud Natural Language via triggered automation.",
         features: ["Trello Integration", "Google Cloud Natural Language", "Triggered Creation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/trello-googlecloudnaturallanguage-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/trello-googlecloudnaturallanguage-create-triggered"
     },
     {
         id: 1044,
@@ -11483,7 +11483,7 @@ const products = [
         description: "Create sticky notes from Telegram via webhook.",
         features: ["Telegram Integration", "Sticky Note Creation", "Webhook Creation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/telegram-stickynote-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-create-webhook"
     },
     {
         id: 1045,
@@ -11494,7 +11494,7 @@ const products = [
         description: "Extract file data with code via triggered automation.",
         features: ["Code Execution", "File Extraction", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/code-extractfromfile-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-extractfromfile-automation-triggered"
     },
     {
         id: 1046,
@@ -11505,7 +11505,7 @@ const products = [
         description: "Automate Trello tasks with limits on a scheduled basis.",
         features: ["Trello Integration", "Task Limiting", "Scheduled Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/trello-limit-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/trello-limit-automate-scheduled"
     },
     {
         id: 1047,
@@ -11516,7 +11516,7 @@ const products = [
         description: "Manually create sticky notes via triggered automation.",
         features: ["Sticky Note Creation", "Manual Trigger", "Automation Workflow"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/manual-stickynote-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-create-triggered"
     },
     {
         id: 1048,
@@ -11527,7 +11527,7 @@ const products = [
         description: "Monitor Telegram with code via webhook.",
         features: ["Telegram Integration", "Code Execution", "Webhook Monitoring"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-code-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-code-monitor-webhook"
     },
     {
         id: 1049,
@@ -11538,7 +11538,7 @@ const products = [
         description: "Split and export Telegram data via webhook.",
         features: ["Telegram Integration", "Data Splitting", "Webhook Export"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-splitout-export-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-export-webhook"
     },
     {
         id: 1050,
@@ -11549,7 +11549,7 @@ const products = [
         description: "Convert code output to files and send via webhook.",
         features: ["Code Execution", "File Conversion", "Webhook Sending"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-converttofile-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-converttofile-send-webhook"
     },
     {
         id: 1051,
@@ -11560,7 +11560,7 @@ const products = [
         description: "Send Microsoft Outlook emails with code via webhook.",
         features: ["Microsoft Outlook Integration", "Code Execution", "Webhook Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/code-microsoftoutlook-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-microsoftoutlook-send-webhook"
     },
     {
         id: 1052,
@@ -11571,7 +11571,7 @@ const products = [
         description: "Send Typeform data to Mattermost via triggered automation.",
         features: ["Mattermost Integration", "Typeform Integration", "Triggered Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/mattermost-typeform-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mattermost-typeform-send-triggered"
     },
 	{
         id: 1053,
@@ -11582,7 +11582,7 @@ const products = [
         description: "Automate Gmail tasks from Telegram via triggered workflows.",
         features: ["Telegram Integration", "Gmail Integration", "Triggered Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/telegram-gmailtool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-gmailtool-automation-triggered"
     },
     {
         id: 1054,
@@ -11593,7 +11593,7 @@ const products = [
         description: "Automate sticky note creation from Slack via triggered workflows.",
         features: ["Slack Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/slack-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/slack-stickynote-automation-triggered"
     },
     {
         id: 1055,
@@ -11604,7 +11604,7 @@ const products = [
         description: "Automate code execution via webhook on a schedule.",
         features: ["Code Execution", "Webhook Automation", "Scheduled Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-schedule-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-schedule-automate-webhook"
     },
     {
         id: 1056,
@@ -11615,7 +11615,7 @@ const products = [
         description: "Aggregate and send Gmail data via triggered automation.",
         features: ["Gmail Integration", "Data Aggregation", "Triggered Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/aggregate-gmail-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/aggregate-gmail-send-triggered"
     },
     {
         id: 1057,
@@ -11626,7 +11626,7 @@ const products = [
         description: "Split and limit data via webhook automation.",
         features: ["Data Splitting", "Data Limiting", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-limit-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-limit-automate-webhook"
     },
     {
         id: 1058,
@@ -11637,7 +11637,7 @@ const products = [
         description: "Manually automate Wordpress tasks via webhook.",
         features: ["Wordpress Integration", "Manual Trigger", "Webhook Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/wordpress-manual-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wordpress-manual-automate-webhook"
     },
     {
         id: 1059,
@@ -11648,7 +11648,7 @@ const products = [
         description: "Automate Jira tasks on a scheduled basis.",
         features: ["Jira Integration", "Scheduled Automation", "Task Management"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/jiratool-schedule-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/jiratool-schedule-automate-scheduled"
     },
     {
         id: 1060,
@@ -11659,7 +11659,7 @@ const products = [
         description: "Split and edit images via triggered automation.",
         features: ["Image Editing", "Data Splitting", "Triggered Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/splitout-editimage-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-editimage-automate-triggered"
     },
     {
         id: 1061,
@@ -11670,7 +11670,7 @@ const products = [
         description: "Automate LinkedIn tasks via webhook on a schedule.",
         features: ["LinkedIn Integration", "Webhook Automation", "Scheduled Automation"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/linkedin-schedule-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-schedule-automate-webhook"
     },
     {
         id: 1062,
@@ -11681,7 +11681,7 @@ const products = [
         description: "Split and send Zendesk data via triggered automation.",
         features: ["Zendesk Integration", "Data Splitting", "Triggered Sending"],
         icon: "🎫",
-        buyLink: "https://example.com/workflows/splitout-zendesk-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-zendesk-send-triggered"
     },
     {
         id: 1063,
@@ -11692,7 +11692,7 @@ const products = [
         description: "Split and automate Google Calendar tasks via webhook.",
         features: ["Google Calendar Integration", "Data Splitting", "Webhook Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/splitout-googlecalendar-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-googlecalendar-automate-webhook"
     },
     {
         id: 1064,
@@ -11703,7 +11703,7 @@ const products = [
         description: "Process Google Docs data via webhook automation.",
         features: ["Google Docs Integration", "Webhook Processing", "Automation Workflow"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/googledocs-webhook-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googledocs-webhook-process-webhook"
     },
     {
         id: 1065,
@@ -11714,7 +11714,7 @@ const products = [
         description: "Automate Strapi tasks via webhook.",
         features: ["Strapi Integration", "Webhook Automation", "Content Management"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/strapi-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/strapi-webhook-automate-webhook"
     },
     {
         id: 1066,
@@ -11725,7 +11725,7 @@ const products = [
         description: "Automate sticky note creation from Telegram via triggered workflows.",
         features: ["Telegram Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/telegram-stickynote-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-automate-triggered"
     },
     {
         id: 1067,
@@ -11736,7 +11736,7 @@ const products = [
         description: "Execute workflows via HTTP webhook automation.",
         features: ["HTTP Requests", "Workflow Execution", "Webhook Automation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/http-executeworkflow-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-executeworkflow-automation-webhook"
     },
     {
         id: 1068,
@@ -11747,7 +11747,7 @@ const products = [
         description: "Split and automate Telegram data via webhook.",
         features: ["Telegram Integration", "Data Splitting", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-splitout-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-automate-webhook"
     },
     {
         id: 1069,
@@ -11758,7 +11758,7 @@ const products = [
         description: "Automate Telegram messages from LinkedIn via webhook.",
         features: ["LinkedIn Integration", "Telegram Integration", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/linkedin-telegram-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-telegram-automate-webhook"
     },
     {
         id: 1070,
@@ -11769,7 +11769,7 @@ const products = [
         description: "Split and edit images via webhook automation.",
         features: ["Image Editing", "Data Splitting", "Webhook Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/splitout-editimage-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-editimage-automation-webhook"
     },
     {
         id: 1071,
@@ -11780,7 +11780,7 @@ const products = [
         description: "Automate Discord tasks on a scheduled basis.",
         features: ["Discord Integration", "Scheduled Automation", "Workflow Management"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/schedule-discord-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-discord-automation-scheduled"
     },
     {
         id: 1072,
@@ -11791,7 +11791,7 @@ const products = [
         description: "Automate Google Sheets updates from Google Calendar via triggered workflows.",
         features: ["Google Calendar Integration", "Google Sheets Integration", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-googlesheets-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-googlesheets-automate-triggered"
     },
     {
         id: 1073,
@@ -11802,7 +11802,7 @@ const products = [
         description: "Automate Gmail tasks from Telegram via triggered workflows.",
         features: ["Telegram Integration", "Gmail Integration", "Triggered Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/telegram-gmail-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-gmail-automation-triggered"
     },
     {
         id: 1074,
@@ -11813,7 +11813,7 @@ const products = [
         description: "Automate form processing via triggered workflows.",
         features: ["Form Processing", "Triggered Automation", "Workflow Management"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/form-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-automation-triggered"
     },
     {
         id: 1075,
@@ -11824,7 +11824,7 @@ const products = [
         description: "Automate Slack tasks via HTTP webhook.",
         features: ["Slack Integration", "HTTP Requests", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/http-slack-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-slack-automation-webhook"
     },
     {
         id: 1076,
@@ -11835,7 +11835,7 @@ const products = [
         description: "Automate sticky note creation from MySQL via webhook.",
         features: ["MySQL Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/mysqltool-stickynote-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/mysqltool-stickynote-automate-webhook"
     },
     {
         id: 1077,
@@ -11846,7 +11846,7 @@ const products = [
         description: "Manually split and automate data via webhook.",
         features: ["Data Splitting", "Manual Trigger", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/manual-splitout-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-splitout-automation-webhook"
     },
     {
         id: 1078,
@@ -11857,7 +11857,7 @@ const products = [
         description: "Split and filter data via triggered automation.",
         features: ["Data Splitting", "Data Filtering", "Triggered Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/splitout-filter-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-filter-automate-triggered"
     },
     {
         id: 1079,
@@ -11868,7 +11868,7 @@ const products = [
         description: "Send Gmail messages from sticky notes via triggered automation.",
         features: ["Gmail Integration", "Sticky Note Sending", "Triggered Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/stickynote-gmail-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-gmail-send-triggered"
     },
     {
         id: 1080,
@@ -11879,7 +11879,7 @@ const products = [
         description: "Automate responses to webhooks via HTTP.",
         features: ["Webhook Response", "HTTP Requests", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-respondtowebhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-respondtowebhook-automate-webhook"
     },
     {
         id: 1081,
@@ -11890,7 +11890,7 @@ const products = [
         description: "Split and automate data via webhook.",
         features: ["Data Splitting", "Webhook Automation", "Workflow Management"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-webhook-automate-webhook"
     },
     {
         id: 1082,
@@ -11901,7 +11901,7 @@ const products = [
         description: "Import code data via webhook automation.",
         features: ["Code Execution", "Webhook Import", "Automation Workflow"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-webhook-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-webhook-import-webhook"
     },
     {
         id: 1083,
@@ -11912,7 +11912,7 @@ const products = [
         description: "Automate local file processing with wait mechanism via triggered workflows.",
         features: ["Local File Processing", "Wait Mechanism", "Triggered Automation"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/localfile-wait-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/localfile-wait-automation-triggered"
     },
     {
         id: 1084,
@@ -11923,7 +11923,7 @@ const products = [
         description: "Create Google Calendar events via webhook.",
         features: ["Google Calendar Integration", "Webhook Creation", "Automation Workflow"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-webhook-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-webhook-create-webhook"
     },
     {
         id: 1085,
@@ -11934,7 +11934,7 @@ const products = [
         description: "Create records with wait mechanism via webhook automation.",
         features: ["Wait Mechanism", "Webhook Creation", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-webhook-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-webhook-create-webhook"
     },
     {
         id: 1086,
@@ -11945,7 +11945,7 @@ const products = [
         description: "Split and create GitHub content via webhook.",
         features: ["GitHub Integration", "Data Splitting", "Webhook Creation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/splitout-github-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-github-create-webhook"
     },
     {
         id: 1087,
@@ -11956,7 +11956,7 @@ const products = [
         description: "Automate code execution with wait mechanism via webhook.",
         features: ["Code Execution", "Wait Mechanism", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/wait-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-code-automation-webhook"
     },
     {
         id: 1088,
@@ -11967,7 +11967,7 @@ const products = [
         description: "Automate tasks via HTTP webhook on a schedule.",
         features: ["HTTP Requests", "Scheduled Automation", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-schedule-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-schedule-automate-webhook"
     },
     {
         id: 1089,
@@ -11978,7 +11978,7 @@ const products = [
         description: "Limit and export Telegram data via triggered automation.",
         features: ["Telegram Integration", "Data Limiting", "Triggered Export"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-limit-export-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-limit-export-triggered"
     },
     {
         id: 1090,
@@ -11989,7 +11989,7 @@ const products = [
         description: "Manually edit images via webhook automation.",
         features: ["Image Editing", "Manual Trigger", "Webhook Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/editimage-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/editimage-manual-automation-webhook"
     },
     {
         id: 1091,
@@ -12000,7 +12000,7 @@ const products = [
         description: "Extract file data via HTTP webhook automation.",
         features: ["File Extraction", "HTTP Requests", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/http-extractfromfile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-extractfromfile-automation-webhook"
     },
     {
         id: 1092,
@@ -12011,7 +12011,7 @@ const products = [
         description: "Import form data to AWS S3 via triggered automation.",
         features: ["AWS S3 Integration", "Form Processing", "Triggered Import"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/form-s3-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-s3-import-triggered"
     },
     {
         id: 1093,
@@ -12022,7 +12022,7 @@ const products = [
         description: "Manually automate Google Drive tasks via triggered workflows.",
         features: ["Google Drive Integration", "Manual Trigger", "Automation Workflow"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-googledrive-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googledrive-automation-triggered"
     },
     {
         id: 1094,
@@ -12033,7 +12033,7 @@ const products = [
         description: "Filter data with code via triggered automation.",
         features: ["Code Execution", "Data Filtering", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-filter-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-filter-automation-triggered"
     },
     {
         id: 1095,
@@ -12044,7 +12044,7 @@ const products = [
         description: "Automate sticky note creation via triggered workflows.",
         features: ["Sticky Note Creation", "Triggered Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-automation-triggered"
     },
     {
         id: 1096,
@@ -12055,7 +12055,7 @@ const products = [
         description: "Automate Telegram with code via triggered workflows.",
         features: ["Telegram Integration", "Code Execution", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-code-automation-triggered"
     },
     {
         id: 1097,
@@ -12066,7 +12066,7 @@ const products = [
         description: "Automate Slack messages from Lemlist via webhook.",
         features: ["Lemlist Integration", "Slack Integration", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/lemlist-slack-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/lemlist-slack-automate-webhook"
     },
     {
         id: 1098,
@@ -12077,7 +12077,7 @@ const products = [
         description: "Create filtered Slack messages via webhook.",
         features: ["Slack Integration", "Data Filtering", "Webhook Creation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/filter-slack-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/filter-slack-create-webhook"
     },
     {
         id: 1099,
@@ -12088,7 +12088,7 @@ const products = [
         description: "Split and automate Redis data via webhook.",
         features: ["Redis Integration", "Data Splitting", "Webhook Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/splitout-redis-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-redis-automation-webhook"
     },
     {
         id: 1100,
@@ -12099,7 +12099,7 @@ const products = [
         description: "Create webhook responses with code via webhook automation.",
         features: ["Code Execution", "Webhook Response", "Webhook Creation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-respondtowebhook-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-respondtowebhook-create-webhook"
     },
     {
         id: 1101,
@@ -12110,7 +12110,7 @@ const products = [
         description: "Automate Google Analytics data from Telegram on a scheduled basis.",
         features: ["Telegram Integration", "Google Analytics Integration", "Scheduled Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/telegram-googleanalytics-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googleanalytics-automation-scheduled"
     },
     {
         id: 1102,
@@ -12121,7 +12121,7 @@ const products = [
         description: "Automate sticky note creation from Slack via webhook.",
         features: ["Slack Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/slack-stickynote-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/slack-stickynote-automate-webhook"
     },
     {
         id: 1103,
@@ -12132,7 +12132,7 @@ const products = [
         description: "Automate Slack tasks on a scheduled basis.",
         features: ["Slack Integration", "Scheduled Automation", "Workflow Management"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/schedule-slack-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-slack-automation-scheduled"
     },
     {
         id: 1104,
@@ -12143,7 +12143,7 @@ const products = [
         description: "Automate code execution via webhook.",
         features: ["Code Execution", "Webhook Automation", "Workflow Management"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-webhook-automate-webhook"
     },
     {
         id: 1105,
@@ -12154,7 +12154,7 @@ const products = [
         description: "Split and send datetime-based data via webhook.",
         features: ["Datetime Processing", "Data Splitting", "Webhook Sending"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/splitout-datetime-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-datetime-send-webhook"
     },
     {
         id: 1106,
@@ -12165,7 +12165,7 @@ const products = [
         description: "Aggregate and automate Telegram data via triggered workflows.",
         features: ["Telegram Integration", "Data Aggregation", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/aggregate-telegram-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/aggregate-telegram-automation-triggered"
     },
     {
         id: 1107,
@@ -12176,7 +12176,7 @@ const products = [
         description: "Split and automate data on a scheduled basis.",
         features: ["Data Splitting", "Scheduled Automation", "Workflow Management"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-automation-scheduled"
     },
     {
         id: 1108,
@@ -12187,7 +12187,7 @@ const products = [
         description: "Monitor and split code data via triggered automation.",
         features: ["Code Execution", "Data Splitting", "Triggered Monitoring"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/splitout-code-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-code-monitor-triggered"
     },
     {
         id: 1109,
@@ -12198,7 +12198,7 @@ const products = [
         description: "General sending automation for custom workflows.",
         features: ["General Sending", "Automation Workflow", "Custom Integration"],
         icon: "📤",
-        buyLink: "https://example.com/workflows/send"
+        buyLink: "http://maken8n.gumroad.com/l/send"
     },
     {
         id: 1110,
@@ -12209,7 +12209,7 @@ const products = [
         description: "Automate Telegram with wait mechanism via triggered workflows.",
         features: ["Telegram Integration", "Wait Mechanism", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-wait-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-wait-automation-triggered"
     },
     {
         id: 1111,
@@ -12220,7 +12220,7 @@ const products = [
         description: "Filter and summarize data via triggered automation.",
         features: ["Data Filtering", "Data Summarization", "Triggered Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/filter-summarize-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/filter-summarize-automation-triggered"
     },
     {
         id: 1112,
@@ -12231,7 +12231,7 @@ const products = [
         description: "Automate NoCodb tasks on a scheduled basis.",
         features: ["NoCodb Integration", "Scheduled Automation", "Workflow Management"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/schedule-nocodb-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-nocodb-automation-scheduled"
     },
     {
         id: 1113,
@@ -12242,7 +12242,7 @@ const products = [
         description: "Automate tasks via HTTP on a scheduled basis.",
         features: ["HTTP Requests", "Scheduled Automation", "Workflow Management"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/http-schedule-automation-scheduled"
     },
     {
         id: 1114,
@@ -12253,7 +12253,7 @@ const products = [
         description: "Extract file data to forms via triggered automation.",
         features: ["File Extraction", "Form Processing", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/form-extractfromfile-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-extractfromfile-automate-triggered"
     },
     {
         id: 1115,
@@ -12264,7 +12264,7 @@ const products = [
         description: "Edit images with code via webhook automation.",
         features: ["Code Execution", "Image Editing", "Webhook Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/code-editimage-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-editimage-automation-webhook"
     },
     {
         id: 1116,
@@ -12275,7 +12275,7 @@ const products = [
         description: "Export code data via webhook on a schedule.",
         features: ["Code Execution", "Webhook Export", "Scheduled Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-schedule-export-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-schedule-export-webhook"
     },
     {
         id: 1117,
@@ -12286,7 +12286,7 @@ const products = [
         description: "Aggregate and send data on a scheduled basis.",
         features: ["Data Aggregation", "Scheduled Sending", "Automation Workflow"],
         icon: "📤",
-        buyLink: "https://example.com/workflows/aggregate-schedule-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/aggregate-schedule-send-scheduled"
     },
 	{
         id: 1118,
@@ -12297,7 +12297,7 @@ const products = [
         description: "Send Redis data with wait mechanism via triggered automation.",
         features: ["Redis Integration", "Wait Mechanism", "Triggered Sending"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/wait-redis-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/wait-redis-send-triggered"
     },
     {
         id: 1119,
@@ -12308,7 +12308,7 @@ const products = [
         description: "Split and automate Strapi data via webhook.",
         features: ["Strapi Integration", "Data Splitting", "Webhook Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/strapi-splitout-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/strapi-splitout-automation-webhook"
     },
     {
         id: 1120,
@@ -12319,7 +12319,7 @@ const products = [
         description: "Automate Slack messages with code via webhook.",
         features: ["Slack Integration", "Code Execution", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/code-slack-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-slack-automation-webhook"
     },
     {
         id: 1121,
@@ -12330,7 +12330,7 @@ const products = [
         description: "Manually process extracted file data via webhook.",
         features: ["File Extraction", "Manual Trigger", "Webhook Processing"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-manual-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-manual-process-webhook"
     },
     {
         id: 1122,
@@ -12341,7 +12341,7 @@ const products = [
         description: "Automate sticky note creation with no-operation via triggered workflows.",
         features: ["Sticky Note Creation", "No-Operation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/noop-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/noop-stickynote-automation-triggered"
     },
     {
         id: 1123,
@@ -12352,7 +12352,7 @@ const products = [
         description: "Split and extract file data via triggered automation.",
         features: ["File Extraction", "Data Splitting", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/splitout-extractfromfile-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-extractfromfile-automation-triggered"
     },
     {
         id: 1124,
@@ -12363,7 +12363,7 @@ const products = [
         description: "Extract and convert file data via webhook automation.",
         features: ["File Extraction", "File Conversion", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-converttofile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-converttofile-automation-webhook"
     },
     {
         id: 1125,
@@ -12374,7 +12374,7 @@ const products = [
         description: "Manually automate tasks via webhook.",
         features: ["Webhook Integration", "Manual Trigger", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-webhook-automate-webhook"
     },
     {
         id: 1126,
@@ -12385,7 +12385,7 @@ const products = [
         description: "Import code with stop and error handling via triggered automation.",
         features: ["Code Import", "Error Handling", "Triggered Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-code-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-code-import-triggered"
     },
     {
         id: 1127,
@@ -12396,7 +12396,7 @@ const products = [
         description: "Automate HTTP requests with wait mechanism via webhook.",
         features: ["HTTP Requests", "Wait Mechanism", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/wait-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-http-automation-webhook"
     },
     {
         id: 1128,
@@ -12407,7 +12407,7 @@ const products = [
         description: "Split and convert data to files via webhook creation.",
         features: ["Data Splitting", "File Conversion", "Webhook Creation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/splitout-converttofile-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-converttofile-create-webhook"
     },
     {
         id: 1129,
@@ -12418,7 +12418,7 @@ const products = [
         description: "Split and aggregate data via triggered creation.",
         features: ["Data Splitting", "Data Aggregation", "Triggered Creation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-aggregate-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-aggregate-create-triggered"
     },
     {
         id: 1130,
@@ -12429,7 +12429,7 @@ const products = [
         description: "Extract and convert file data via triggered creation.",
         features: ["File Extraction", "File Conversion", "Triggered Creation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-converttofile-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-converttofile-create-triggered"
     },
     {
         id: 1131,
@@ -12440,7 +12440,7 @@ const products = [
         description: "Import sticky notes in response to webhooks.",
         features: ["Webhook Response", "Sticky Note Import", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/respondtowebhook-stickynote-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-stickynote-import-webhook"
     },
     {
         id: 1132,
@@ -12451,7 +12451,7 @@ const products = [
         description: "Update Slack via webhook automation.",
         features: ["Slack Integration", "Webhook Updates", "Automation Workflow"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/webhook-slack-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-slack-update-webhook"
     },
     {
         id: 1133,
@@ -12462,7 +12462,7 @@ const products = [
         description: "Automate Todoist tasks with code on a scheduled basis.",
         features: ["Todoist Integration", "Code Execution", "Scheduled Automation"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/code-todoist-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/code-todoist-automate-scheduled"
     },
     {
         id: 1134,
@@ -12473,7 +12473,7 @@ const products = [
         description: "Create sticky notes from Gmail via triggered automation.",
         features: ["Gmail Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/gmail-stickynote-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gmail-stickynote-create-triggered"
     },
     {
         id: 1135,
@@ -12484,7 +12484,7 @@ const products = [
         description: "Automate Google Analytics with code via webhook.",
         features: ["Google Analytics Integration", "Code Execution", "Webhook Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googleanalytics-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googleanalytics-code-automation-webhook"
     },
     {
         id: 1136,
@@ -12495,7 +12495,7 @@ const products = [
         description: "Send form data via HTTP webhook.",
         features: ["Form Processing", "HTTP Requests", "Webhook Sending"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/http-form-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-form-send-webhook"
     },
     {
         id: 1137,
@@ -12506,7 +12506,7 @@ const products = [
         description: "Limit and automate code execution via webhook.",
         features: ["Code Execution", "Data Limiting", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/limit-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/limit-code-automation-webhook"
     },
     {
         id: 1138,
@@ -12517,7 +12517,7 @@ const products = [
         description: "Extract file data and automate Telegram via webhook.",
         features: ["Telegram Integration", "File Extraction", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-extractfromfile-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-extractfromfile-automate-webhook"
     },
     {
         id: 1139,
@@ -12528,7 +12528,7 @@ const products = [
         description: "Extract file data to forms via triggered automation.",
         features: ["File Extraction", "Form Processing", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-form-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-form-automation-triggered"
     },
     {
         id: 1140,
@@ -12539,7 +12539,7 @@ const products = [
         description: "Automate Twilio tasks via webhook on a schedule.",
         features: ["Twilio Integration", "Webhook Automation", "Scheduled Automation"],
         icon: "📞",
-        buyLink: "https://example.com/workflows/schedule-twilio-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-twilio-automation-webhook"
     },
     {
         id: 1141,
@@ -12550,7 +12550,7 @@ const products = [
         description: "Extract file data to forms via webhook automation.",
         features: ["File Extraction", "Form Processing", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/extractfromfile-form-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/extractfromfile-form-automation-webhook"
     },
     {
         id: 1142,
@@ -12561,7 +12561,7 @@ const products = [
         description: "Automate Microsoft To Do tasks via webhook.",
         features: ["Microsoft To Do Integration", "Webhook Automation", "Task Management"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/microsofttodo-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/microsofttodo-webhook-automation-webhook"
     },
     {
         id: 1143,
@@ -12572,7 +12572,7 @@ const products = [
         description: "Split and limit data import via webhook.",
         features: ["Data Splitting", "Data Limiting", "Webhook Import"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-limit-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-limit-import-webhook"
     },
     {
         id: 1144,
@@ -12583,7 +12583,7 @@ const products = [
         description: "Sync limited data with stop and error handling via webhook.",
         features: ["Data Limiting", "Error Handling", "Webhook Sync"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-limit-sync-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-limit-sync-webhook"
     },
     {
         id: 1145,
@@ -12594,7 +12594,7 @@ const products = [
         description: "Split and filter data for monitoring via triggered automation.",
         features: ["Data Splitting", "Data Filtering", "Triggered Monitoring"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/splitout-filter-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-filter-monitor-triggered"
     },
     {
         id: 1146,
@@ -12605,7 +12605,7 @@ const products = [
         description: "Automate Slack tasks via webhook.",
         features: ["Slack Integration", "Webhook Automation", "Workflow Management"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/webhook-slack-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-slack-automate-webhook"
     },
     {
         id: 1147,
@@ -12616,7 +12616,7 @@ const products = [
         description: "Manually export data via HTTP webhook.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Export"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-http-export-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-http-export-webhook"
     },
     {
         id: 1148,
@@ -12627,7 +12627,7 @@ const products = [
         description: "Automate code execution with stop and error handling via webhook.",
         features: ["Code Execution", "Error Handling", "Webhook Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-code-automation-webhook"
     },
     {
         id: 1149,
@@ -12638,7 +12638,7 @@ const products = [
         description: "Execute workflows from sticky notes via webhook automation.",
         features: ["Sticky Note Integration", "Workflow Execution", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-executeworkflow-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-executeworkflow-automation-webhook"
     },
     {
         id: 1150,
@@ -12649,7 +12649,7 @@ const products = [
         description: "Automate code execution with datetime processing via webhook.",
         features: ["Code Execution", "Datetime Processing", "Webhook Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/datetime-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/datetime-code-automation-webhook"
     },
     {
         id: 1151,
@@ -12660,7 +12660,7 @@ const products = [
         description: "Send sticky notes via Telegram with triggered automation.",
         features: ["Telegram Integration", "Sticky Note Sending", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-stickynote-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-send-triggered"
     },
 	{
         id: 1152,
@@ -12671,7 +12671,7 @@ const products = [
         description: "Manually process code execution via webhook.",
         features: ["Code Execution", "Manual Trigger", "Webhook Processing"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-manual-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-manual-process-webhook"
     },
     {
         id: 1153,
@@ -12682,7 +12682,7 @@ const products = [
         description: "Automate responses to webhooks via HTTP.",
         features: ["HTTP Requests", "Webhook Response", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-respondtowebhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-respondtowebhook-automation-webhook"
     },
     {
         id: 1154,
@@ -12693,7 +12693,7 @@ const products = [
         description: "Automate sticky note creation from WhatsApp via webhook.",
         features: ["WhatsApp Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/whatsapp-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/whatsapp-stickynote-automation-webhook"
     },
     {
         id: 1155,
@@ -12704,7 +12704,7 @@ const products = [
         description: "Send Telegram messages on a schedule via webhook.",
         features: ["Telegram Integration", "Scheduled Sending", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-schedule-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-schedule-send-webhook"
     },
     {
         id: 1156,
@@ -12715,7 +12715,7 @@ const products = [
         description: "Automate code execution with datetime processing on a schedule.",
         features: ["Code Execution", "Datetime Processing", "Scheduled Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/datetime-code-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/datetime-code-automation-scheduled"
     },
     {
         id: 1157,
@@ -12726,7 +12726,7 @@ const products = [
         description: "Automate Mautic tasks via webhook.",
         features: ["Mautic Integration", "Webhook Automation", "Workflow Management"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/mautic-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/mautic-webhook-automation-webhook"
     },
     {
         id: 1158,
@@ -12737,7 +12737,7 @@ const products = [
         description: "Limit and automate tasks on a scheduled basis.",
         features: ["Data Limiting", "Scheduled Automation", "Workflow Management"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/limit-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/limit-schedule-automation-scheduled"
     },
     {
         id: 1159,
@@ -12748,7 +12748,7 @@ const products = [
         description: "Manually send Gmail messages via triggered automation.",
         features: ["Gmail Integration", "Manual Trigger", "Triggered Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/manual-gmail-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-gmail-send-triggered"
     },
     {
         id: 1160,
@@ -12759,7 +12759,7 @@ const products = [
         description: "Split and sync datasets via webhook.",
         features: ["Data Splitting", "Dataset Comparison", "Webhook Sync"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-comparedatasets-sync-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-comparedatasets-sync-webhook"
     },
     {
         id: 1161,
@@ -12770,7 +12770,7 @@ const products = [
         description: "Manually automate tasks with wait mechanism via webhook.",
         features: ["Wait Mechanism", "Manual Trigger", "Webhook Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/manual-wait-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-wait-automation-webhook"
     },
     {
         id: 1162,
@@ -12781,7 +12781,7 @@ const products = [
         description: "Automate sticky note creation from Google Calendar via triggered workflows.",
         features: ["Google Calendar Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-googlecalendartool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-googlecalendartool-automation-triggered"
     },
     {
         id: 1163,
@@ -12792,7 +12792,7 @@ const products = [
         description: "Extract file data from RSS feeds via webhook automation.",
         features: ["RSS Feed Integration", "File Extraction", "Webhook Automation"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/rssfeedread-extractfromfile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/rssfeedread-extractfromfile-automation-webhook"
     },
     {
         id: 1164,
@@ -12803,7 +12803,7 @@ const products = [
         description: "Automate Google Sheets updates from forms via triggered workflows.",
         features: ["Form Processing", "Google Sheets Integration", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/form-googlesheets-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-googlesheets-automation-triggered"
     },
     {
         id: 1165,
@@ -12814,7 +12814,7 @@ const products = [
         description: "Automate Google Calendar tasks via HTTP webhook.",
         features: ["Google Calendar Integration", "HTTP Requests", "Webhook Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/http-googlecalendartool-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-googlecalendartool-automation-webhook"
     },
     {
         id: 1166,
@@ -12825,7 +12825,7 @@ const products = [
         description: "Split and automate Telegram data via triggered workflows.",
         features: ["Telegram Integration", "Data Splitting", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-splitout-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-splitout-automation-triggered"
     },
     {
         id: 1167,
@@ -12836,7 +12836,7 @@ const products = [
         description: "Automate Markdown-formatted sticky notes via webhook.",
         features: ["Markdown Formatting", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/markdown-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/markdown-stickynote-automation-webhook"
     },
     {
         id: 1168,
@@ -12847,7 +12847,7 @@ const products = [
         description: "Split and create HTTP data via webhook.",
         features: ["Data Splitting", "HTTP Requests", "Webhook Creation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/splitout-http-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-http-create-webhook"
     },
     {
         id: 1169,
@@ -12858,7 +12858,7 @@ const products = [
         description: "Manually trigger code execution automation workflows.",
         features: ["Code Execution", "Manual Trigger", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/manual-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-code-automation-triggered"
     },
     {
         id: 1170,
@@ -12869,7 +12869,7 @@ const products = [
         description: "Automate Dropbox tasks with wait mechanism via webhook.",
         features: ["Dropbox Integration", "Wait Mechanism", "Webhook Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/wait-dropbox-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-dropbox-automation-webhook"
     },
     {
         id: 1171,
@@ -12880,7 +12880,7 @@ const products = [
         description: "Manually automate Wordpress tasks via webhook.",
         features: ["Wordpress Integration", "Manual Trigger", "Webhook Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/wordpress-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wordpress-manual-automation-webhook"
     },
     {
         id: 1172,
@@ -12891,7 +12891,7 @@ const products = [
         description: "Send Monday.com data on a scheduled basis.",
         features: ["Monday.com Integration", "Scheduled Sending", "Automation Workflow"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/mondaycom-schedule-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/mondaycom-schedule-send-scheduled"
     },
     {
         id: 1173,
@@ -12902,7 +12902,7 @@ const products = [
         description: "Manually trigger data summarization automation workflows.",
         features: ["Data Summarization", "Manual Trigger", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-summarize-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-summarize-automation-triggered"
     },
     {
         id: 1174,
@@ -12913,7 +12913,7 @@ const products = [
         description: "Split and automate Monday.com data via webhook.",
         features: ["Monday.com Integration", "Data Splitting", "Webhook Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/mondaycom-splitout-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/mondaycom-splitout-automation-webhook"
     },
     {
         id: 1175,
@@ -12924,7 +12924,7 @@ const products = [
         description: "Manually import filtered data via webhook.",
         features: ["Data Filtering", "Manual Trigger", "Webhook Import"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/filter-manual-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/filter-manual-import-webhook"
     },
     {
         id: 1176,
@@ -12935,7 +12935,7 @@ const products = [
         description: "Monitor tasks with wait mechanism on a scheduled basis.",
         features: ["Wait Mechanism", "Scheduled Monitoring", "Automation Workflow"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-schedule-monitor-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-schedule-monitor-scheduled"
     },
     {
         id: 1177,
@@ -12946,7 +12946,7 @@ const products = [
         description: "Manually create split data via webhook.",
         features: ["Data Splitting", "Manual Trigger", "Webhook Creation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-manual-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-manual-create-webhook"
     },
     {
         id: 1178,
@@ -12957,7 +12957,7 @@ const products = [
         description: "Automate sticky note creation from Notion via triggered workflows.",
         features: ["Notion Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-notion-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-notion-automation-triggered"
     },
     {
         id: 1179,
@@ -12968,7 +12968,7 @@ const products = [
         description: "Automate sticky note creation from Notion via webhook.",
         features: ["Notion Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-notion-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-notion-automation-webhook"
     },
     {
         id: 1180,
@@ -12979,7 +12979,7 @@ const products = [
         description: "Automate tasks with wait mechanism on a scheduled basis.",
         features: ["Wait Mechanism", "Scheduled Automation", "Workflow Management"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-schedule-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-schedule-automate-scheduled"
     },
     {
         id: 1181,
@@ -12990,7 +12990,7 @@ const products = [
         description: "Create Slack messages from Google Calendar via webhook.",
         features: ["Google Calendar Integration", "Slack Integration", "Webhook Creation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-slack-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-slack-create-webhook"
     },
     {
         id: 1182,
@@ -13001,7 +13001,7 @@ const products = [
         description: "Create YouTube content on a scheduled basis.",
         features: ["YouTube Integration", "Scheduled Creation", "Automation Workflow"],
         icon: "🎥",
-        buyLink: "https://example.com/workflows/schedule-youtube-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-youtube-create-scheduled"
     },
     {
         id: 1183,
@@ -13012,7 +13012,7 @@ const products = [
         description: "Automate WooCommerce tasks from Telegram via webhook.",
         features: ["Telegram Integration", "WooCommerce Integration", "Webhook Automation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/telegramtool-woocommercetool-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegramtool-woocommercetool-automate-webhook"
     },
     {
         id: 1184,
@@ -13023,7 +13023,7 @@ const products = [
         description: "Aggregate and automate sticky note creation via webhook.",
         features: ["Sticky Note Creation", "Data Aggregation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/aggregate-stickynote-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/aggregate-stickynote-automate-webhook"
     },
     {
         id: 1185,
@@ -13034,7 +13034,7 @@ const products = [
         description: "Automate code execution via webhook.",
         features: ["Code Execution", "Webhook Automation", "Workflow Management"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/webhook-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-code-automation-webhook"
     },
     {
         id: 1186,
@@ -13045,7 +13045,7 @@ const products = [
         description: "Summarize and automate sticky note creation via triggered workflows.",
         features: ["Data Summarization", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/summarize-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/summarize-stickynote-automation-triggered"
     },
     {
         id: 1187,
@@ -13056,7 +13056,7 @@ const products = [
         description: "Respond to webhooks with code via webhook automation.",
         features: ["Code Execution", "Webhook Response", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-respondtowebhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-respondtowebhook-automate-webhook"
     },
     {
         id: 1188,
@@ -13067,7 +13067,7 @@ const products = [
         description: "Execute commands on local files via triggered automation.",
         features: ["Command Execution", "Local File Processing", "Triggered Automation"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/executecommand-localfile-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/executecommand-localfile-automation-triggered"
     },
     {
         id: 1189,
@@ -13078,7 +13078,7 @@ const products = [
         description: "Automate tasks with wait mechanism via webhook.",
         features: ["Wait Mechanism", "Webhook Automation", "Workflow Management"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-webhook-automation-webhook"
     },
     {
         id: 1190,
@@ -13089,7 +13089,7 @@ const products = [
         description: "Import data via HTTP webhook on a schedule.",
         features: ["HTTP Requests", "Scheduled Import", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-schedule-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-schedule-import-webhook"
     },
     {
         id: 1191,
@@ -13100,7 +13100,7 @@ const products = [
         description: "Automate code execution via webhook on a schedule.",
         features: ["Code Execution", "Scheduled Automation", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-schedule-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-schedule-automation-webhook"
     },
     {
         id: 1192,
@@ -13111,7 +13111,7 @@ const products = [
         description: "Update Telegram data on a schedule via webhook.",
         features: ["Telegram Integration", "Scheduled Updates", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-schedule-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-schedule-update-webhook"
     },
     {
         id: 1193,
@@ -13122,7 +13122,7 @@ const products = [
         description: "Automate Telegram with code via webhook.",
         features: ["Telegram Integration", "Code Execution", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-code-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-code-automate-webhook"
     },
     {
         id: 1194,
@@ -13133,7 +13133,7 @@ const products = [
         description: "General export automation for custom workflows.",
         features: ["General Export", "Automation Workflow", "Custom Integration"],
         icon: "📤",
-        buyLink: "https://example.com/workflows/export"
+        buyLink: "http://maken8n.gumroad.com/l/export"
     },
     {
         id: 1195,
@@ -13144,7 +13144,7 @@ const products = [
         description: "Manually automate WooCommerce tasks via webhook.",
         features: ["WooCommerce Integration", "Manual Trigger", "Webhook Automation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/woocommercetool-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/woocommercetool-manual-automation-webhook"
     },
     {
         id: 1196,
@@ -13155,7 +13155,7 @@ const products = [
         description: "Automate code execution with wait mechanism on a scheduled basis.",
         features: ["Code Execution", "Wait Mechanism", "Scheduled Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/wait-code-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-code-automation-scheduled"
     },
     {
         id: 1197,
@@ -13166,7 +13166,7 @@ const products = [
         description: "Sync Notion data on a scheduled basis.",
         features: ["Notion Integration", "Scheduled Sync", "Automation Workflow"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/schedule-notion-sync-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-notion-sync-scheduled"
     },
     {
         id: 1198,
@@ -13177,7 +13177,7 @@ const products = [
         description: "Automate tasks with wait mechanism on a scheduled basis.",
         features: ["Wait Mechanism", "Scheduled Automation", "Workflow Management"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-schedule-automation-scheduled"
     },
     {
         id: 1199,
@@ -13188,7 +13188,7 @@ const products = [
         description: "Automate Google Docs tasks from Telegram via triggered workflows.",
         features: ["Telegram Integration", "Google Docs Integration", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/telegram-googledocs-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googledocs-automate-triggered"
     },
     {
         id: 1200,
@@ -13199,7 +13199,7 @@ const products = [
         description: "Automate sticky note creation from forms via triggered workflows.",
         features: ["Form Processing", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/form-stickynote-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-stickynote-automate-triggered"
     },
     {
         id: 1201,
@@ -13210,7 +13210,7 @@ const products = [
         description: "Automate Pipedrive tasks with code via triggered workflows.",
         features: ["Pipedrive Integration", "Code Execution", "Triggered Automation"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/code-pipedrive-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-pipedrive-automation-triggered"
     },
     {
         id: 1202,
@@ -13221,7 +13221,7 @@ const products = [
         description: "Automate Google Calendar tasks from forms via triggered workflows.",
         features: ["Google Calendar Integration", "Form Processing", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-form-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-form-automation-triggered"
     },
     {
         id: 1203,
@@ -13232,7 +13232,7 @@ const products = [
         description: "Manually automate sticky note creation via webhook.",
         features: ["Sticky Note Creation", "Manual Trigger", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/manual-stickynote-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-stickynote-automate-webhook"
     },
     {
         id: 1204,
@@ -13243,7 +13243,7 @@ const products = [
         description: "Manually trigger N8N automation workflows.",
         features: ["N8N Integration", "Manual Trigger", "Triggered Automation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-n8n-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-n8n-automation-triggered"
     },
     {
         id: 1205,
@@ -13254,7 +13254,7 @@ const products = [
         description: "Split and monitor data via webhook on a schedule.",
         features: ["Data Splitting", "Scheduled Monitoring", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-schedule-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-monitor-webhook"
     },
     {
         id: 1206,
@@ -13265,7 +13265,7 @@ const products = [
         description: "Send emails with code via webhook automation.",
         features: ["Email Sending", "Code Execution", "Webhook Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/emailsend-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/emailsend-code-automation-webhook"
     },
     {
         id: 1207,
@@ -13276,7 +13276,7 @@ const products = [
         description: "Automate sticky note creation on a scheduled basis.",
         features: ["Sticky Note Creation", "Scheduled Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/schedule-stickynote-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-stickynote-automation-scheduled"
     },
     {
         id: 1208,
@@ -13287,7 +13287,7 @@ const products = [
         description: "Automate form processing with code via triggered workflows.",
         features: ["Code Execution", "Form Processing", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-form-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-form-automation-triggered"
     },
     {
         id: 1209,
@@ -13298,7 +13298,7 @@ const products = [
         description: "Monitor Telegram data via HTTP webhook.",
         features: ["Telegram Integration", "HTTP Requests", "Webhook Monitoring"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/http-telegram-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-telegram-monitor-webhook"
     },
     {
         id: 1210,
@@ -13309,7 +13309,7 @@ const products = [
         description: "Split and automate local file data via triggered workflows.",
         features: ["Local File Processing", "Data Splitting", "Triggered Automation"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/localfile-splitout-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/localfile-splitout-automation-triggered"
     },
     {
         id: 1211,
@@ -13320,7 +13320,7 @@ const products = [
         description: "Manually automate Slack tasks via webhook.",
         features: ["Slack Integration", "Manual Trigger", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/slack-manual-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/slack-manual-automate-webhook"
     },
     {
         id: 1212,
@@ -13331,7 +13331,7 @@ const products = [
         description: "Split and convert data to files for sending via webhook.",
         features: ["Data Splitting", "File Conversion", "Webhook Sending"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/splitout-converttofile-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-converttofile-send-webhook"
     },
     {
         id: 1213,
@@ -13342,7 +13342,7 @@ const products = [
         description: "Send data via HTTP webhook on a schedule.",
         features: ["HTTP Requests", "Scheduled Sending", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-schedule-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-schedule-send-webhook"
     },
     {
         id: 1214,
@@ -13353,7 +13353,7 @@ const products = [
         description: "Split and monitor data on a scheduled basis.",
         features: ["Data Splitting", "Scheduled Monitoring", "Automation Workflow"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-schedule-monitor-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-monitor-scheduled"
     },
     {
         id: 1215,
@@ -13364,7 +13364,7 @@ const products = [
         description: "Monitor Google Sheets and create sticky notes via triggered automation.",
         features: ["Google Sheets Integration", "Sticky Note Creation", "Triggered Monitoring"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/googlesheets-stickynote-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-stickynote-monitor-triggered"
     },
     {
         id: 1216,
@@ -13375,7 +13375,7 @@ const products = [
         description: "Automate Discord tasks with Bannerbear via webhook.",
         features: ["Bannerbear Integration", "Discord Integration", "Webhook Automation"],
         icon: "🖼️",
-        buyLink: "https://example.com/workflows/bannerbear-discord-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/bannerbear-discord-automation-webhook"
     },
     {
         id: 1217,
@@ -13386,7 +13386,7 @@ const products = [
         description: "Filter and automate Google Calendar tasks via triggered workflows.",
         features: ["Google Calendar Integration", "Data Filtering", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendar-filter-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendar-filter-automation-triggered"
     },
     {
         id: 1218,
@@ -13397,7 +13397,7 @@ const products = [
         description: "Automate Google Sheets updates from Google Drive via triggered workflows.",
         features: ["Google Drive Integration", "Google Sheets Integration", "Triggered Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/googledrive-googlesheets-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googledrive-googlesheets-automation-triggered"
     },
     {
         id: 1219,
@@ -13408,7 +13408,7 @@ const products = [
         description: "Automate sticky note creation from Supabase via triggered workflows.",
         features: ["Supabase Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/supabase-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/supabase-stickynote-automation-triggered"
     },
     {
         id: 1220,
@@ -13419,7 +13419,7 @@ const products = [
         description: "Automate Google Calendar tasks from Telegram on a scheduled basis.",
         features: ["Telegram Integration", "Google Calendar Integration", "Scheduled Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/telegram-googlecalendar-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googlecalendar-automation-scheduled"
     },
     {
         id: 1221,
@@ -13430,7 +13430,7 @@ const products = [
         description: "Automate Slack tasks from Airtop via triggered workflows.",
         features: ["Airtop Slack Integration", "Slack Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/airtoptool-slack-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/airtoptool-slack-automation-triggered"
     },
 	{
         id: 1222,
@@ -13441,7 +13441,7 @@ const products = [
         description: "Automate Telegram tasks via HTTP webhook.",
         features: ["Telegram Integration", "HTTP Requests", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/http-telegram-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-telegram-automate-webhook"
     },
     {
         id: 1223,
@@ -13452,7 +13452,7 @@ const products = [
         description: "Automate HTTP tasks via webhook.",
         features: ["HTTP Requests", "Webhook Automation", "Workflow Management"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/webhook-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-http-automation-webhook"
     },
     {
         id: 1224,
@@ -13463,7 +13463,7 @@ const products = [
         description: "Automate code execution with wait mechanism via webhook.",
         features: ["Code Execution", "Wait Mechanism", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/wait-code-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-code-automate-webhook"
     },
     {
         id: 1225,
@@ -13474,7 +13474,7 @@ const products = [
         description: "Monitor HTTP data on a scheduled basis.",
         features: ["HTTP Requests", "Scheduled Monitoring", "Automation Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/schedule-http-monitor-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-http-monitor-scheduled"
     },
     {
         id: 1226,
@@ -13485,7 +13485,7 @@ const products = [
         description: "Automate sticky note creation via webhook.",
         features: ["Sticky Note Creation", "Webhook Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-webhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-webhook-automation-webhook"
     },
     {
         id: 1227,
@@ -13496,7 +13496,7 @@ const products = [
         description: "Manually automate tasks with wait mechanism via webhook.",
         features: ["Wait Mechanism", "Manual Trigger", "Webhook Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-manual-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-manual-automate-webhook"
     },
     {
         id: 1228,
@@ -13507,7 +13507,7 @@ const products = [
         description: "Automate Wordpress tasks from LinkedIn via webhook.",
         features: ["LinkedIn Integration", "Wordpress Integration", "Webhook Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/linkedin-wordpress-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-wordpress-automation-webhook"
     },
     {
         id: 1229,
@@ -13518,7 +13518,7 @@ const products = [
         description: "Limit and automate code execution via webhook.",
         features: ["Code Execution", "Data Limiting", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/limit-code-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/limit-code-automate-webhook"
     },
     {
         id: 1230,
@@ -13529,7 +13529,7 @@ const products = [
         description: "Manually start and update data via webhook.",
         features: ["Manual Trigger", "Webhook Updates", "Automation Workflow"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-start-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-start-update-webhook"
     },
     {
         id: 1231,
@@ -13540,7 +13540,7 @@ const products = [
         description: "Manually split and automate data via webhook.",
         features: ["Data Splitting", "Manual Trigger", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-manual-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-manual-automate-webhook"
     },
     {
         id: 1232,
@@ -13551,7 +13551,7 @@ const products = [
         description: "Process code execution via HTTP webhook.",
         features: ["Code Execution", "HTTP Requests", "Webhook Processing"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/http-code-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-code-process-webhook"
     },
     {
         id: 1233,
@@ -13562,7 +13562,7 @@ const products = [
         description: "Manually automate Airtable tasks via triggered workflows.",
         features: ["Airtable Integration", "Manual Trigger", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-airtop-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-airtop-automation-triggered"
     },
     {
         id: 1234,
@@ -13573,7 +13573,7 @@ const products = [
         description: "Automate tasks with wait mechanism via webhook on a schedule.",
         features: ["Wait Mechanism", "Scheduled Automation", "Webhook Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-schedule-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-schedule-automation-webhook"
     },
     {
         id: 1235,
@@ -13584,7 +13584,7 @@ const products = [
         description: "Compare datasets on a scheduled basis.",
         features: ["Dataset Comparison", "Scheduled Automation", "Automation Workflow"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/schedule-comparedatasets-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-comparedatasets-automation-scheduled"
     },
     {
         id: 1236,
@@ -13595,7 +13595,7 @@ const products = [
         description: "Create Gumroad content from Telegram via webhook.",
         features: ["Telegram Integration", "Gumroad Integration", "Webhook Creation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/telegram-gumroad-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-gumroad-create-webhook"
     },
     {
         id: 1237,
@@ -13606,7 +13606,7 @@ const products = [
         description: "Split and automate NoCodb data via webhook.",
         features: ["NoCodb Integration", "Data Splitting", "Webhook Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/splitout-nocodb-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-nocodb-automation-webhook"
     },
     {
         id: 1238,
@@ -13617,7 +13617,7 @@ const products = [
         description: "Sync code execution with wait mechanism on a scheduled basis.",
         features: ["Code Execution", "Wait Mechanism", "Scheduled Sync"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/wait-code-sync-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-code-sync-scheduled"
     },
     {
         id: 1239,
@@ -13628,7 +13628,7 @@ const products = [
         description: "Automate Twitter tasks via triggered workflows.",
         features: ["Twitter Integration", "Triggered Automation", "Workflow Management"],
         icon: "🐦",
-        buyLink: "https://example.com/workflows/twittertool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/twittertool-automation-triggered"
     },
     {
         id: 1240,
@@ -13639,7 +13639,7 @@ const products = [
         description: "Send Todoist data on a scheduled basis.",
         features: ["Todoist Integration", "Scheduled Sending", "Automation Workflow"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/todoist-schedule-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/todoist-schedule-send-scheduled"
     },
     {
         id: 1241,
@@ -13650,7 +13650,7 @@ const products = [
         description: "Extract and import file data on a scheduled basis.",
         features: ["File Extraction", "Scheduled Import", "Automation Workflow"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/schedule-extractfromfile-import-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-extractfromfile-import-scheduled"
     },
     {
         id: 1242,
@@ -13661,7 +13661,7 @@ const products = [
         description: "Filter and automate tasks on a scheduled basis.",
         features: ["Data Filtering", "Scheduled Automation", "Workflow Management"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/filter-schedule-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/filter-schedule-automation-scheduled"
     },
     {
         id: 1243,
@@ -13672,7 +13672,7 @@ const products = [
         description: "Automate Wordpress tasks from Postgres via webhook.",
         features: ["Postgres Integration", "Wordpress Integration", "Webhook Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/postgres-wordpress-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/postgres-wordpress-automation-webhook"
     },
     {
         id: 1244,
@@ -13683,7 +13683,7 @@ const products = [
         description: "Automate Slack tasks with execution data via webhook.",
         features: ["Slack Integration", "Execution Data", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/executiondata-slack-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/executiondata-slack-automate-webhook"
     },
     {
         id: 1245,
@@ -13694,7 +13694,7 @@ const products = [
         description: "Monitor and filter code data via triggered automation.",
         features: ["Code Execution", "Data Filtering", "Triggered Monitoring"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-filter-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-filter-monitor-triggered"
     },
     {
         id: 1246,
@@ -13705,7 +13705,7 @@ const products = [
         description: "Split and automate GitHub data via webhook.",
         features: ["GitHub Integration", "Data Splitting", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/splitout-github-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-github-automate-webhook"
     },
     {
         id: 1247,
@@ -13716,7 +13716,7 @@ const products = [
         description: "Extract file data with code via triggered automation.",
         features: ["Code Execution", "File Extraction", "Triggered Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/code-extractfromfile-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-extractfromfile-automate-triggered"
     },
     {
         id: 1248,
@@ -13727,7 +13727,7 @@ const products = [
         description: "Aggregate and automate form data via triggered workflows.",
         features: ["Form Processing", "Data Aggregation", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/form-aggregate-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-aggregate-automation-triggered"
     },
     {
         id: 1249,
@@ -13738,7 +13738,7 @@ const products = [
         description: "Process filtered code data via triggered automation.",
         features: ["Code Execution", "Data Filtering", "Triggered Processing"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-filter-process-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-filter-process-triggered"
     },
     {
         id: 1250,
@@ -13749,7 +13749,7 @@ const products = [
         description: "Manually automate Google Sheets tasks via triggered workflows.",
         features: ["Google Sheets Integration", "Manual Trigger", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-googlesheets-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googlesheets-automation-triggered"
     },
     {
         id: 1251,
@@ -13760,7 +13760,7 @@ const products = [
         description: "Automate form data via HTTP webhook.",
         features: ["Form Processing", "HTTP Requests", "Webhook Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/form-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/form-http-automation-webhook"
     },
     {
         id: 1252,
@@ -13771,7 +13771,7 @@ const products = [
         description: "Automate tasks with wait and error handling via webhook.",
         features: ["Wait Mechanism", "Error Handling", "Webhook Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-wait-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-wait-automation-webhook"
     },
     {
         id: 1253,
@@ -13782,7 +13782,7 @@ const products = [
         description: "Sync Jira tasks to sticky notes via triggered automation.",
         features: ["Jira Integration", "Sticky Note Creation", "Triggered Sync"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/jira-stickynote-sync-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/jira-stickynote-sync-triggered"
     },
     {
         id: 1254,
@@ -13793,7 +13793,7 @@ const products = [
         description: "Extract file data via webhook automation.",
         features: ["File Extraction", "Webhook Automation", "Workflow Management"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/webhook-extractfromfile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-extractfromfile-automation-webhook"
     },
     {
         id: 1255,
@@ -13804,7 +13804,7 @@ const products = [
         description: "Filter and monitor RSS feed data on a scheduled basis.",
         features: ["RSS Feed Integration", "Data Filtering", "Scheduled Monitoring"],
         icon: "📰",
-        buyLink: "https://example.com/workflows/filter-rssfeedread-monitor-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/filter-rssfeedread-monitor-scheduled"
     },
     {
         id: 1256,
@@ -13815,7 +13815,7 @@ const products = [
         description: "Sync Stripe data via HTTP webhook.",
         features: ["Stripe Integration", "HTTP Requests", "Webhook Sync"],
         icon: "💳",
-        buyLink: "https://example.com/workflows/http-stripe-sync-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-stripe-sync-webhook"
     },
     {
         id: 1257,
@@ -13826,7 +13826,7 @@ const products = [
         description: "Import code data from Telegram via triggered automation.",
         features: ["Telegram Integration", "Code Import", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-code-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-code-import-triggered"
     },
     {
         id: 1258,
@@ -13837,7 +13837,7 @@ const products = [
         description: "Manually automate FTP tasks via triggered workflows.",
         features: ["FTP Integration", "Manual Trigger", "Triggered Automation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/manual-ftp-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-ftp-automation-triggered"
     },
     {
         id: 1259,
@@ -13848,7 +13848,7 @@ const products = [
         description: "Send Postgres data with error handling via triggered automation.",
         features: ["Postgres Integration", "Error Handling", "Triggered Sending"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/error-postgres-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/error-postgres-send-triggered"
     },
     {
         id: 1260,
@@ -13859,7 +13859,7 @@ const products = [
         description: "Split and import Monday.com data via triggered automation.",
         features: ["Monday.com Integration", "Data Splitting", "Triggered Import"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/mondaycom-splitout-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mondaycom-splitout-import-triggered"
     },
     {
         id: 1261,
@@ -13870,7 +13870,7 @@ const products = [
         description: "Split and automate Postgres data via triggered workflows.",
         features: ["Postgres Integration", "Data Splitting", "Triggered Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/splitout-postgres-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-postgres-automation-triggered"
     },
     {
         id: 1262,
@@ -13881,7 +13881,7 @@ const products = [
         description: "Split and filter data via triggered automation.",
         features: ["Data Splitting", "Data Filtering", "Triggered Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/splitout-filter-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-filter-automation-triggered"
     },
     {
         id: 1263,
@@ -13892,7 +13892,7 @@ const products = [
         description: "Automate ClickUp tasks with stop and error handling via webhook.",
         features: ["ClickUp Integration", "Error Handling", "Webhook Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-clickup-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-clickup-automation-webhook"
     },
     {
         id: 1264,
@@ -13903,7 +13903,7 @@ const products = [
         description: "Split and summarize data via triggered automation.",
         features: ["Data Splitting", "Data Summarization", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/splitout-summarize-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-summarize-automation-triggered"
     },
     {
         id: 1265,
@@ -13914,7 +13914,7 @@ const products = [
         description: "Filter and create summarized data via triggered automation.",
         features: ["Data Filtering", "Data Summarization", "Triggered Creation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/filter-summarize-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/filter-summarize-create-triggered"
     },
     {
         id: 1266,
@@ -13925,7 +13925,7 @@ const products = [
         description: "Execute workflows from Google Calendar via triggered automation.",
         features: ["Google Calendar Integration", "Workflow Execution", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendartool-executeworkflow-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendartool-executeworkflow-automation-triggered"
     },
     {
         id: 1267,
@@ -13936,7 +13936,7 @@ const products = [
         description: "Execute workflows from Airtable via triggered automation.",
         features: ["Airtable Integration", "Workflow Execution", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/executeworkflow-airtabletool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/executeworkflow-airtabletool-automation-triggered"
     },
     {
         id: 1268,
@@ -13947,7 +13947,7 @@ const products = [
         description: "Execute workflows via webhook automation.",
         features: ["Workflow Execution", "Webhook Automation", "Workflow Management"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/executeworkflow-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/executeworkflow-automation-webhook"
     },
     {
         id: 1269,
@@ -13958,7 +13958,7 @@ const products = [
         description: "Execute workflows and send Gmail messages via triggered automation.",
         features: ["Gmail Integration", "Workflow Execution", "Triggered Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/gmailtool-executeworkflow-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gmailtool-executeworkflow-send-triggered"
     },
     {
         id: 1270,
@@ -13969,7 +13969,7 @@ const products = [
         description: "Create Google Drive files from Telegram via triggered automation.",
         features: ["Telegram Integration", "Google Drive Integration", "Triggered Creation"],
         icon: "📂",
-        buyLink: "https://example.com/workflows/telegram-googledrive-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googledrive-create-triggered"
     },
     {
         id: 1271,
@@ -13980,7 +13980,7 @@ const products = [
         description: "Manually import code data via webhook.",
         features: ["Code Import", "Manual Trigger", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-manual-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-manual-import-webhook"
     },
     {
         id: 1272,
@@ -13991,7 +13991,7 @@ const products = [
         description: "Import Google Drive data to Google Sheets via triggered automation.",
         features: ["Google Drive Integration", "Google Sheets Integration", "Triggered Import"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/googledrive-googlesheets-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googledrive-googlesheets-import-triggered"
     },
     {
         id: 1273,
@@ -14002,7 +14002,7 @@ const products = [
         description: "Automate Google Docs tasks from LinkedIn via webhook.",
         features: ["LinkedIn Integration", "Google Docs Integration", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/linkedin-googledocs-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-googledocs-automate-webhook"
     },
     {
         id: 1274,
@@ -14013,7 +14013,7 @@ const products = [
         description: "Limit and split data via webhook automation.",
         features: ["Data Limiting", "Data Splitting", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/limit-splitout-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/limit-splitout-automate-webhook"
     },
     {
         id: 1275,
@@ -14024,7 +14024,7 @@ const products = [
         description: "Automate Google Calendar tasks with code via triggered workflows.",
         features: ["Google Calendar Integration", "Code Execution", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/code-googlecalendar-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-googlecalendar-automation-triggered"
     },
     {
         id: 1276,
@@ -14035,7 +14035,7 @@ const products = [
         description: "Extract file data with code via webhook automation.",
         features: ["Code Execution", "File Extraction", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/code-extractfromfile-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-extractfromfile-automate-webhook"
     },
     {
         id: 1277,
@@ -14046,7 +14046,7 @@ const products = [
         description: "Convert code output to files via webhook automation.",
         features: ["Code Execution", "File Conversion", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/code-converttofile-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-converttofile-automate-webhook"
     },
     {
         id: 1278,
@@ -14057,7 +14057,7 @@ const products = [
         description: "Send Discord messages with code via triggered automation.",
         features: ["Discord Integration", "Code Execution", "Triggered Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/code-discord-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-discord-send-triggered"
     },
     {
         id: 1279,
@@ -14068,7 +14068,7 @@ const products = [
         description: "Automate N8N tasks on a scheduled basis.",
         features: ["N8N Integration", "Scheduled Automation", "Workflow Management"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/schedule-n8n-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-n8n-automate-scheduled"
     },
 	{
         id: 1280,
@@ -14079,7 +14079,7 @@ const products = [
         description: "Automate sticky note creation from Baserow via webhook.",
         features: ["Baserow Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/baserow-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/baserow-stickynote-automation-webhook"
     },
     {
         id: 1281,
@@ -14090,7 +14090,7 @@ const products = [
         description: "Create records with wait and error handling via webhook.",
 		features: ["Handled via Webhook Automation"],
         icon: "🛑",
-		buyLink: "https://example.com/workflows/stopanderror-wait-create-webhook"
+		buyLink: "http://maken8n.gumroad.com/l/stopanderror-wait-create-webhook"
     },
 	{
         id: 1282,
@@ -14101,7 +14101,7 @@ const products = [
         description: "Split and import data on a scheduled basis.",
         features: ["Data Splitting", "Scheduled Import", "Automation Workflow"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-schedule-import-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-schedule-import-scheduled"
     },
     {
         id: 1283,
@@ -14112,7 +14112,7 @@ const products = [
         description: "Summarize and respond to webhooks via webhook automation.",
         features: ["Data Summarization", "Webhook Response", "Webhook Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/summarize-respondtowebhook-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/summarize-respondtowebhook-automation-webhook"
     },
     {
         id: 1284,
@@ -14123,7 +14123,7 @@ const products = [
         description: "Manually automate Slack tasks via triggered workflows.",
         features: ["Slack Integration", "Manual Trigger", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/manual-slack-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-slack-automation-triggered"
     },
     {
         id: 1285,
@@ -14134,7 +14134,7 @@ const products = [
         description: "Automate Google Docs tasks with code via webhook.",
         features: ["Google Docs Integration", "Code Execution", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/code-googledocs-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-googledocs-automation-webhook"
     },
     {
         id: 1286,
@@ -14145,7 +14145,7 @@ const products = [
         description: "Automate Ghost tasks with code via triggered workflows.",
         features: ["Ghost Integration", "Code Execution", "Triggered Automation"],
         icon: "🖥️",
-        buyLink: "https://example.com/workflows/code-ghost-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-ghost-automation-triggered"
     },
     {
         id: 1287,
@@ -14156,7 +14156,7 @@ const products = [
         description: "Manually automate Telegram tasks via triggered workflows.",
         features: ["Telegram Integration", "Manual Trigger", "Triggered Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-manual-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-manual-automate-triggered"
     },
     {
         id: 1288,
@@ -14167,7 +14167,7 @@ const products = [
         description: "Extract file data and create Google Slides content via triggered automation.",
         features: ["Google Slides Integration", "File Extraction", "Triggered Creation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/googleslides-extractfromfile-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googleslides-extractfromfile-create-triggered"
     },
     {
         id: 1289,
@@ -14178,7 +14178,7 @@ const products = [
         description: "Execute workflows from sticky notes via triggered automation.",
         features: ["Sticky Note Integration", "Workflow Execution", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-executeworkflow-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-executeworkflow-automate-triggered"
     },
     {
         id: 1290,
@@ -14189,7 +14189,7 @@ const products = [
         description: "Automate sticky note creation with error handling via webhook.",
         features: ["Sticky Note Creation", "Error Handling", "Webhook Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/error-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/error-stickynote-automation-webhook"
     },
     {
         id: 1291,
@@ -14200,7 +14200,7 @@ const products = [
         description: "Manually compare datasets via triggered automation.",
         features: ["Dataset Comparison", "Manual Trigger", "Triggered Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-comparedatasets-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-comparedatasets-automation-triggered"
     },
     {
         id: 1292,
@@ -14211,7 +14211,7 @@ const products = [
         description: "Manually create N8N records via triggered automation.",
         features: ["N8N Integration", "Manual Trigger", "Triggered Creation"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/manual-n8n-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-n8n-create-triggered"
     },
 	{
         id: 1293,
@@ -14222,7 +14222,7 @@ const products = [
         description: "Remove duplicates and convert data to files via webhook automation.",
         features: ["Duplicate Removal", "File Conversion", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/removeduplicates-converttofile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/removeduplicates-converttofile-automation-webhook"
     },
 	{
         id: 1294,
@@ -14233,7 +14233,7 @@ const products = [
         description: "Automate sticky note creation from Telegram via webhook.",
         features: ["Telegram Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/telegram-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-stickynote-automation-webhook"
     },
 	{
         id: 1295,
@@ -14244,7 +14244,7 @@ const products = [
         description: "Monitor Slack data on a scheduled basis.",
         features: ["Slack Integration", "Scheduled Monitoring", "Automation Workflow"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/schedule-slack-monitor-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-slack-monitor-scheduled"
     },
     {
         id: 1296,
@@ -14255,7 +14255,7 @@ const products = [
         description: "Automate Gmail tasks from Google Sheets via webhook.",
         features: ["Google Sheets Integration", "Gmail Integration", "Webhook Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/googlesheets-gmail-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/googlesheets-gmail-automation-webhook"
     },
     {
         id: 1297,
@@ -14266,7 +14266,7 @@ const products = [
         description: "Execute commands and create records via webhook.",
         features: ["Code Execution", "Webhook Creation", "Automation Workflow"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-executecommand-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-executecommand-create-webhook"
     },
     {
         id: 1298,
@@ -14277,7 +14277,7 @@ const products = [
         description: "Manually automate Supabase tasks via triggered workflows.",
         features: ["Supabase Integration", "Manual Trigger", "Triggered Automation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/manual-supabase-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-supabase-automation-triggered"
     },
 	{
         id: 1299,
@@ -14288,7 +14288,7 @@ const products = [
         description: "Filter and sync data on a scheduled basis.",
         features: ["Data Filtering", "Scheduled Sync", "Automation Workflow"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/schedule-filter-sync-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-filter-sync-scheduled"
     },
     {
         id: 1300,
@@ -14299,7 +14299,7 @@ const products = [
         description: "Automate Google Calendar tasks from Microsoft Outlook via triggered workflows.",
         features: ["Microsoft Outlook Integration", "Google Calendar Integration", "Triggered Automation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/microsoftoutlook-googlecalendar-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/microsoftoutlook-googlecalendar-automation-triggered"
     },
     {
         id: 1301,
@@ -14310,7 +14310,7 @@ const products = [
         description: "Execute workflows and import data via HTTP webhook.",
         features: ["HTTP Requests", "Workflow Execution", "Webhook Import"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-executeworkflow-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-executeworkflow-import-webhook"
     },
     {
         id: 1302,
@@ -14321,7 +14321,7 @@ const products = [
         description: "Automate Google Calendar tasks via triggered workflows.",
         features: ["Google Calendar Integration", "Triggered Automation", "Workflow Management"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/googlecalendartool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googlecalendartool-automation-triggered"
     },
     {
         id: 1303,
@@ -14332,7 +14332,7 @@ const products = [
         description: "Automate Gumroad tasks from Mailerlite via webhook.",
         features: ["Mailerlite Integration", "Gumroad Integration", "Webhook Automation"],
         icon: "🛒",
-        buyLink: "https://example.com/workflows/mailerlite-gumroad-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/mailerlite-gumroad-automation-webhook"
     },
     {
         id: 1304,
@@ -14343,7 +14343,7 @@ const products = [
         description: "Monitor Slack data with wait mechanism via triggered automation.",
         features: ["Slack Integration", "Wait Mechanism", "Triggered Monitoring"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/wait-slack-monitor-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/wait-slack-monitor-triggered"
     },
     {
         id: 1305,
@@ -14354,7 +14354,7 @@ const products = [
         description: "Manually automate Markdown tasks via webhook.",
         features: ["Markdown Formatting", "Manual Trigger", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/manual-markdown-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-markdown-automation-webhook"
     },
     {
         id: 1306,
@@ -14365,7 +14365,7 @@ const products = [
         description: "Import form data via HTTP webhook.",
         features: ["Form Processing", "HTTP Requests", "Webhook Import"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/http-form-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-form-import-webhook"
     },
     {
         id: 1307,
@@ -14376,7 +14376,7 @@ const products = [
         description: "Automate Markdown-formatted forms via webhook.",
         features: ["Form Processing", "Markdown Formatting", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/form-markdown-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/form-markdown-automation-webhook"
     },
     {
         id: 1308,
@@ -14387,7 +14387,7 @@ const products = [
         description: "Automate Mautic tasks with no-operation via webhook.",
         features: ["Mautic Integration", "No-Operation", "Webhook Automation"],
         icon: "📈",
-        buyLink: "https://example.com/workflows/noop-mautic-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/noop-mautic-automation-webhook"
     },
     {
         id: 1309,
@@ -14398,7 +14398,7 @@ const products = [
         description: "Automate Gmail tasks via HTTP webhook.",
         features: ["Gmail Integration", "HTTP Requests", "Webhook Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/http-gmail-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-gmail-automate-webhook"
     },
     {
         id: 1310,
@@ -14409,7 +14409,7 @@ const products = [
         description: "Automate Gitlab tasks with code via webhook.",
         features: ["Gitlab Integration", "Code Execution", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/gitlab-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/gitlab-code-automation-webhook"
     },
     {
         id: 1311,
@@ -14420,7 +14420,7 @@ const products = [
         description: "Split and export data with stop and error handling on a scheduled basis.",
         features: ["Data Splitting", "Error Handling", "Scheduled Export"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/stopanderror-splitout-export-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/stopanderror-splitout-export-scheduled"
     },
     {
         id: 1312,
@@ -14431,7 +14431,7 @@ const products = [
         description: "Filter and sync data via webhook.",
         features: ["Data Filtering", "Webhook Sync", "Automation Workflow"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/webhook-filter-sync-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-filter-sync-webhook"
     },
     {
         id: 1313,
@@ -14442,7 +14442,7 @@ const products = [
         description: "Create sticky notes from Airtable via triggered automation.",
         features: ["Airtable Integration", "Sticky Note Creation", "Triggered Creation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-airtabletool-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-airtabletool-create-triggered"
     },
     {
         id: 1314,
@@ -14453,7 +14453,7 @@ const products = [
         description: "Manually filter and automate tasks on a scheduled basis.",
         features: ["Data Filtering", "Manual Trigger", "Scheduled Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/manual-filter-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/manual-filter-automate-scheduled"
     },
     {
         id: 1315,
@@ -14464,7 +14464,7 @@ const products = [
         description: "Execute workflows and update sticky notes via webhook.",
         features: ["Sticky Note Integration", "Workflow Execution", "Webhook Updates"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-executeworkflow-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-executeworkflow-update-webhook"
     },
     {
         id: 1316,
@@ -14475,7 +14475,7 @@ const products = [
         description: "Split and automate Google Docs data via webhook.",
         features: ["Google Docs Integration", "Data Splitting", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/splitout-googledocs-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-googledocs-automation-webhook"
     },
     {
         id: 1317,
@@ -14486,7 +14486,7 @@ const products = [
         description: "Limit and process Telegram data via webhook.",
         features: ["Telegram Integration", "Data Limiting", "Webhook Processing"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-limit-process-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-limit-process-webhook"
     },
     {
         id: 1318,
@@ -14497,7 +14497,7 @@ const products = [
         description: "Automate Google Analytics tasks from Telegram via webhook.",
         features: ["Telegram Integration", "Google Analytics Integration", "Webhook Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/telegram-googleanalytics-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googleanalytics-automation-webhook"
     },
     {
         id: 1319,
@@ -14508,7 +14508,7 @@ const products = [
         description: "Convert sticky notes to files via triggered automation.",
         features: ["Sticky Note Integration", "File Conversion", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-converttofile-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-converttofile-automation-triggered"
     },
     {
         id: 1320,
@@ -14519,7 +14519,7 @@ const products = [
         description: "Automate Asana tasks from forms via triggered workflows.",
         features: ["Asana Integration", "Form Processing", "Triggered Automation"],
         icon: "📋",
-        buyLink: "https://example.com/workflows/form-asana-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-asana-automate-triggered"
     },
     {
         id: 1321,
@@ -14530,7 +14530,7 @@ const products = [
         description: "Automate Gmail tasks via triggered workflows.",
         features: ["Gmail Integration", "Triggered Automation", "Workflow Management"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/gmailtool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gmailtool-automation-triggered"
     },
 	{
         id: 1322,
@@ -14541,7 +14541,7 @@ const products = [
         description: "Automate sticky note creation from Discord via webhook.",
         features: ["Discord Integration", "Sticky Note Creation", "Webhook Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/discordtool-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/discordtool-stickynote-automation-webhook"
     },
     {
         id: 1323,
@@ -14552,7 +14552,7 @@ const products = [
         description: "Send sticky notes via Gmail with triggered automation.",
         features: ["Gmail Integration", "Sticky Note Sending", "Triggered Automation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/gmail-stickynote-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/gmail-stickynote-send-triggered"
     },
     {
         id: 1324,
@@ -14563,7 +14563,7 @@ const products = [
         description: "Execute workflows via triggered automation.",
         features: ["Workflow Execution", "Triggered Automation", "Workflow Management"],
         icon: "⚙️",
-        buyLink: "https://example.com/workflows/executeworkflow-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/executeworkflow-automation-triggered"
     },
     {
         id: 1325,
@@ -14574,7 +14574,7 @@ const products = [
         description: "Create sticky notes from Clockify via triggered automation.",
         features: ["Clockify Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/clockify-stickynote-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/clockify-stickynote-create-triggered"
     },
     {
         id: 1326,
@@ -14585,7 +14585,7 @@ const products = [
         description: "Export code data via webhook automation.",
         features: ["Code Execution", "Webhook Export", "Automation Workflow"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-webhook-export-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-webhook-export-webhook"
     },
     {
         id: 1327,
@@ -14596,7 +14596,7 @@ const products = [
         description: "Automate Microsoft Outlook tasks via triggered workflows.",
         features: ["Microsoft Outlook Integration", "Triggered Automation", "Workflow Management"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/microsoftoutlook-microsoftoutlooktool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/microsoftoutlook-microsoftoutlooktool-automation-triggered"
     },
     {
         id: 1328,
@@ -14607,7 +14607,7 @@ const products = [
         description: "Split sticky notes in batches via triggered automation.",
         features: ["Sticky Note Integration", "Data Splitting", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-splitinbatches-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-splitinbatches-automation-triggered"
     },
     {
         id: 1329,
@@ -14618,7 +14618,7 @@ const products = [
         description: "Automate Odoo tasks on a scheduled basis.",
         features: ["Odoo Integration", "Scheduled Automation", "Workflow Management"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/odoo-schedule-automate-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/odoo-schedule-automate-scheduled"
     },
     {
         id: 1330,
@@ -14629,7 +14629,7 @@ const products = [
         description: "Send Telegram messages on a scheduled basis.",
         features: ["Telegram Integration", "Scheduled Sending", "Automation Workflow"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/schedule-telegram-send-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-telegram-send-scheduled"
     },
     {
         id: 1331,
@@ -14640,7 +14640,7 @@ const products = [
         description: "Create Redis data with code via webhook.",
         features: ["Redis Integration", "Code Execution", "Webhook Creation"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/redis-code-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/redis-code-create-webhook"
     },
     {
         id: 1332,
@@ -14651,7 +14651,7 @@ const products = [
         description: "Split and limit data via triggered automation.",
         features: ["Data Splitting", "Data Limiting", "Triggered Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-limit-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-limit-automation-triggered"
     },
     {
         id: 1333,
@@ -14662,7 +14662,7 @@ const products = [
         description: "Automate LinkedIn tasks with code via webhook.",
         features: ["LinkedIn Integration", "Code Execution", "Webhook Automation"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/linkedin-code-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-code-automation-webhook"
     },
     {
         id: 1334,
@@ -14673,7 +14673,7 @@ const products = [
         description: "Limit and export Telegram data on a scheduled basis.",
         features: ["Telegram Integration", "Data Limiting", "Scheduled Export"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-limit-export-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-limit-export-scheduled"
     },
     {
         id: 1335,
@@ -14684,7 +14684,7 @@ const products = [
         description: "Send Telegram messages from Microsoft Outlook via triggered automation.",
         features: ["Microsoft Outlook Integration", "Telegram Integration", "Triggered Sending"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/microsoftoutlook-telegram-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/microsoftoutlook-telegram-send-triggered"
     },
     {
         id: 1336,
@@ -14695,7 +14695,7 @@ const products = [
         description: "Import Telegram data on a scheduled basis.",
         features: ["Telegram Integration", "Scheduled Import", "Automation Workflow"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-schedule-import-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-schedule-import-scheduled"
     },
     {
         id: 1337,
@@ -14706,7 +14706,7 @@ const products = [
         description: "Split and import data via webhook.",
         features: ["Data Splitting", "Webhook Import", "Automation Workflow"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-webhook-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-webhook-import-webhook"
     },
     {
         id: 1338,
@@ -14717,7 +14717,7 @@ const products = [
         description: "Create sticky notes from Supabase via triggered automation.",
         features: ["Supabase Integration", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-supabasetool-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-supabasetool-automation-triggered"
     },
     {
         id: 1339,
@@ -14728,7 +14728,7 @@ const products = [
         description: "Automate LinkedIn tasks via webhook.",
         features: ["LinkedIn Integration", "Webhook Automation", "Workflow Management"],
         icon: "📱",
-        buyLink: "https://example.com/workflows/linkedin-webhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/linkedin-webhook-automate-webhook"
     },
     {
         id: 1340,
@@ -14739,7 +14739,7 @@ const products = [
         description: "Monitor HTTP data via webhook on a schedule.",
         features: ["HTTP Requests", "Scheduled Monitoring", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/schedule-http-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-http-monitor-webhook"
     },
     {
         id: 1341,
@@ -14750,7 +14750,7 @@ const products = [
         description: "Monitor and respond to webhooks with sticky notes via webhook.",
         features: ["Webhook Response", "Sticky Note Integration", "Webhook Monitoring"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/respondtowebhook-stickynote-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/respondtowebhook-stickynote-monitor-webhook"
     },
     {
         id: 1342,
@@ -14761,7 +14761,7 @@ const products = [
         description: "Split and automate data with wait mechanism on a scheduled basis.",
         features: ["Data Splitting", "Wait Mechanism", "Scheduled Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/wait-splitout-automation-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/wait-splitout-automation-scheduled"
     },
     {
         id: 1343,
@@ -14772,7 +14772,7 @@ const products = [
         description: "Create Gmail messages from Mailjet via triggered automation.",
         features: ["Mailjet Integration", "Gmail Integration", "Triggered Creation"],
         icon: "📧",
-        buyLink: "https://example.com/workflows/mailjet-gmail-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/mailjet-gmail-create-triggered"
     },
     {
         id: 1344,
@@ -14783,7 +14783,7 @@ const products = [
         description: "Automate sticky note creation from forms via triggered workflows.",
         features: ["Form Processing", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/form-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/form-stickynote-automation-triggered"
     },
     {
         id: 1345,
@@ -14794,7 +14794,7 @@ const products = [
         description: "Send Slack messages with code via triggered automation.",
         features: ["Slack Integration", "Code Execution", "Triggered Sending"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/code-slack-send-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-slack-send-triggered"
     },
     {
         id: 1346,
@@ -14805,7 +14805,7 @@ const products = [
         description: "Manually import binary file data via triggered automation.",
         features: ["Binary File Processing", "Manual Trigger", "Triggered Import"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/manual-readbinaryfile-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/manual-readbinaryfile-import-triggered"
     },
     {
         id: 1347,
@@ -14816,7 +14816,7 @@ const products = [
         description: "Aggregate and automate data via HTTP webhook.",
         features: ["HTTP Requests", "Data Aggregation", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-aggregate-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-aggregate-automation-webhook"
     },
     {
         id: 1348,
@@ -14827,7 +14827,7 @@ const products = [
         description: "Automate sticky note creation with code via triggered workflows.",
         features: ["Code Execution", "Sticky Note Creation", "Triggered Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/code-stickynote-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-stickynote-automation-triggered"
     },
     {
         id: 1349,
@@ -14838,7 +14838,7 @@ const products = [
         description: "Manually sync split data via webhook.",
         features: ["Data Splitting", "Manual Trigger", "Webhook Sync"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-manual-sync-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-manual-sync-webhook"
     },
     {
         id: 1350,
@@ -14849,7 +14849,7 @@ const products = [
         description: "Manually automate tasks via HTTP webhook.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Automation"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-http-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-http-automate-webhook"
     },
     {
         id: 1351,
@@ -14860,7 +14860,7 @@ const products = [
         description: "Automate sticky note creation with execution data via webhook.",
         features: ["Sticky Note Creation", "Execution Data", "Webhook Automation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/executiondata-stickynote-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/executiondata-stickynote-automation-webhook"
     },
     {
         id: 1352,
@@ -14871,7 +14871,7 @@ const products = [
         description: "Manually import data via HTTP webhook.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Import"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/http-manual-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/http-manual-import-webhook"
     },
     {
         id: 1353,
@@ -14882,7 +14882,7 @@ const products = [
         description: "Automate Google Docs tasks from Telegram via webhook.",
         features: ["Telegram Integration", "Google Docs Integration", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/telegram-googledocs-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-googledocs-automation-webhook"
     },
     {
         id: 1354,
@@ -14893,7 +14893,7 @@ const products = [
         description: "Split and convert data to files via webhook automation.",
         features: ["Data Splitting", "File Conversion", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/splitout-converttofile-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-converttofile-automation-webhook"
     },
     {
         id: 1355,
@@ -14904,7 +14904,7 @@ const products = [
         description: "Execute commands with code via webhook automation.",
         features: ["Code Execution", "Command Execution", "Webhook Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-executecommand-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/code-executecommand-automation-webhook"
     },
     {
         id: 1356,
@@ -14915,7 +14915,7 @@ const products = [
         description: "Convert data to files via HTTP webhook automation.",
         features: ["File Conversion", "HTTP Requests", "Webhook Automation"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/converttofile-http-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/converttofile-http-automation-webhook"
     },
     {
         id: 1357,
@@ -14926,7 +14926,7 @@ const products = [
         description: "Create Jira tasks from sticky notes via webhook.",
         features: ["Sticky Note Integration", "Jira Integration", "Webhook Creation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-jira-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-jira-create-webhook"
     },
     {
         id: 1358,
@@ -14937,7 +14937,7 @@ const products = [
         description: "Create sticky notes from Airtable via triggered automation.",
         features: ["Airtable Integration", "Sticky Note Creation", "Triggered Creation"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-airtable-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-airtable-create-triggered"
     },
     {
         id: 1359,
@@ -14948,7 +14948,7 @@ const products = [
         description: "Manually automate GitHub tasks via triggered workflows.",
         features: ["GitHub Integration", "Manual Trigger", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/github-manual-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/github-manual-automate-triggered"
     },
     {
         id: 1360,
@@ -14959,7 +14959,7 @@ const products = [
         description: "Automate code execution with error handling via triggered workflows.",
         features: ["Code Execution", "Error Handling", "Triggered Automation"],
         icon: "🛑",
-        buyLink: "https://example.com/workflows/error-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/error-code-automation-triggered"
     },
     {
         id: 1361,
@@ -14970,7 +14970,7 @@ const products = [
         description: "Split and sync Postgres data on a scheduled basis.",
         features: ["Postgres Integration", "Data Splitting", "Scheduled Sync"],
         icon: "🗄️",
-        buyLink: "https://example.com/workflows/splitout-postgres-sync-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-postgres-sync-scheduled"
     },
     {
         id: 1362,
@@ -14981,7 +14981,7 @@ const products = [
         description: "Manually import data via HTTP webhook.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Import"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-http-import-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-http-import-webhook"
     },
     {
         id: 1363,
@@ -14992,7 +14992,7 @@ const products = [
         description: "Monitor Telegram data via webhook on a schedule.",
         features: ["Telegram Integration", "Scheduled Monitoring", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/telegram-schedule-monitor-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-schedule-monitor-webhook"
     },
     {
         id: 1364,
@@ -15003,7 +15003,7 @@ const products = [
         description: "Manually automate filtered data via webhook.",
         features: ["Data Filtering", "Manual Trigger", "Webhook Automation"],
         icon: "🔍",
-        buyLink: "https://example.com/workflows/filter-manual-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/filter-manual-automation-webhook"
     },
     {
         id: 1365,
@@ -15014,7 +15014,7 @@ const products = [
         description: "Automate GraphQL tasks via webhook.",
         features: ["GraphQL Integration", "Webhook Automation", "Workflow Management"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/webhook-graphql-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/webhook-graphql-automate-webhook"
     },
     {
         id: 1366,
@@ -15025,7 +15025,7 @@ const products = [
         description: "Automate sticky note creation via webhook.",
         features: ["Sticky Note Creation", "Webhook Automation", "Workflow Management"],
         icon: "📝",
-        buyLink: "https://example.com/workflows/stickynote-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/stickynote-automate-webhook"
     },
     {
         id: 1367,
@@ -15036,7 +15036,7 @@ const products = [
         description: "Automate tasks with wait and limit mechanisms via webhook.",
         features: ["Wait Mechanism", "Data Limiting", "Webhook Automation"],
         icon: "⏰",
-        buyLink: "https://example.com/workflows/wait-limit-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/wait-limit-automation-webhook"
     },
     {
         id: 1368,
@@ -15047,7 +15047,7 @@ const products = [
         description: "Split data with no-operation via webhook automation.",
         features: ["Data Splitting", "No-Operation", "Webhook Automation"],
         icon: "🔄",
-        buyLink: "https://example.com/workflows/splitout-noop-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/splitout-noop-automation-webhook"
     },
     {
         id: 1369,
@@ -15058,7 +15058,7 @@ const products = [
         description: "Create calendar events from Telegram via webhook.",
         features: ["Telegram Integration", "Calendar Integration", "Webhook Creation"],
         icon: "📅",
-        buyLink: "https://example.com/workflows/telegram-cal-create-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/telegram-cal-create-webhook"
     },
     {
         id: 1370,
@@ -15069,7 +15069,7 @@ const products = [
         description: "Create records with no-operation using code via triggered automation.",
         features: ["Code Execution", "No-Operation", "Triggered Creation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/code-noop-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/code-noop-create-triggered"
     },
     {
         id: 1371,
@@ -15080,7 +15080,7 @@ const products = [
         description: "Manually extract file data and update via webhook.",
         features: ["File Extraction", "Manual Trigger", "Webhook Updates"],
         icon: "📄",
-        buyLink: "https://example.com/workflows/manual-extractfromfile-update-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-extractfromfile-update-webhook"
     },
     {
         id: 1372,
@@ -15091,7 +15091,7 @@ const products = [
         description: "Automate Hunter tasks from Discord via triggered workflows.",
         features: ["Discord Integration", "Hunter Integration", "Triggered Automation"],
         icon: "💬",
-        buyLink: "https://example.com/workflows/discord-hunter-automate-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/discord-hunter-automate-triggered"
     },
     {
         id: 1373,
@@ -15102,7 +15102,7 @@ const products = [
         description: "Automate code execution with wait mechanism via triggered workflows.",
         features: ["Code Execution", "Wait Mechanism", "Triggered Automation"],
         icon: "💻",
-        buyLink: "https://example.com/workflows/wait-code-automation-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/wait-code-automation-triggered"
     },
     {
         id: 1374,
@@ -15113,7 +15113,7 @@ const products = [
         description: "Respond to webhooks with WhatsApp via webhook automation.",
         features: ["WhatsApp Integration", "Webhook Response", "Webhook Automation"],
         icon: "📩",
-        buyLink: "https://example.com/workflows/whatsapp-respondtowebhook-automate-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/whatsapp-respondtowebhook-automate-webhook"
     },
     {
         id: 1375,
@@ -15124,7 +15124,7 @@ const products = [
         description: "Create Google Tasks from Gmail via triggered automation.",
         features: ["Google Tasks Integration", "Gmail Integration", "Triggered Creation"],
         icon: "✅",
-        buyLink: "https://example.com/workflows/googletasks-gmail-create-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/googletasks-gmail-create-triggered"
     },
     {
         id: 1376,
@@ -15135,7 +15135,7 @@ const products = [
         description: "Manually send data via HTTP webhook.",
         features: ["HTTP Requests", "Manual Trigger", "Webhook Sending"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/manual-http-send-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-http-send-webhook"
     },
     {
         id: 1377,
@@ -15146,7 +15146,7 @@ const products = [
         description: "Manually automate Google Sheets tasks via webhook.",
         features: ["Google Sheets Integration", "Manual Trigger", "Webhook Automation"],
         icon: "📊",
-        buyLink: "https://example.com/workflows/manual-googlesheets-automation-webhook"
+        buyLink: "http://maken8n.gumroad.com/l/manual-googlesheets-automation-webhook"
     },
     {
         id: 1378,
@@ -15157,7 +15157,7 @@ const products = [
         description: "Filter and import binary file data via triggered automation.",
         features: ["Binary File Processing", "Data Filtering", "Triggered Import"],
         icon: "📁",
-        buyLink: "https://example.com/workflows/readbinaryfiles-filter-import-triggered"
+        buyLink: "http://maken8n.gumroad.com/l/readbinaryfiles-filter-import-triggered"
     },
     {
         id: 1379,
@@ -15168,7 +15168,7 @@ const products = [
         description: "Create HTTP data on a scheduled basis.",
         features: ["HTTP Requests", "Scheduled Creation", "Automation Workflow"],
         icon: "🌐",
-        buyLink: "https://example.com/workflows/schedule-http-create-scheduled"
+        buyLink: "http://maken8n.gumroad.com/l/schedule-http-create-scheduled"
     },
     {
         id: 1380,
@@ -15179,6 +15179,6 @@ const products = [
         description: "Generate collaborative handbooks using GPT-4o with multi-agent orchestration and human review.",
         features: ["GPT-4o Integration", "Multi-Agent Orchestration", "Human Review Workflow"],
         icon: "📖",
-        buyLink: "https://example.com/workflows/generate-collaborative-handbooks-gpt4o-multi-agent-orchestration-human-review"
+        buyLink: "http://maken8n.gumroad.com/l/generate-collaborative-handbooks-gpt4o-multi-agent-orchestration-human-review"
     }
 ];
